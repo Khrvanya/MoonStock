@@ -1,0 +1,495 @@
+Buildings focus A brand new 5-bay slatted unit with a lie-back area and crush in Co. CorkLast week, AgriLand paid a visit to Denis O'Mahony - a beef and sheep farmer - in Bantry, Co. Cork, who has built a brand new slatted unit.
+Farming alongside his father, Denis works full-time off-farm; however, the plan is to go full-time farming in the future.
+The duo have been renting two sheds over the last few years, to accommodate their herd of 60 suckler cows and their flock of 200 ewes.
+In 2018, Denis felt it was time that they built their own housing and handling facilities - closer to home.
+Therefore, work began on clearing wasteground - that was overgrown with gorse and bracken - into what is now home to a brand new slatted unit.
+Due to the extent of groundwork that had to be carried out, the project wasn't finished in time to house the cows over the winter period of 2018/2019. The duo had to wait until last October to make use of their new facilities, which Denis says "was well worth the wait".
+
+Site
+The site that the new slatted unit was erected on required a lot of clearing and digging - to find a solid base to start building on.
+The excavation work was carried out by O'Connor Plant Hire. Over 8ft of soil/bog was taken out of the site, with a lot of fill required to bring it up to the level of the road.
+Speaking to AgriLand, Denis said: "The biggest job was digging out the site. It took a long time to cut down the trees and find a level base that we could start building from.
+"We let the soil settle for a while before we covered it with stones, in case it would sink. It probably took the entire summer of 2018 to get the site right before we could think about putting in the tank.
+"The shed would have been finished a lot sooner if it was built on fairly good ground. The main reason for building it there was because it's across the road from my own house, which makes it easy for me to check on the cows if they are due to calve."
+Image source: Denis O'Mahony
+Layout and design
+The shed was erected by Tim Lyons Engineering. The slats were sourced and installed by W&M Kiely.
+Denis was advised to put in a wide feeding passageway, and he was glad he did. This extra-wide area allows him to store straw in the shed, which he uses to bed his newly-born calves with.
+The design includes a five-bay slatted unit; with a creep area; and a crush at the back of the shed.
+The building is 24m long and 16.8m wide. The unit stands 7.5m high to the apex and 4.6m to the eve gutters.
+The concrete walls of the shed stand 2.4m high. The slatted tank is 26m long, 5m wide and 3m deep.
+Data source: O'Donovan Engineering
+The 10 pens are 5m wide and 4.8m long. The feeding passageway is 24m long and 5m wide.
+The crush at the back of the shed is 14.4m long and 0.9m wide. The canopy that protrudes out past the shed over the crush area is 1.8m wide.
+Inside the unit
+One thing Denis wanted from day one was a creep area for his calves. The O'Mahonys operate both a spring and autumn-calving system.
+Therefore, there are cows calving inside the unit during the wintertime, so they needed an area where their calves could lie comfortably.
+There are 8ft X 4ft mats installed in the creep area for the calves to lie on. These were sourced from Mayo Mats.
+The mats only cover half of the creep area. The other half is made up of bare concrete, which Denis cleans with a hand scraper into the slatted tank twice a day.
+With his full-time job, Denis has had the opportunity to see other beef sheds that have been built in this region. So he was able to take a few ideas from other units and apply them to his own.
+Having put in a creep area, there was a need for a creep gate, so that calves could access the cows in the slatted area.
+There are two three-in-one calving gates installed in the unit, which offers Denis flexibility within the shed when it comes to isolating cows that are close to calving from the rest of the herd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Of the five creep areas, one pen is designated for newly-born calves and it is bedded with straw. Originally, Denis bedded all five creep pens with straw. However, as the calves got bigger, it became harder to manage, as the calves were trampling the straw and dragging it into the slatted unit.
+So, he made the decision to invest in mats and he hasn't looked back since, with no issues of lameness to report either.
+Denis said: "The mats were a great investment. When you come into the shed, the calves are lined the whole way down the shed on the mats.
+"Compared to the straw, the shed is much cleaner and there is less work now as all I have to do is go in with the hand scraper and clean the small bit of open concrete which takes about 10 minutes to do."
+
+Like many other new units, Denis opted to install head-locking barriers in each of the five bays, which he says "have been the best investment in the unit".
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+He said: "The head-locking barriers have come in really handy when we are dosing the cows. All I have to do is set the gates to lock and throw a bit of silage in front of them and they're locked in.
+"They are expensive to install, but if you want to get jobs done fast and become efficient, you have to bite the bullet and do it - even though with the way beef is gone it is that bit harder to justify doing."
+The entire inside of the shed was kitted out by O'Donovan Engineering.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Crush
+At the back of the unit is a crush that Denis in the process of applying the finishing touches to. This is despite the fact that the head-locking barriers cut out the need for a crush for many jobs.
+Denis said he needs a crush mainly for handling his weanlings and for herd testing. The way the chute is designed means that the cattle can exit the shed from one side and come back in the other side by running through the crush.
+The roof of the shed protrudes out past the crush, which will help keep the cattle, and the O'Mahonys too, relatively dry if it is raining while they are - for example - dosing.
+
+Denis is in the process of making a pen at the far side of the crush - where the cattle will exit. It will act as a collecting area, if they want to load cattle onto a trailer.
+He also installed a heavy-duty crush gate - with an adjustable neck width to suit different-size animals. This crush gate is semi-automatic, which allows for increased safety while handling livestock.
+This crush gate has a unique feature of a lock-open facility to ease emptying of the race. There is an added safety feature of buffer plates to reduce the risk of an accidental opening of the gate by an animal.
+Also incorporated into the design of the crush is an anti-backing gate, which prevents the cattle from moving backwards in the chute.
+The crush and gates were sourced from O'Donovan Engineering.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Ventilation
+In total, there could be up to 60 cattle in the shed, split 50/50 between cows and calves. Therefore, with that many cattle confined into one area, it can become quite warm.
+To counteract this problem, Denis opted to install vented sheeting to increase the airflow in and out of the shed.
+There are four sliding doors in the shed, two of which allow Denis access to feed his cattle along the passageway, while the other two doors are located at either end of the shed - leading into the calf creep area.
+If the weather is anyways mild and dry, Denis will open one if not two of the doors to allow air to circulate through the shed.  Furthermore, incorporated into the design of the shed are 10 clear roof lights.
+Originally, the plan was to incorporate space sheeting on the roof. However, after thinking about it, Denis opted against it in case water would drip down on the newly-born calves.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Would you make any changes?
+Looking back on his first winter using the shed, Denis says he would like to install mats on the slats where the cows lie.
+He explained: "The cows have been housed since last October and, by the time they get out to pasture, they will be in the shed for about five months.
+"I just think this is too long to ask a cow to stand on a hard concrete floor. So, I plan to have mats in time for housing next winter.
+"We housed the stock bull for about two weeks and we had to let him out again because he was getting sore.
+"Heavier cattle are going to find it harder - on their legs - standing on the slats for a long period of time compared to lighter cattle...in my opinion.
+"In saying that, I have had no issues with lameness with the cows. I just feel as if they would be more comfortable lying on mats."
+Timeline and cost
+The build began in the summer of 2018 and it was completed in March of 2019.
+The project was carried out with the aid of the Targeted Agricultural Modernisation Scheme (TAMS).
+The overall cost of the build was EUR115,000 (including VAT).
+Commenting on the build, Denis said: "My father and I have said over the last while that we wanted to increase cow numbers and the only way we were going to be able to do that was to build a new housing facility.
+"Also, the weather we have been getting has been nothing short of a disaster. It has been raining here since last August and now that we have the new shed we have the option of housing cattle that bit earlier if we want.
+The fact that I could avail of the TAMS grant was a huge reason for going ahead and building the shed. The way beef prices are gone it is hard to justify building a brand new shed.
+"However, with the help of the grant, we were confident we could pay it back and, hopefully, in the near future we will see beef farmers rewarded with good prices for their cattle," Denis concluded.
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+Farming alongside his father, Denis works full-time off-farm; however, the plan is to go full-time farming in the future.
+The duo have been renting two sheds over the last few years, to accommodate their herd of 60 suckler cows and their flock of 200 ewes.
+In 2018, Denis felt it was time that they built their own housing and handling facilities - closer to home.
+Therefore, work began on clearing wasteground - that was overgrown with gorse and bracken - into what is now home to a brand new slatted unit.
+Due to the extent of groundwork that had to be carried out, the project wasn't finished in time to house the cows over the winter period of 2018/2019. The duo had to wait until last October to make use of their new facilities, which Denis says "was well worth the wait".
+
+Site
+The site that the new slatted unit was erected on required a lot of clearing and digging - to find a solid base to start building on.
+The excavation work was carried out by O'Connor Plant Hire. Over 8ft of soil/bog was taken out of the site, with a lot of fill required to bring it up to the level of the road.
+Speaking to AgriLand, Denis said: "The biggest job was digging out the site. It took a long time to cut down the trees and find a level base that we could start building from.
+"We let the soil settle for a while before we covered it with stones, in case it would sink. It probably took the entire summer of 2018 to get the site right before we could think about putting in the tank.
+"The shed would have been finished a lot sooner if it was built on fairly good ground. The main reason for building it there was because it's across the road from my own house, which makes it easy for me to check on the cows if they are due to calve."
+Image source: Denis O'Mahony
+Layout and design
+The shed was erected by Tim Lyons Engineering. The slats were sourced and installed by W&M Kiely.
+Denis was advised to put in a wide feeding passageway, and he was glad he did. This extra-wide area allows him to store straw in the shed, which he uses to bed his newly-born calves with.
+The design includes a five-bay slatted unit; with a creep area; and a crush at the back of the shed.
+The building is 24m long and 16.8m wide. The unit stands 7.5m high to the apex and 4.6m to the eve gutters.
+The concrete walls of the shed stand 2.4m high. The slatted tank is 26m long, 5m wide and 3m deep.
+Data source: O'Donovan Engineering
+The 10 pens are 5m wide and 4.8m long. The feeding passageway is 24m long and 5m wide.
+The crush at the back of the shed is 14.4m long and 0.9m wide. The canopy that protrudes out past the shed over the crush area is 1.8m wide.
+Inside the unit
+One thing Denis wanted from day one was a creep area for his calves. The O'Mahonys operate both a spring and autumn-calving system.
+Therefore, there are cows calving inside the unit during the wintertime, so they needed an area where their calves could lie comfortably.
+There are 8ft X 4ft mats installed in the creep area for the calves to lie on. These were sourced from Mayo Mats.
+The mats only cover half of the creep area. The other half is made up of bare concrete, which Denis cleans with a hand scraper into the slatted tank twice a day.
+With his full-time job, Denis has had the opportunity to see other beef sheds that have been built in this region. So he was able to take a few ideas from other units and apply them to his own.
+Having put in a creep area, there was a need for a creep gate, so that calves could access the cows in the slatted area.
+There are two three-in-one calving gates installed in the unit, which offers Denis flexibility within the shed when it comes to isolating cows that are close to calving from the rest of the herd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Of the five creep areas, one pen is designated for newly-born calves and it is bedded with straw. Originally, Denis bedded all five creep pens with straw. However, as the calves got bigger, it became harder to manage, as the calves were trampling the straw and dragging it into the slatted unit.
+So, he made the decision to invest in mats and he hasn't looked back since, with no issues of lameness to report either.
+Denis said: "The mats were a great investment. When you come into the shed, the calves are lined the whole way down the shed on the mats.
+"Compared to the straw, the shed is much cleaner and there is less work now as all I have to do is go in with the hand scraper and clean the small bit of open concrete which takes about 10 minutes to do."
+
+Like many other new units, Denis opted to install head-locking barriers in each of the five bays, which he says "have been the best investment in the unit".
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+He said: "The head-locking barriers have come in really handy when we are dosing the cows. All I have to do is set the gates to lock and throw a bit of silage in front of them and they're locked in.
+"They are expensive to install, but if you want to get jobs done fast and become efficient, you have to bite the bullet and do it - even though with the way beef is gone it is that bit harder to justify doing."
+The entire inside of the shed was kitted out by O'Donovan Engineering.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Crush
+At the back of the unit is a crush that Denis in the process of applying the finishing touches to. This is despite the fact that the head-locking barriers cut out the need for a crush for many jobs.
+Denis said he needs a crush mainly for handling his weanlings and for herd testing. The way the chute is designed means that the cattle can exit the shed from one side and come back in the other side by running through the crush.
+The roof of the shed protrudes out past the crush, which will help keep the cattle, and the O'Mahonys too, relatively dry if it is raining while they are - for example - dosing.
+
+Denis is in the process of making a pen at the far side of the crush - where the cattle will exit. It will act as a collecting area, if they want to load cattle onto a trailer.
+He also installed a heavy-duty crush gate - with an adjustable neck width to suit different-size animals. This crush gate is semi-automatic, which allows for increased safety while handling livestock.
+This crush gate has a unique feature of a lock-open facility to ease emptying of the race. There is an added safety feature of buffer plates to reduce the risk of an accidental opening of the gate by an animal.
+Also incorporated into the design of the crush is an anti-backing gate, which prevents the cattle from moving backwards in the chute.
+The crush and gates were sourced from O'Donovan Engineering.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Ventilation
+In total, there could be up to 60 cattle in the shed, split 50/50 between cows and calves. Therefore, with that many cattle confined into one area, it can become quite warm.
+To counteract this problem, Denis opted to install vented sheeting to increase the airflow in and out of the shed.
+There are four sliding doors in the shed, two of which allow Denis access to feed his cattle along the passageway, while the other two doors are located at either end of the shed - leading into the calf creep area.
+If the weather is anyways mild and dry, Denis will open one if not two of the doors to allow air to circulate through the shed.  Furthermore, incorporated into the design of the shed are 10 clear roof lights.
+Originally, the plan was to incorporate space sheeting on the roof. However, after thinking about it, Denis opted against it in case water would drip down on the newly-born calves.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Would you make any changes?
+Looking back on his first winter using the shed, Denis says he would like to install mats on the slats where the cows lie.
+He explained: "The cows have been housed since last October and, by the time they get out to pasture, they will be in the shed for about five months.
+"I just think this is too long to ask a cow to stand on a hard concrete floor. So, I plan to have mats in time for housing next winter.
+"We housed the stock bull for about two weeks and we had to let him out again because he was getting sore.
+"Heavier cattle are going to find it harder - on their legs - standing on the slats for a long period of time compared to lighter cattle...in my opinion.
+"In saying that, I have had no issues with lameness with the cows. I just feel as if they would be more comfortable lying on mats."
+Timeline and cost
+The build began in the summer of 2018 and it was completed in March of 2019.
+The project was carried out with the aid of the Targeted Agricultural Modernisation Scheme (TAMS).
+The overall cost of the build was EUR115,000 (including VAT).
+Commenting on the build, Denis said: "My father and I have said over the last while that we wanted to increase cow numbers and the only way we were going to be able to do that was to build a new housing facility.
+"Also, the weather we have been getting has been nothing short of a disaster. It has been raining here since last August and now that we have the new shed we have the option of housing cattle that bit earlier if we want.
+The fact that I could avail of the TAMS grant was a huge reason for going ahead and building the shed. The way beef prices are gone it is hard to justify building a brand new shed.
+"However, with the help of the grant, we were confident we could pay it back and, hopefully, in the near future we will see beef farmers rewarded with good prices for their cattle," Denis concluded.
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+

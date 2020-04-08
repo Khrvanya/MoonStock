@@ -1,0 +1,1142 @@
+Auction report ‘Last but not least’ from monster Cambridge saleMonday, February 11, saw the latest monthly Cambridge Machinery Sales auction take place at Cheffins Auctioneers' sale grounds in Sutton, Cambridge (England).
+Here, having already covered many of the big-name lots, we focus on some of the remaining tractors.
+Tim Scrivener was at the auction for AgriLand to take these photographs and to note the key prices. All of the pictures in this report are from Monday's auction.
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Any statement of recorded hours may simply be a reflection of what's visible on the tractor's odometer or, if that's not available, what's claimed in the auction catalogue.
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1995/1996 Valtra Valmet 8050 (9,551 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This 2003/2004 McCormick CX105 (air-conditioning; 5,500 hours) sold for PS12,200
+
+
+
+
+
+
+
+
+This 2011 McCormick XTX 165 (front axle suspension; 1,886 hours) sold for PS25,200
+
+
+
+
+
+
+
+
+This 2010 Claas Arion CIS 610 (cab suspension; 8,100 hours) sold for PS13,500
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (9,272 hours) sold for PS23,000
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (4,446 hours) sold for PS22,000
+
+
+
+
+
+
+
+
+This 1993/1994 Fiat 88-94 DT (front loader; 4,570 hours) sold for PS7,500
+
+
+
+
+
+
+
+
+This 2001 JCB Fastrac 3155 (495/70 R24 tyres; 7,721 hours) sold for PS15,600
+
+
+
+
+
+
+
+
+This 1996/1997 JCB Fastrac 155-65 (7,246 hours) sold for PS11,200
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Check out this mixed bag of John Deeres 
+
+
+
+Here, having already covered many of the big-name lots, we focus on some of the remaining tractors.
+Tim Scrivener was at the auction for AgriLand to take these photographs and to note the key prices. All of the pictures in this report are from Monday's auction.
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Any statement of recorded hours may simply be a reflection of what's visible on the tractor's odometer or, if that's not available, what's claimed in the auction catalogue.
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1995/1996 Valtra Valmet 8050 (9,551 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This 2003/2004 McCormick CX105 (air-conditioning; 5,500 hours) sold for PS12,200
+
+
+
+
+
+
+
+
+This 2011 McCormick XTX 165 (front axle suspension; 1,886 hours) sold for PS25,200
+
+
+
+
+
+
+
+
+This 2010 Claas Arion CIS 610 (cab suspension; 8,100 hours) sold for PS13,500
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (9,272 hours) sold for PS23,000
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (4,446 hours) sold for PS22,000
+
+
+
+
+
+
+
+
+This 1993/1994 Fiat 88-94 DT (front loader; 4,570 hours) sold for PS7,500
+
+
+
+
+
+
+
+
+This 2001 JCB Fastrac 3155 (495/70 R24 tyres; 7,721 hours) sold for PS15,600
+
+
+
+
+
+
+
+
+This 1996/1997 JCB Fastrac 155-65 (7,246 hours) sold for PS11,200
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Check out this mixed bag of John Deeres 
+
+
+
+Tim Scrivener was at the auction for AgriLand to take these photographs and to note the key prices. All of the pictures in this report are from Monday's auction.
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Any statement of recorded hours may simply be a reflection of what's visible on the tractor's odometer or, if that's not available, what's claimed in the auction catalogue.
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1995/1996 Valtra Valmet 8050 (9,551 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This 2003/2004 McCormick CX105 (air-conditioning; 5,500 hours) sold for PS12,200
+
+
+
+
+
+
+
+
+This 2011 McCormick XTX 165 (front axle suspension; 1,886 hours) sold for PS25,200
+
+
+
+
+
+
+
+
+This 2010 Claas Arion CIS 610 (cab suspension; 8,100 hours) sold for PS13,500
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (9,272 hours) sold for PS23,000
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (4,446 hours) sold for PS22,000
+
+
+
+
+
+
+
+
+This 1993/1994 Fiat 88-94 DT (front loader; 4,570 hours) sold for PS7,500
+
+
+
+
+
+
+
+
+This 2001 JCB Fastrac 3155 (495/70 R24 tyres; 7,721 hours) sold for PS15,600
+
+
+
+
+
+
+
+
+This 1996/1997 JCB Fastrac 155-65 (7,246 hours) sold for PS11,200
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Check out this mixed bag of John Deeres 
+
+
+
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Any statement of recorded hours may simply be a reflection of what's visible on the tractor's odometer or, if that's not available, what's claimed in the auction catalogue.
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1995/1996 Valtra Valmet 8050 (9,551 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This 2003/2004 McCormick CX105 (air-conditioning; 5,500 hours) sold for PS12,200
+
+
+
+
+
+
+
+
+This 2011 McCormick XTX 165 (front axle suspension; 1,886 hours) sold for PS25,200
+
+
+
+
+
+
+
+
+This 2010 Claas Arion CIS 610 (cab suspension; 8,100 hours) sold for PS13,500
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (9,272 hours) sold for PS23,000
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (4,446 hours) sold for PS22,000
+
+
+
+
+
+
+
+
+This 1993/1994 Fiat 88-94 DT (front loader; 4,570 hours) sold for PS7,500
+
+
+
+
+
+
+
+
+This 2001 JCB Fastrac 3155 (495/70 R24 tyres; 7,721 hours) sold for PS15,600
+
+
+
+
+
+
+
+
+This 1996/1997 JCB Fastrac 155-65 (7,246 hours) sold for PS11,200
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Check out this mixed bag of John Deeres 
+
+
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Any statement of recorded hours may simply be a reflection of what's visible on the tractor's odometer or, if that's not available, what's claimed in the auction catalogue.
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1995/1996 Valtra Valmet 8050 (9,551 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This 2003/2004 McCormick CX105 (air-conditioning; 5,500 hours) sold for PS12,200
+
+
+
+
+
+
+
+
+This 2011 McCormick XTX 165 (front axle suspension; 1,886 hours) sold for PS25,200
+
+
+
+
+
+
+
+
+This 2010 Claas Arion CIS 610 (cab suspension; 8,100 hours) sold for PS13,500
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (9,272 hours) sold for PS23,000
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (4,446 hours) sold for PS22,000
+
+
+
+
+
+
+
+
+This 1993/1994 Fiat 88-94 DT (front loader; 4,570 hours) sold for PS7,500
+
+
+
+
+
+
+
+
+This 2001 JCB Fastrac 3155 (495/70 R24 tyres; 7,721 hours) sold for PS15,600
+
+
+
+
+
+
+
+
+This 1996/1997 JCB Fastrac 155-65 (7,246 hours) sold for PS11,200
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Check out this mixed bag of John Deeres 
+
+
+
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Any statement of recorded hours may simply be a reflection of what's visible on the tractor's odometer or, if that's not available, what's claimed in the auction catalogue.
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1995/1996 Valtra Valmet 8050 (9,551 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This 2003/2004 McCormick CX105 (air-conditioning; 5,500 hours) sold for PS12,200
+
+
+
+
+
+
+
+
+This 2011 McCormick XTX 165 (front axle suspension; 1,886 hours) sold for PS25,200
+
+
+
+
+
+
+
+
+This 2010 Claas Arion CIS 610 (cab suspension; 8,100 hours) sold for PS13,500
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (9,272 hours) sold for PS23,000
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (4,446 hours) sold for PS22,000
+
+
+
+
+
+
+
+
+This 1993/1994 Fiat 88-94 DT (front loader; 4,570 hours) sold for PS7,500
+
+
+
+
+
+
+
+
+This 2001 JCB Fastrac 3155 (495/70 R24 tyres; 7,721 hours) sold for PS15,600
+
+
+
+
+
+
+
+
+This 1996/1997 JCB Fastrac 155-65 (7,246 hours) sold for PS11,200
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Check out this mixed bag of John Deeres 
+
+
+
+Any statement of recorded hours may simply be a reflection of what's visible on the tractor's odometer or, if that's not available, what's claimed in the auction catalogue.
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1995/1996 Valtra Valmet 8050 (9,551 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This 2003/2004 McCormick CX105 (air-conditioning; 5,500 hours) sold for PS12,200
+
+
+
+
+
+
+
+
+This 2011 McCormick XTX 165 (front axle suspension; 1,886 hours) sold for PS25,200
+
+
+
+
+
+
+
+
+This 2010 Claas Arion CIS 610 (cab suspension; 8,100 hours) sold for PS13,500
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (9,272 hours) sold for PS23,000
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (4,446 hours) sold for PS22,000
+
+
+
+
+
+
+
+
+This 1993/1994 Fiat 88-94 DT (front loader; 4,570 hours) sold for PS7,500
+
+
+
+
+
+
+
+
+This 2001 JCB Fastrac 3155 (495/70 R24 tyres; 7,721 hours) sold for PS15,600
+
+
+
+
+
+
+
+
+This 1996/1997 JCB Fastrac 155-65 (7,246 hours) sold for PS11,200
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Check out this mixed bag of John Deeres 
+
+
+
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1995/1996 Valtra Valmet 8050 (9,551 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This 2003/2004 McCormick CX105 (air-conditioning; 5,500 hours) sold for PS12,200
+
+
+
+
+
+
+
+
+This 2011 McCormick XTX 165 (front axle suspension; 1,886 hours) sold for PS25,200
+
+
+
+
+
+
+
+
+This 2010 Claas Arion CIS 610 (cab suspension; 8,100 hours) sold for PS13,500
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (9,272 hours) sold for PS23,000
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (4,446 hours) sold for PS22,000
+
+
+
+
+
+
+
+
+This 1993/1994 Fiat 88-94 DT (front loader; 4,570 hours) sold for PS7,500
+
+
+
+
+
+
+
+
+This 2001 JCB Fastrac 3155 (495/70 R24 tyres; 7,721 hours) sold for PS15,600
+
+
+
+
+
+
+
+
+This 1996/1997 JCB Fastrac 155-65 (7,246 hours) sold for PS11,200
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Check out this mixed bag of John Deeres 
+
+
+
+
+
+
+
+
+
+
+
+
+This 1995/1996 Valtra Valmet 8050 (9,551 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This 2003/2004 McCormick CX105 (air-conditioning; 5,500 hours) sold for PS12,200
+
+
+
+
+
+
+
+
+This 2011 McCormick XTX 165 (front axle suspension; 1,886 hours) sold for PS25,200
+
+
+
+
+
+
+
+
+This 2010 Claas Arion CIS 610 (cab suspension; 8,100 hours) sold for PS13,500
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (9,272 hours) sold for PS23,000
+
+
+
+
+
+
+
+
+This Case IH Magnum 310 (4,446 hours) sold for PS22,000
+
+
+
+
+
+
+
+
+This 1993/1994 Fiat 88-94 DT (front loader; 4,570 hours) sold for PS7,500
+
+
+
+
+
+
+
+
+This 2001 JCB Fastrac 3155 (495/70 R24 tyres; 7,721 hours) sold for PS15,600
+
+
+
+
+
+
+
+
+This 1996/1997 JCB Fastrac 155-65 (7,246 hours) sold for PS11,200
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Check out this mixed bag of John Deeres 
+
+
+

@@ -1,0 +1,5044 @@
+Calf trade How much are calves changing hands for in the martsLooking at the latest statistics from the Irish Cattle Breeding Federation (ICBF) - so far this year - some 552,013 calves were registered to dairy dams up to the week ending March 1.
+In addition, some 96,351 beef calves have been registered to suckler cows up to and including this date, according to the ICBF.
+Fermoy Mart
+Some 780 calves went under the hammer at Fermoy Mart this week. Speaking to AgriLand, Sean Leahy - Fermoy Mart manager - outlined that the sales should start to level off around this mark, with more coloured calves coming on stream.
+He noted that cross-bred calves are changing hands for small money - EUR5-10/head. He said: "Deutsch Friesian calves are selling at EUR20-50/head, while the better-quality Spanish Friesian calves are making EUR50-80/head at 2.5 weeks old."
+He also explained that farmers were willing to pay in the region of EUR80-130/head for the smaller Friesian and up to EUR150/head.
+Moving to early-maturing breeds, Sean explained that light Angus and Hereford heifers are selling for under EUR100/head, while the stronger, better-quality Angus and Hereford heifers are selling for EUR150-220/head and are in demand.
+
+Lighter Angus and whitehead bulls are moving in the region of EUR120/head and older, heavier bulls are making up to EUR150/head.
+Bandon Mart
+A total of 1,550 calves were on offer at Bandon Mart, Co. Cork on Monday last. The mart's manager Tom McCarthy said: "Numbers are similar enough to where they were last year; they were a bit slow starting but it caught up very quick.
+"The trade for the good calf is absolutely fine; there's no problem at all with it. A nice Friesian bull calf - three weeks to six weeks old - would make from EUR50/head to EUR90/head, with farmers very active for the good Friesian for EUR80/head up to EUR120-130/head (six-weeks-old).
+"The farmers have become a lot more active in the last couple of weeks because they have heard there is probably a little bit of value in Friesians and have stepped into the market and driven it on.
+"There is a lot of young calves out there - 12-14 days old - and they are coming in at EUR20/head to EUR65/head for the better ones. An average price exporters have been paying in the last two weeks in Bandon Mart and Skibbereen Mart would have been between EUR35/head and EUR55/head.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"Straight Angus/Hereford bulls off a good Friesian cow - young ones at EUR150-220/head and four-to-six weeks old Angus/whitehead bulls at EUR220-300/head," he explained.
+"Straight Angus/Hereford heifers are selling at EUR150- 200/head; stronger ones at EUR200-280/head.
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+In addition, some 96,351 beef calves have been registered to suckler cows up to and including this date, according to the ICBF.
+Fermoy Mart
+Some 780 calves went under the hammer at Fermoy Mart this week. Speaking to AgriLand, Sean Leahy - Fermoy Mart manager - outlined that the sales should start to level off around this mark, with more coloured calves coming on stream.
+He noted that cross-bred calves are changing hands for small money - EUR5-10/head. He said: "Deutsch Friesian calves are selling at EUR20-50/head, while the better-quality Spanish Friesian calves are making EUR50-80/head at 2.5 weeks old."
+He also explained that farmers were willing to pay in the region of EUR80-130/head for the smaller Friesian and up to EUR150/head.
+Moving to early-maturing breeds, Sean explained that light Angus and Hereford heifers are selling for under EUR100/head, while the stronger, better-quality Angus and Hereford heifers are selling for EUR150-220/head and are in demand.
+
+Lighter Angus and whitehead bulls are moving in the region of EUR120/head and older, heavier bulls are making up to EUR150/head.
+Bandon Mart
+A total of 1,550 calves were on offer at Bandon Mart, Co. Cork on Monday last. The mart's manager Tom McCarthy said: "Numbers are similar enough to where they were last year; they were a bit slow starting but it caught up very quick.
+"The trade for the good calf is absolutely fine; there's no problem at all with it. A nice Friesian bull calf - three weeks to six weeks old - would make from EUR50/head to EUR90/head, with farmers very active for the good Friesian for EUR80/head up to EUR120-130/head (six-weeks-old).
+"The farmers have become a lot more active in the last couple of weeks because they have heard there is probably a little bit of value in Friesians and have stepped into the market and driven it on.
+"There is a lot of young calves out there - 12-14 days old - and they are coming in at EUR20/head to EUR65/head for the better ones. An average price exporters have been paying in the last two weeks in Bandon Mart and Skibbereen Mart would have been between EUR35/head and EUR55/head.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"Straight Angus/Hereford bulls off a good Friesian cow - young ones at EUR150-220/head and four-to-six weeks old Angus/whitehead bulls at EUR220-300/head," he explained.
+"Straight Angus/Hereford heifers are selling at EUR150- 200/head; stronger ones at EUR200-280/head.
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+Some 780 calves went under the hammer at Fermoy Mart this week. Speaking to AgriLand, Sean Leahy - Fermoy Mart manager - outlined that the sales should start to level off around this mark, with more coloured calves coming on stream.
+He noted that cross-bred calves are changing hands for small money - EUR5-10/head. He said: "Deutsch Friesian calves are selling at EUR20-50/head, while the better-quality Spanish Friesian calves are making EUR50-80/head at 2.5 weeks old."
+He also explained that farmers were willing to pay in the region of EUR80-130/head for the smaller Friesian and up to EUR150/head.
+Moving to early-maturing breeds, Sean explained that light Angus and Hereford heifers are selling for under EUR100/head, while the stronger, better-quality Angus and Hereford heifers are selling for EUR150-220/head and are in demand.
+
+Lighter Angus and whitehead bulls are moving in the region of EUR120/head and older, heavier bulls are making up to EUR150/head.
+Bandon Mart
+A total of 1,550 calves were on offer at Bandon Mart, Co. Cork on Monday last. The mart's manager Tom McCarthy said: "Numbers are similar enough to where they were last year; they were a bit slow starting but it caught up very quick.
+"The trade for the good calf is absolutely fine; there's no problem at all with it. A nice Friesian bull calf - three weeks to six weeks old - would make from EUR50/head to EUR90/head, with farmers very active for the good Friesian for EUR80/head up to EUR120-130/head (six-weeks-old).
+"The farmers have become a lot more active in the last couple of weeks because they have heard there is probably a little bit of value in Friesians and have stepped into the market and driven it on.
+"There is a lot of young calves out there - 12-14 days old - and they are coming in at EUR20/head to EUR65/head for the better ones. An average price exporters have been paying in the last two weeks in Bandon Mart and Skibbereen Mart would have been between EUR35/head and EUR55/head.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"Straight Angus/Hereford bulls off a good Friesian cow - young ones at EUR150-220/head and four-to-six weeks old Angus/whitehead bulls at EUR220-300/head," he explained.
+"Straight Angus/Hereford heifers are selling at EUR150- 200/head; stronger ones at EUR200-280/head.
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+He noted that cross-bred calves are changing hands for small money - EUR5-10/head. He said: "Deutsch Friesian calves are selling at EUR20-50/head, while the better-quality Spanish Friesian calves are making EUR50-80/head at 2.5 weeks old."
+He also explained that farmers were willing to pay in the region of EUR80-130/head for the smaller Friesian and up to EUR150/head.
+Moving to early-maturing breeds, Sean explained that light Angus and Hereford heifers are selling for under EUR100/head, while the stronger, better-quality Angus and Hereford heifers are selling for EUR150-220/head and are in demand.
+
+Lighter Angus and whitehead bulls are moving in the region of EUR120/head and older, heavier bulls are making up to EUR150/head.
+Bandon Mart
+A total of 1,550 calves were on offer at Bandon Mart, Co. Cork on Monday last. The mart's manager Tom McCarthy said: "Numbers are similar enough to where they were last year; they were a bit slow starting but it caught up very quick.
+"The trade for the good calf is absolutely fine; there's no problem at all with it. A nice Friesian bull calf - three weeks to six weeks old - would make from EUR50/head to EUR90/head, with farmers very active for the good Friesian for EUR80/head up to EUR120-130/head (six-weeks-old).
+"The farmers have become a lot more active in the last couple of weeks because they have heard there is probably a little bit of value in Friesians and have stepped into the market and driven it on.
+"There is a lot of young calves out there - 12-14 days old - and they are coming in at EUR20/head to EUR65/head for the better ones. An average price exporters have been paying in the last two weeks in Bandon Mart and Skibbereen Mart would have been between EUR35/head and EUR55/head.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"Straight Angus/Hereford bulls off a good Friesian cow - young ones at EUR150-220/head and four-to-six weeks old Angus/whitehead bulls at EUR220-300/head," he explained.
+"Straight Angus/Hereford heifers are selling at EUR150- 200/head; stronger ones at EUR200-280/head.
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+He also explained that farmers were willing to pay in the region of EUR80-130/head for the smaller Friesian and up to EUR150/head.
+Moving to early-maturing breeds, Sean explained that light Angus and Hereford heifers are selling for under EUR100/head, while the stronger, better-quality Angus and Hereford heifers are selling for EUR150-220/head and are in demand.
+
+Lighter Angus and whitehead bulls are moving in the region of EUR120/head and older, heavier bulls are making up to EUR150/head.
+Bandon Mart
+A total of 1,550 calves were on offer at Bandon Mart, Co. Cork on Monday last. The mart's manager Tom McCarthy said: "Numbers are similar enough to where they were last year; they were a bit slow starting but it caught up very quick.
+"The trade for the good calf is absolutely fine; there's no problem at all with it. A nice Friesian bull calf - three weeks to six weeks old - would make from EUR50/head to EUR90/head, with farmers very active for the good Friesian for EUR80/head up to EUR120-130/head (six-weeks-old).
+"The farmers have become a lot more active in the last couple of weeks because they have heard there is probably a little bit of value in Friesians and have stepped into the market and driven it on.
+"There is a lot of young calves out there - 12-14 days old - and they are coming in at EUR20/head to EUR65/head for the better ones. An average price exporters have been paying in the last two weeks in Bandon Mart and Skibbereen Mart would have been between EUR35/head and EUR55/head.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"Straight Angus/Hereford bulls off a good Friesian cow - young ones at EUR150-220/head and four-to-six weeks old Angus/whitehead bulls at EUR220-300/head," he explained.
+"Straight Angus/Hereford heifers are selling at EUR150- 200/head; stronger ones at EUR200-280/head.
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+Moving to early-maturing breeds, Sean explained that light Angus and Hereford heifers are selling for under EUR100/head, while the stronger, better-quality Angus and Hereford heifers are selling for EUR150-220/head and are in demand.
+
+Lighter Angus and whitehead bulls are moving in the region of EUR120/head and older, heavier bulls are making up to EUR150/head.
+Bandon Mart
+A total of 1,550 calves were on offer at Bandon Mart, Co. Cork on Monday last. The mart's manager Tom McCarthy said: "Numbers are similar enough to where they were last year; they were a bit slow starting but it caught up very quick.
+"The trade for the good calf is absolutely fine; there's no problem at all with it. A nice Friesian bull calf - three weeks to six weeks old - would make from EUR50/head to EUR90/head, with farmers very active for the good Friesian for EUR80/head up to EUR120-130/head (six-weeks-old).
+"The farmers have become a lot more active in the last couple of weeks because they have heard there is probably a little bit of value in Friesians and have stepped into the market and driven it on.
+"There is a lot of young calves out there - 12-14 days old - and they are coming in at EUR20/head to EUR65/head for the better ones. An average price exporters have been paying in the last two weeks in Bandon Mart and Skibbereen Mart would have been between EUR35/head and EUR55/head.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"Straight Angus/Hereford bulls off a good Friesian cow - young ones at EUR150-220/head and four-to-six weeks old Angus/whitehead bulls at EUR220-300/head," he explained.
+"Straight Angus/Hereford heifers are selling at EUR150- 200/head; stronger ones at EUR200-280/head.
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+
+Lighter Angus and whitehead bulls are moving in the region of EUR120/head and older, heavier bulls are making up to EUR150/head.
+Bandon Mart
+A total of 1,550 calves were on offer at Bandon Mart, Co. Cork on Monday last. The mart's manager Tom McCarthy said: "Numbers are similar enough to where they were last year; they were a bit slow starting but it caught up very quick.
+"The trade for the good calf is absolutely fine; there's no problem at all with it. A nice Friesian bull calf - three weeks to six weeks old - would make from EUR50/head to EUR90/head, with farmers very active for the good Friesian for EUR80/head up to EUR120-130/head (six-weeks-old).
+"The farmers have become a lot more active in the last couple of weeks because they have heard there is probably a little bit of value in Friesians and have stepped into the market and driven it on.
+"There is a lot of young calves out there - 12-14 days old - and they are coming in at EUR20/head to EUR65/head for the better ones. An average price exporters have been paying in the last two weeks in Bandon Mart and Skibbereen Mart would have been between EUR35/head and EUR55/head.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"Straight Angus/Hereford bulls off a good Friesian cow - young ones at EUR150-220/head and four-to-six weeks old Angus/whitehead bulls at EUR220-300/head," he explained.
+"Straight Angus/Hereford heifers are selling at EUR150- 200/head; stronger ones at EUR200-280/head.
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+Lighter Angus and whitehead bulls are moving in the region of EUR120/head and older, heavier bulls are making up to EUR150/head.
+Bandon Mart
+A total of 1,550 calves were on offer at Bandon Mart, Co. Cork on Monday last. The mart's manager Tom McCarthy said: "Numbers are similar enough to where they were last year; they were a bit slow starting but it caught up very quick.
+"The trade for the good calf is absolutely fine; there's no problem at all with it. A nice Friesian bull calf - three weeks to six weeks old - would make from EUR50/head to EUR90/head, with farmers very active for the good Friesian for EUR80/head up to EUR120-130/head (six-weeks-old).
+"The farmers have become a lot more active in the last couple of weeks because they have heard there is probably a little bit of value in Friesians and have stepped into the market and driven it on.
+"There is a lot of young calves out there - 12-14 days old - and they are coming in at EUR20/head to EUR65/head for the better ones. An average price exporters have been paying in the last two weeks in Bandon Mart and Skibbereen Mart would have been between EUR35/head and EUR55/head.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"Straight Angus/Hereford bulls off a good Friesian cow - young ones at EUR150-220/head and four-to-six weeks old Angus/whitehead bulls at EUR220-300/head," he explained.
+"Straight Angus/Hereford heifers are selling at EUR150- 200/head; stronger ones at EUR200-280/head.
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+A total of 1,550 calves were on offer at Bandon Mart, Co. Cork on Monday last. The mart's manager Tom McCarthy said: "Numbers are similar enough to where they were last year; they were a bit slow starting but it caught up very quick.
+"The trade for the good calf is absolutely fine; there's no problem at all with it. A nice Friesian bull calf - three weeks to six weeks old - would make from EUR50/head to EUR90/head, with farmers very active for the good Friesian for EUR80/head up to EUR120-130/head (six-weeks-old).
+"The farmers have become a lot more active in the last couple of weeks because they have heard there is probably a little bit of value in Friesians and have stepped into the market and driven it on.
+"There is a lot of young calves out there - 12-14 days old - and they are coming in at EUR20/head to EUR65/head for the better ones. An average price exporters have been paying in the last two weeks in Bandon Mart and Skibbereen Mart would have been between EUR35/head and EUR55/head.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"Straight Angus/Hereford bulls off a good Friesian cow - young ones at EUR150-220/head and four-to-six weeks old Angus/whitehead bulls at EUR220-300/head," he explained.
+"Straight Angus/Hereford heifers are selling at EUR150- 200/head; stronger ones at EUR200-280/head.
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+"The trade for the good calf is absolutely fine; there's no problem at all with it. A nice Friesian bull calf - three weeks to six weeks old - would make from EUR50/head to EUR90/head, with farmers very active for the good Friesian for EUR80/head up to EUR120-130/head (six-weeks-old).
+"The farmers have become a lot more active in the last couple of weeks because they have heard there is probably a little bit of value in Friesians and have stepped into the market and driven it on.
+"There is a lot of young calves out there - 12-14 days old - and they are coming in at EUR20/head to EUR65/head for the better ones. An average price exporters have been paying in the last two weeks in Bandon Mart and Skibbereen Mart would have been between EUR35/head and EUR55/head.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"Straight Angus/Hereford bulls off a good Friesian cow - young ones at EUR150-220/head and four-to-six weeks old Angus/whitehead bulls at EUR220-300/head," he explained.
+"Straight Angus/Hereford heifers are selling at EUR150- 200/head; stronger ones at EUR200-280/head.
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+"The farmers have become a lot more active in the last couple of weeks because they have heard there is probably a little bit of value in Friesians and have stepped into the market and driven it on.
+"There is a lot of young calves out there - 12-14 days old - and they are coming in at EUR20/head to EUR65/head for the better ones. An average price exporters have been paying in the last two weeks in Bandon Mart and Skibbereen Mart would have been between EUR35/head and EUR55/head.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"Straight Angus/Hereford bulls off a good Friesian cow - young ones at EUR150-220/head and four-to-six weeks old Angus/whitehead bulls at EUR220-300/head," he explained.
+"Straight Angus/Hereford heifers are selling at EUR150- 200/head; stronger ones at EUR200-280/head.
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+"There is a lot of young calves out there - 12-14 days old - and they are coming in at EUR20/head to EUR65/head for the better ones. An average price exporters have been paying in the last two weeks in Bandon Mart and Skibbereen Mart would have been between EUR35/head and EUR55/head.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"Straight Angus/Hereford bulls off a good Friesian cow - young ones at EUR150-220/head and four-to-six weeks old Angus/whitehead bulls at EUR220-300/head," he explained.
+"Straight Angus/Hereford heifers are selling at EUR150- 200/head; stronger ones at EUR200-280/head.
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"Straight Angus/Hereford bulls off a good Friesian cow - young ones at EUR150-220/head and four-to-six weeks old Angus/whitehead bulls at EUR220-300/head," he explained.
+"Straight Angus/Hereford heifers are selling at EUR150- 200/head; stronger ones at EUR200-280/head.
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+"Straight Angus/Hereford bulls off a good Friesian cow - young ones at EUR150-220/head and four-to-six weeks old Angus/whitehead bulls at EUR220-300/head," he explained.
+"Straight Angus/Hereford heifers are selling at EUR150- 200/head; stronger ones at EUR200-280/head.
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+"Straight Angus/Hereford heifers are selling at EUR150- 200/head; stronger ones at EUR200-280/head.
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+"We get a nice scatter of continental crosses as well - especially Belgian Blue. EUR280-350/head would buy 70% of them - exceptional lots could make more.
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+"We'd be hoping to do 2,000 plus/week for the next three weeks," he concluded.
+Tullow Mart
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+Speaking to AgriLand, Tullow Mart manager - Eric Driver - noted that the mart has had a "couple of good" calf sales since the season began.
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+He said: "We're up at 150-200 calves at the minute. Last week was slower due to the boats getting cancelled on Saturday, but apart from that we are not going too bad.
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+"There are two different classes of calves on offer. The stronger Friesian bull calves are selling for EUR50-100/head and we have had a couple of flashy calves break the EUR100 mark. These calves would be punching up on three weeks old.
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+"The 10-14 day old bull Friesians are seeing EUR10-20/head and the Jersey-cross calves easier again.
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+"Aberdeen Angus and Hereford heifers are making EUR90/head up to EUR200/head depending on quality. Angus and Hereford bulls are selling for EUR120-130/head up to EUR280-300/head for a good, square Angus or whitehead bull.
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+"Good continental bulls have pushed onto EUR400/head in some cases," he added.
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+Commenting on the number of lots on offer he said: "I'd imagine we haven't peaked yet - maybe in the next two weeks."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mart trade: Feedlot buyers very active at the ringside 
+
+
+
+EUR75,000EUR1EUR8,100EUR1

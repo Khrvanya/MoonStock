@@ -1,0 +1,1536 @@
+Auction report Following the ‘trail’ for a bargainAn on-site auction of tractors and farm machinery took place at Washpit Farm, Grimston, King's Lynn (England), on Wednesday, February 20.
+The sale involved some noteworthy lots, including two combines harvesters and several high-horsepower tractors, as well as a myriad of other items.
+The auction was conducted by Cruso & Wilkin.
+
+This report focuses on the trailers that were up for grabs. Look out for accompanying reports, in which we detail what other lots sold for.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Tim Scrivener was at the sale for AgriLand to take these photographs and to note the key prices. All of the pictures in this report are from the auction.
+
+No 'buyer's premium' applies to the (hammer) prices.
+Prices are subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) sold for PS10,000
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) didn't sell. Bidding topped out at PS9,500
+
+
+
+
+
+
+
+
+This 2018 Richard Larrington trailer (roll-over sheet; 560/60 R22.5 tyres; hydraulic tailgate) sold for PS19,700
+
+
+
+
+
+
+
+
+This Reed & Upton trailer (16t; hydraulic tailgate) sold for PS600
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,500
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,800
+
+
+
+
+
+
+
+
+This 1998 Richard Western (beet) trailer (14t; sprung drawbar; hydraulic tailgate; air brakes) sold for PS5,500
+
+
+
+
+
+
+
+
+This GT Bunning dump trailer (9t; 12.5/80-15.3 tyres; hydraulic brakes) sold for PS2,900
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Did combines make the 'cut' at this on-site sale? 
+
+
+
+The sale involved some noteworthy lots, including two combines harvesters and several high-horsepower tractors, as well as a myriad of other items.
+The auction was conducted by Cruso & Wilkin.
+
+This report focuses on the trailers that were up for grabs. Look out for accompanying reports, in which we detail what other lots sold for.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Tim Scrivener was at the sale for AgriLand to take these photographs and to note the key prices. All of the pictures in this report are from the auction.
+
+No 'buyer's premium' applies to the (hammer) prices.
+Prices are subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) sold for PS10,000
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) didn't sell. Bidding topped out at PS9,500
+
+
+
+
+
+
+
+
+This 2018 Richard Larrington trailer (roll-over sheet; 560/60 R22.5 tyres; hydraulic tailgate) sold for PS19,700
+
+
+
+
+
+
+
+
+This Reed & Upton trailer (16t; hydraulic tailgate) sold for PS600
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,500
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,800
+
+
+
+
+
+
+
+
+This 1998 Richard Western (beet) trailer (14t; sprung drawbar; hydraulic tailgate; air brakes) sold for PS5,500
+
+
+
+
+
+
+
+
+This GT Bunning dump trailer (9t; 12.5/80-15.3 tyres; hydraulic brakes) sold for PS2,900
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Did combines make the 'cut' at this on-site sale? 
+
+
+
+The auction was conducted by Cruso & Wilkin.
+
+This report focuses on the trailers that were up for grabs. Look out for accompanying reports, in which we detail what other lots sold for.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Tim Scrivener was at the sale for AgriLand to take these photographs and to note the key prices. All of the pictures in this report are from the auction.
+
+No 'buyer's premium' applies to the (hammer) prices.
+Prices are subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) sold for PS10,000
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) didn't sell. Bidding topped out at PS9,500
+
+
+
+
+
+
+
+
+This 2018 Richard Larrington trailer (roll-over sheet; 560/60 R22.5 tyres; hydraulic tailgate) sold for PS19,700
+
+
+
+
+
+
+
+
+This Reed & Upton trailer (16t; hydraulic tailgate) sold for PS600
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,500
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,800
+
+
+
+
+
+
+
+
+This 1998 Richard Western (beet) trailer (14t; sprung drawbar; hydraulic tailgate; air brakes) sold for PS5,500
+
+
+
+
+
+
+
+
+This GT Bunning dump trailer (9t; 12.5/80-15.3 tyres; hydraulic brakes) sold for PS2,900
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Did combines make the 'cut' at this on-site sale? 
+
+
+
+
+This report focuses on the trailers that were up for grabs. Look out for accompanying reports, in which we detail what other lots sold for.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Tim Scrivener was at the sale for AgriLand to take these photographs and to note the key prices. All of the pictures in this report are from the auction.
+
+No 'buyer's premium' applies to the (hammer) prices.
+Prices are subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) sold for PS10,000
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) didn't sell. Bidding topped out at PS9,500
+
+
+
+
+
+
+
+
+This 2018 Richard Larrington trailer (roll-over sheet; 560/60 R22.5 tyres; hydraulic tailgate) sold for PS19,700
+
+
+
+
+
+
+
+
+This Reed & Upton trailer (16t; hydraulic tailgate) sold for PS600
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,500
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,800
+
+
+
+
+
+
+
+
+This 1998 Richard Western (beet) trailer (14t; sprung drawbar; hydraulic tailgate; air brakes) sold for PS5,500
+
+
+
+
+
+
+
+
+This GT Bunning dump trailer (9t; 12.5/80-15.3 tyres; hydraulic brakes) sold for PS2,900
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Did combines make the 'cut' at this on-site sale? 
+
+
+
+This report focuses on the trailers that were up for grabs. Look out for accompanying reports, in which we detail what other lots sold for.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Tim Scrivener was at the sale for AgriLand to take these photographs and to note the key prices. All of the pictures in this report are from the auction.
+
+No 'buyer's premium' applies to the (hammer) prices.
+Prices are subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) sold for PS10,000
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) didn't sell. Bidding topped out at PS9,500
+
+
+
+
+
+
+
+
+This 2018 Richard Larrington trailer (roll-over sheet; 560/60 R22.5 tyres; hydraulic tailgate) sold for PS19,700
+
+
+
+
+
+
+
+
+This Reed & Upton trailer (16t; hydraulic tailgate) sold for PS600
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,500
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,800
+
+
+
+
+
+
+
+
+This 1998 Richard Western (beet) trailer (14t; sprung drawbar; hydraulic tailgate; air brakes) sold for PS5,500
+
+
+
+
+
+
+
+
+This GT Bunning dump trailer (9t; 12.5/80-15.3 tyres; hydraulic brakes) sold for PS2,900
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Did combines make the 'cut' at this on-site sale? 
+
+
+
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Tim Scrivener was at the sale for AgriLand to take these photographs and to note the key prices. All of the pictures in this report are from the auction.
+
+No 'buyer's premium' applies to the (hammer) prices.
+Prices are subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) sold for PS10,000
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) didn't sell. Bidding topped out at PS9,500
+
+
+
+
+
+
+
+
+This 2018 Richard Larrington trailer (roll-over sheet; 560/60 R22.5 tyres; hydraulic tailgate) sold for PS19,700
+
+
+
+
+
+
+
+
+This Reed & Upton trailer (16t; hydraulic tailgate) sold for PS600
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,500
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,800
+
+
+
+
+
+
+
+
+This 1998 Richard Western (beet) trailer (14t; sprung drawbar; hydraulic tailgate; air brakes) sold for PS5,500
+
+
+
+
+
+
+
+
+This GT Bunning dump trailer (9t; 12.5/80-15.3 tyres; hydraulic brakes) sold for PS2,900
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Did combines make the 'cut' at this on-site sale? 
+
+
+
+Tim Scrivener was at the sale for AgriLand to take these photographs and to note the key prices. All of the pictures in this report are from the auction.
+
+No 'buyer's premium' applies to the (hammer) prices.
+Prices are subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) sold for PS10,000
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) didn't sell. Bidding topped out at PS9,500
+
+
+
+
+
+
+
+
+This 2018 Richard Larrington trailer (roll-over sheet; 560/60 R22.5 tyres; hydraulic tailgate) sold for PS19,700
+
+
+
+
+
+
+
+
+This Reed & Upton trailer (16t; hydraulic tailgate) sold for PS600
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,500
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,800
+
+
+
+
+
+
+
+
+This 1998 Richard Western (beet) trailer (14t; sprung drawbar; hydraulic tailgate; air brakes) sold for PS5,500
+
+
+
+
+
+
+
+
+This GT Bunning dump trailer (9t; 12.5/80-15.3 tyres; hydraulic brakes) sold for PS2,900
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Did combines make the 'cut' at this on-site sale? 
+
+
+
+
+No 'buyer's premium' applies to the (hammer) prices.
+Prices are subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) sold for PS10,000
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) didn't sell. Bidding topped out at PS9,500
+
+
+
+
+
+
+
+
+This 2018 Richard Larrington trailer (roll-over sheet; 560/60 R22.5 tyres; hydraulic tailgate) sold for PS19,700
+
+
+
+
+
+
+
+
+This Reed & Upton trailer (16t; hydraulic tailgate) sold for PS600
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,500
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,800
+
+
+
+
+
+
+
+
+This 1998 Richard Western (beet) trailer (14t; sprung drawbar; hydraulic tailgate; air brakes) sold for PS5,500
+
+
+
+
+
+
+
+
+This GT Bunning dump trailer (9t; 12.5/80-15.3 tyres; hydraulic brakes) sold for PS2,900
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Did combines make the 'cut' at this on-site sale? 
+
+
+
+No 'buyer's premium' applies to the (hammer) prices.
+Prices are subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) sold for PS10,000
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) didn't sell. Bidding topped out at PS9,500
+
+
+
+
+
+
+
+
+This 2018 Richard Larrington trailer (roll-over sheet; 560/60 R22.5 tyres; hydraulic tailgate) sold for PS19,700
+
+
+
+
+
+
+
+
+This Reed & Upton trailer (16t; hydraulic tailgate) sold for PS600
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,500
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,800
+
+
+
+
+
+
+
+
+This 1998 Richard Western (beet) trailer (14t; sprung drawbar; hydraulic tailgate; air brakes) sold for PS5,500
+
+
+
+
+
+
+
+
+This GT Bunning dump trailer (9t; 12.5/80-15.3 tyres; hydraulic brakes) sold for PS2,900
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Did combines make the 'cut' at this on-site sale? 
+
+
+
+Prices are subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) sold for PS10,000
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) didn't sell. Bidding topped out at PS9,500
+
+
+
+
+
+
+
+
+This 2018 Richard Larrington trailer (roll-over sheet; 560/60 R22.5 tyres; hydraulic tailgate) sold for PS19,700
+
+
+
+
+
+
+
+
+This Reed & Upton trailer (16t; hydraulic tailgate) sold for PS600
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,500
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,800
+
+
+
+
+
+
+
+
+This 1998 Richard Western (beet) trailer (14t; sprung drawbar; hydraulic tailgate; air brakes) sold for PS5,500
+
+
+
+
+
+
+
+
+This GT Bunning dump trailer (9t; 12.5/80-15.3 tyres; hydraulic brakes) sold for PS2,900
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Did combines make the 'cut' at this on-site sale? 
+
+
+
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) sold for PS10,000
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) didn't sell. Bidding topped out at PS9,500
+
+
+
+
+
+
+
+
+This 2018 Richard Larrington trailer (roll-over sheet; 560/60 R22.5 tyres; hydraulic tailgate) sold for PS19,700
+
+
+
+
+
+
+
+
+This Reed & Upton trailer (16t; hydraulic tailgate) sold for PS600
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,500
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,800
+
+
+
+
+
+
+
+
+This 1998 Richard Western (beet) trailer (14t; sprung drawbar; hydraulic tailgate; air brakes) sold for PS5,500
+
+
+
+
+
+
+
+
+This GT Bunning dump trailer (9t; 12.5/80-15.3 tyres; hydraulic brakes) sold for PS2,900
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Did combines make the 'cut' at this on-site sale? 
+
+
+
+
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) sold for PS10,000
+
+
+
+
+
+
+
+
+This 2006 GT Bunning trailer (Michelin Cargo X Bib 600/50 R22.5 tyres; roll-over sheet; leaf springs; air brakes; hydraulic tailgate) didn't sell. Bidding topped out at PS9,500
+
+
+
+
+
+
+
+
+This 2018 Richard Larrington trailer (roll-over sheet; 560/60 R22.5 tyres; hydraulic tailgate) sold for PS19,700
+
+
+
+
+
+
+
+
+This Reed & Upton trailer (16t; hydraulic tailgate) sold for PS600
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,500
+
+
+
+
+
+
+
+
+This 1999 Bailey trailer (14t; hydraulic side for vegetables; hydraulic brakes; 500/60-22.5 tyres; roll-over sheet) failed to sell. The top bid was PS7,800
+
+
+
+
+
+
+
+
+This 1998 Richard Western (beet) trailer (14t; sprung drawbar; hydraulic tailgate; air brakes) sold for PS5,500
+
+
+
+
+
+
+
+
+This GT Bunning dump trailer (9t; 12.5/80-15.3 tyres; hydraulic brakes) sold for PS2,900
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Did combines make the 'cut' at this on-site sale? 
+
+
+

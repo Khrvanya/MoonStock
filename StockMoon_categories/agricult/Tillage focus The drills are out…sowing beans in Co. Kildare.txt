@@ -1,0 +1,2348 @@
+Tillage focus The drills are out…sowing beans in Co. KildareThe dry spell last week saw machinery descend on the tillage fields. Spring beans planting was one of the first jobs on many farmers' lists. AgriLand visited Darragh Cleary where he was sowing outside Monasterevin in Co. Kildare.
+Darragh was sowing Fanfare beans at 250kg/ha. Fertiliser spreading was on the afternoon's agenda and hybrid barley was first up.
+Filling the drill with Fanfare beans
+Beans have been added to the rotation on Cleary's farm in the last few years. Despite a tough year last season the crop has worked out well.
+"This is our fourth year with them. We had been growing peas for Bachelors in the past, but they are a high risk crop at harvest time.
+Our yield was back 85% on 2017. We had 3.3t/ac in 2017 and 0.5t/ac last year.
+"It was the worst performing crop last year. It was one of the best performing crops the year before and it could be the best performing crop this year.
+
+"We're locked in at a good price with Quinns and they're gone in 10 weeks earlier than when we sowed them last year, so we have a good foundation set there for a good yield. It's all to do with the weather now," Darragh added.
+Conditions were ideal for sowing and Darragh was deciding whether or not to roll the crop. He intends to apply a pre-emergence herbicide of Nirvana. Volunteer oilseed rape can be hard to control in beans and may require a return with the sprayer.
+
+Rotation to reach first winter wheat potential
+Rotation is important on the farm.
+"We grow winter and spring rape as well. It depends on what way land availability is.
+For most of the land we have a one in six rotation - winter rape; winter wheat; winter barley; spring beans; winter wheat; and winter barley.
+"We have a separate crop rotation to facilitate the GLAS [Green Low-carbon Agri Environment Scheme] consisting of spring barley, oats and spring oilseed rape. This field was a thick cover crop of oats and phacelia. I couldn't believe that it turned up as well as it did.
+Winter oilseed rape on Darragh's farm
+"One third of our land area is under break crops on the farm. They bring new life to the soil and allow us to alternate pesticides and chemistry to prevent any kind of weed, pest or disease resistance.
+First wheats are our business, that's what pays the bills so we want as many first wheats as we can and even the second crop - the winter barley; there'll still be a yield lift there with the winter barley.
+While rotation is important for yield, it also plays a part in balancing financial risk.
+"You have to hedge your bets. You can't have too much of one thing. Rape price at the minute isn't great; it's probably picked up a bit, but the beans were our worst crop last year."
+Minimum-tillage
+The Cleary's have been in a minimum-tillage system for over 11 years. A Vaderstad Cultus cultivator runs over the ground before a Horsch Sprinter 4 ST sows.
+The establishment costs are quite low in comparison to traditional techniques. The Sprinter drill is very versatile; allowing us to work both in a min-till or direct-drilling system.
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+Darragh was sowing Fanfare beans at 250kg/ha. Fertiliser spreading was on the afternoon's agenda and hybrid barley was first up.
+Filling the drill with Fanfare beans
+Beans have been added to the rotation on Cleary's farm in the last few years. Despite a tough year last season the crop has worked out well.
+"This is our fourth year with them. We had been growing peas for Bachelors in the past, but they are a high risk crop at harvest time.
+Our yield was back 85% on 2017. We had 3.3t/ac in 2017 and 0.5t/ac last year.
+"It was the worst performing crop last year. It was one of the best performing crops the year before and it could be the best performing crop this year.
+
+"We're locked in at a good price with Quinns and they're gone in 10 weeks earlier than when we sowed them last year, so we have a good foundation set there for a good yield. It's all to do with the weather now," Darragh added.
+Conditions were ideal for sowing and Darragh was deciding whether or not to roll the crop. He intends to apply a pre-emergence herbicide of Nirvana. Volunteer oilseed rape can be hard to control in beans and may require a return with the sprayer.
+
+Rotation to reach first winter wheat potential
+Rotation is important on the farm.
+"We grow winter and spring rape as well. It depends on what way land availability is.
+For most of the land we have a one in six rotation - winter rape; winter wheat; winter barley; spring beans; winter wheat; and winter barley.
+"We have a separate crop rotation to facilitate the GLAS [Green Low-carbon Agri Environment Scheme] consisting of spring barley, oats and spring oilseed rape. This field was a thick cover crop of oats and phacelia. I couldn't believe that it turned up as well as it did.
+Winter oilseed rape on Darragh's farm
+"One third of our land area is under break crops on the farm. They bring new life to the soil and allow us to alternate pesticides and chemistry to prevent any kind of weed, pest or disease resistance.
+First wheats are our business, that's what pays the bills so we want as many first wheats as we can and even the second crop - the winter barley; there'll still be a yield lift there with the winter barley.
+While rotation is important for yield, it also plays a part in balancing financial risk.
+"You have to hedge your bets. You can't have too much of one thing. Rape price at the minute isn't great; it's probably picked up a bit, but the beans were our worst crop last year."
+Minimum-tillage
+The Cleary's have been in a minimum-tillage system for over 11 years. A Vaderstad Cultus cultivator runs over the ground before a Horsch Sprinter 4 ST sows.
+The establishment costs are quite low in comparison to traditional techniques. The Sprinter drill is very versatile; allowing us to work both in a min-till or direct-drilling system.
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+Beans have been added to the rotation on Cleary's farm in the last few years. Despite a tough year last season the crop has worked out well.
+"This is our fourth year with them. We had been growing peas for Bachelors in the past, but they are a high risk crop at harvest time.
+Our yield was back 85% on 2017. We had 3.3t/ac in 2017 and 0.5t/ac last year.
+"It was the worst performing crop last year. It was one of the best performing crops the year before and it could be the best performing crop this year.
+
+"We're locked in at a good price with Quinns and they're gone in 10 weeks earlier than when we sowed them last year, so we have a good foundation set there for a good yield. It's all to do with the weather now," Darragh added.
+Conditions were ideal for sowing and Darragh was deciding whether or not to roll the crop. He intends to apply a pre-emergence herbicide of Nirvana. Volunteer oilseed rape can be hard to control in beans and may require a return with the sprayer.
+
+Rotation to reach first winter wheat potential
+Rotation is important on the farm.
+"We grow winter and spring rape as well. It depends on what way land availability is.
+For most of the land we have a one in six rotation - winter rape; winter wheat; winter barley; spring beans; winter wheat; and winter barley.
+"We have a separate crop rotation to facilitate the GLAS [Green Low-carbon Agri Environment Scheme] consisting of spring barley, oats and spring oilseed rape. This field was a thick cover crop of oats and phacelia. I couldn't believe that it turned up as well as it did.
+Winter oilseed rape on Darragh's farm
+"One third of our land area is under break crops on the farm. They bring new life to the soil and allow us to alternate pesticides and chemistry to prevent any kind of weed, pest or disease resistance.
+First wheats are our business, that's what pays the bills so we want as many first wheats as we can and even the second crop - the winter barley; there'll still be a yield lift there with the winter barley.
+While rotation is important for yield, it also plays a part in balancing financial risk.
+"You have to hedge your bets. You can't have too much of one thing. Rape price at the minute isn't great; it's probably picked up a bit, but the beans were our worst crop last year."
+Minimum-tillage
+The Cleary's have been in a minimum-tillage system for over 11 years. A Vaderstad Cultus cultivator runs over the ground before a Horsch Sprinter 4 ST sows.
+The establishment costs are quite low in comparison to traditional techniques. The Sprinter drill is very versatile; allowing us to work both in a min-till or direct-drilling system.
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+"This is our fourth year with them. We had been growing peas for Bachelors in the past, but they are a high risk crop at harvest time.
+Our yield was back 85% on 2017. We had 3.3t/ac in 2017 and 0.5t/ac last year.
+"It was the worst performing crop last year. It was one of the best performing crops the year before and it could be the best performing crop this year.
+
+"We're locked in at a good price with Quinns and they're gone in 10 weeks earlier than when we sowed them last year, so we have a good foundation set there for a good yield. It's all to do with the weather now," Darragh added.
+Conditions were ideal for sowing and Darragh was deciding whether or not to roll the crop. He intends to apply a pre-emergence herbicide of Nirvana. Volunteer oilseed rape can be hard to control in beans and may require a return with the sprayer.
+
+Rotation to reach first winter wheat potential
+Rotation is important on the farm.
+"We grow winter and spring rape as well. It depends on what way land availability is.
+For most of the land we have a one in six rotation - winter rape; winter wheat; winter barley; spring beans; winter wheat; and winter barley.
+"We have a separate crop rotation to facilitate the GLAS [Green Low-carbon Agri Environment Scheme] consisting of spring barley, oats and spring oilseed rape. This field was a thick cover crop of oats and phacelia. I couldn't believe that it turned up as well as it did.
+Winter oilseed rape on Darragh's farm
+"One third of our land area is under break crops on the farm. They bring new life to the soil and allow us to alternate pesticides and chemistry to prevent any kind of weed, pest or disease resistance.
+First wheats are our business, that's what pays the bills so we want as many first wheats as we can and even the second crop - the winter barley; there'll still be a yield lift there with the winter barley.
+While rotation is important for yield, it also plays a part in balancing financial risk.
+"You have to hedge your bets. You can't have too much of one thing. Rape price at the minute isn't great; it's probably picked up a bit, but the beans were our worst crop last year."
+Minimum-tillage
+The Cleary's have been in a minimum-tillage system for over 11 years. A Vaderstad Cultus cultivator runs over the ground before a Horsch Sprinter 4 ST sows.
+The establishment costs are quite low in comparison to traditional techniques. The Sprinter drill is very versatile; allowing us to work both in a min-till or direct-drilling system.
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+Our yield was back 85% on 2017. We had 3.3t/ac in 2017 and 0.5t/ac last year."It was the worst performing crop last year. It was one of the best performing crops the year before and it could be the best performing crop this year.
+
+"We're locked in at a good price with Quinns and they're gone in 10 weeks earlier than when we sowed them last year, so we have a good foundation set there for a good yield. It's all to do with the weather now," Darragh added.
+Conditions were ideal for sowing and Darragh was deciding whether or not to roll the crop. He intends to apply a pre-emergence herbicide of Nirvana. Volunteer oilseed rape can be hard to control in beans and may require a return with the sprayer.
+
+Rotation to reach first winter wheat potential
+Rotation is important on the farm.
+"We grow winter and spring rape as well. It depends on what way land availability is.
+For most of the land we have a one in six rotation - winter rape; winter wheat; winter barley; spring beans; winter wheat; and winter barley.
+"We have a separate crop rotation to facilitate the GLAS [Green Low-carbon Agri Environment Scheme] consisting of spring barley, oats and spring oilseed rape. This field was a thick cover crop of oats and phacelia. I couldn't believe that it turned up as well as it did.
+Winter oilseed rape on Darragh's farm
+"One third of our land area is under break crops on the farm. They bring new life to the soil and allow us to alternate pesticides and chemistry to prevent any kind of weed, pest or disease resistance.
+First wheats are our business, that's what pays the bills so we want as many first wheats as we can and even the second crop - the winter barley; there'll still be a yield lift there with the winter barley.
+While rotation is important for yield, it also plays a part in balancing financial risk.
+"You have to hedge your bets. You can't have too much of one thing. Rape price at the minute isn't great; it's probably picked up a bit, but the beans were our worst crop last year."
+Minimum-tillage
+The Cleary's have been in a minimum-tillage system for over 11 years. A Vaderstad Cultus cultivator runs over the ground before a Horsch Sprinter 4 ST sows.
+The establishment costs are quite low in comparison to traditional techniques. The Sprinter drill is very versatile; allowing us to work both in a min-till or direct-drilling system.
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+"We're locked in at a good price with Quinns and they're gone in 10 weeks earlier than when we sowed them last year, so we have a good foundation set there for a good yield. It's all to do with the weather now," Darragh added.
+Conditions were ideal for sowing and Darragh was deciding whether or not to roll the crop. He intends to apply a pre-emergence herbicide of Nirvana. Volunteer oilseed rape can be hard to control in beans and may require a return with the sprayer.
+
+Rotation to reach first winter wheat potential
+Rotation is important on the farm.
+"We grow winter and spring rape as well. It depends on what way land availability is.
+For most of the land we have a one in six rotation - winter rape; winter wheat; winter barley; spring beans; winter wheat; and winter barley.
+"We have a separate crop rotation to facilitate the GLAS [Green Low-carbon Agri Environment Scheme] consisting of spring barley, oats and spring oilseed rape. This field was a thick cover crop of oats and phacelia. I couldn't believe that it turned up as well as it did.
+Winter oilseed rape on Darragh's farm
+"One third of our land area is under break crops on the farm. They bring new life to the soil and allow us to alternate pesticides and chemistry to prevent any kind of weed, pest or disease resistance.
+First wheats are our business, that's what pays the bills so we want as many first wheats as we can and even the second crop - the winter barley; there'll still be a yield lift there with the winter barley.
+While rotation is important for yield, it also plays a part in balancing financial risk.
+"You have to hedge your bets. You can't have too much of one thing. Rape price at the minute isn't great; it's probably picked up a bit, but the beans were our worst crop last year."
+Minimum-tillage
+The Cleary's have been in a minimum-tillage system for over 11 years. A Vaderstad Cultus cultivator runs over the ground before a Horsch Sprinter 4 ST sows.
+The establishment costs are quite low in comparison to traditional techniques. The Sprinter drill is very versatile; allowing us to work both in a min-till or direct-drilling system.
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+Conditions were ideal for sowing and Darragh was deciding whether or not to roll the crop. He intends to apply a pre-emergence herbicide of Nirvana. Volunteer oilseed rape can be hard to control in beans and may require a return with the sprayer.
+
+Rotation to reach first winter wheat potential
+Rotation is important on the farm.
+"We grow winter and spring rape as well. It depends on what way land availability is.
+For most of the land we have a one in six rotation - winter rape; winter wheat; winter barley; spring beans; winter wheat; and winter barley.
+"We have a separate crop rotation to facilitate the GLAS [Green Low-carbon Agri Environment Scheme] consisting of spring barley, oats and spring oilseed rape. This field was a thick cover crop of oats and phacelia. I couldn't believe that it turned up as well as it did.
+Winter oilseed rape on Darragh's farm
+"One third of our land area is under break crops on the farm. They bring new life to the soil and allow us to alternate pesticides and chemistry to prevent any kind of weed, pest or disease resistance.
+First wheats are our business, that's what pays the bills so we want as many first wheats as we can and even the second crop - the winter barley; there'll still be a yield lift there with the winter barley.
+While rotation is important for yield, it also plays a part in balancing financial risk.
+"You have to hedge your bets. You can't have too much of one thing. Rape price at the minute isn't great; it's probably picked up a bit, but the beans were our worst crop last year."
+Minimum-tillage
+The Cleary's have been in a minimum-tillage system for over 11 years. A Vaderstad Cultus cultivator runs over the ground before a Horsch Sprinter 4 ST sows.
+The establishment costs are quite low in comparison to traditional techniques. The Sprinter drill is very versatile; allowing us to work both in a min-till or direct-drilling system.
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+Rotation is important on the farm.
+"We grow winter and spring rape as well. It depends on what way land availability is.
+For most of the land we have a one in six rotation - winter rape; winter wheat; winter barley; spring beans; winter wheat; and winter barley.
+"We have a separate crop rotation to facilitate the GLAS [Green Low-carbon Agri Environment Scheme] consisting of spring barley, oats and spring oilseed rape. This field was a thick cover crop of oats and phacelia. I couldn't believe that it turned up as well as it did.
+Winter oilseed rape on Darragh's farm
+"One third of our land area is under break crops on the farm. They bring new life to the soil and allow us to alternate pesticides and chemistry to prevent any kind of weed, pest or disease resistance.
+First wheats are our business, that's what pays the bills so we want as many first wheats as we can and even the second crop - the winter barley; there'll still be a yield lift there with the winter barley.
+While rotation is important for yield, it also plays a part in balancing financial risk.
+"You have to hedge your bets. You can't have too much of one thing. Rape price at the minute isn't great; it's probably picked up a bit, but the beans were our worst crop last year."
+Minimum-tillage
+The Cleary's have been in a minimum-tillage system for over 11 years. A Vaderstad Cultus cultivator runs over the ground before a Horsch Sprinter 4 ST sows.
+The establishment costs are quite low in comparison to traditional techniques. The Sprinter drill is very versatile; allowing us to work both in a min-till or direct-drilling system.
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+"We grow winter and spring rape as well. It depends on what way land availability is.
+For most of the land we have a one in six rotation - winter rape; winter wheat; winter barley; spring beans; winter wheat; and winter barley.
+"We have a separate crop rotation to facilitate the GLAS [Green Low-carbon Agri Environment Scheme] consisting of spring barley, oats and spring oilseed rape. This field was a thick cover crop of oats and phacelia. I couldn't believe that it turned up as well as it did.
+Winter oilseed rape on Darragh's farm
+"One third of our land area is under break crops on the farm. They bring new life to the soil and allow us to alternate pesticides and chemistry to prevent any kind of weed, pest or disease resistance.
+First wheats are our business, that's what pays the bills so we want as many first wheats as we can and even the second crop - the winter barley; there'll still be a yield lift there with the winter barley.
+While rotation is important for yield, it also plays a part in balancing financial risk.
+"You have to hedge your bets. You can't have too much of one thing. Rape price at the minute isn't great; it's probably picked up a bit, but the beans were our worst crop last year."
+Minimum-tillage
+The Cleary's have been in a minimum-tillage system for over 11 years. A Vaderstad Cultus cultivator runs over the ground before a Horsch Sprinter 4 ST sows.
+The establishment costs are quite low in comparison to traditional techniques. The Sprinter drill is very versatile; allowing us to work both in a min-till or direct-drilling system.
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+For most of the land we have a one in six rotation - winter rape; winter wheat; winter barley; spring beans; winter wheat; and winter barley."We have a separate crop rotation to facilitate the GLAS [Green Low-carbon Agri Environment Scheme] consisting of spring barley, oats and spring oilseed rape. This field was a thick cover crop of oats and phacelia. I couldn't believe that it turned up as well as it did.
+Winter oilseed rape on Darragh's farm
+"One third of our land area is under break crops on the farm. They bring new life to the soil and allow us to alternate pesticides and chemistry to prevent any kind of weed, pest or disease resistance.
+First wheats are our business, that's what pays the bills so we want as many first wheats as we can and even the second crop - the winter barley; there'll still be a yield lift there with the winter barley.
+While rotation is important for yield, it also plays a part in balancing financial risk.
+"You have to hedge your bets. You can't have too much of one thing. Rape price at the minute isn't great; it's probably picked up a bit, but the beans were our worst crop last year."
+Minimum-tillage
+The Cleary's have been in a minimum-tillage system for over 11 years. A Vaderstad Cultus cultivator runs over the ground before a Horsch Sprinter 4 ST sows.
+The establishment costs are quite low in comparison to traditional techniques. The Sprinter drill is very versatile; allowing us to work both in a min-till or direct-drilling system.
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+"One third of our land area is under break crops on the farm. They bring new life to the soil and allow us to alternate pesticides and chemistry to prevent any kind of weed, pest or disease resistance.
+First wheats are our business, that's what pays the bills so we want as many first wheats as we can and even the second crop - the winter barley; there'll still be a yield lift there with the winter barley.
+While rotation is important for yield, it also plays a part in balancing financial risk.
+"You have to hedge your bets. You can't have too much of one thing. Rape price at the minute isn't great; it's probably picked up a bit, but the beans were our worst crop last year."
+Minimum-tillage
+The Cleary's have been in a minimum-tillage system for over 11 years. A Vaderstad Cultus cultivator runs over the ground before a Horsch Sprinter 4 ST sows.
+The establishment costs are quite low in comparison to traditional techniques. The Sprinter drill is very versatile; allowing us to work both in a min-till or direct-drilling system.
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+First wheats are our business, that's what pays the bills so we want as many first wheats as we can and even the second crop - the winter barley; there'll still be a yield lift there with the winter barley.While rotation is important for yield, it also plays a part in balancing financial risk.
+"You have to hedge your bets. You can't have too much of one thing. Rape price at the minute isn't great; it's probably picked up a bit, but the beans were our worst crop last year."
+Minimum-tillage
+The Cleary's have been in a minimum-tillage system for over 11 years. A Vaderstad Cultus cultivator runs over the ground before a Horsch Sprinter 4 ST sows.
+The establishment costs are quite low in comparison to traditional techniques. The Sprinter drill is very versatile; allowing us to work both in a min-till or direct-drilling system.
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+"You have to hedge your bets. You can't have too much of one thing. Rape price at the minute isn't great; it's probably picked up a bit, but the beans were our worst crop last year."
+Minimum-tillage
+The Cleary's have been in a minimum-tillage system for over 11 years. A Vaderstad Cultus cultivator runs over the ground before a Horsch Sprinter 4 ST sows.
+The establishment costs are quite low in comparison to traditional techniques. The Sprinter drill is very versatile; allowing us to work both in a min-till or direct-drilling system.
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+The Cleary's have been in a minimum-tillage system for over 11 years. A Vaderstad Cultus cultivator runs over the ground before a Horsch Sprinter 4 ST sows.
+The establishment costs are quite low in comparison to traditional techniques. The Sprinter drill is very versatile; allowing us to work both in a min-till or direct-drilling system.
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+The establishment costs are quite low in comparison to traditional techniques. The Sprinter drill is very versatile; allowing us to work both in a min-till or direct-drilling system.
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+"We're in a dilemma at the minute. We're contemplating going onto the next step; we have been doing some direct drilling in places, but we're contemplating going to fully direct drill.
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems.
+"The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+I think tillage farmers will be forced to adopt these techniques with the new CAP and helping to combat climate change. We have found yields to be comparable between the two systems."The costs savings are minimal, if any, by going direct, because we're replacing a pass of the cultivator with a second pass of the drill to plant a cover crop before the succeeding crops; there may also be increased slug pressure and the use of slug pellets.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+"They said patience is the most important tool for successful min-till, but with direct drilling you need more patience again - something my father is lacking! We wouldn't be drilling today if we were direct drilling; the ground wouldn't be right," Darragh joked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+"I'd be inclined to try it, but this land is easily worked. We have really heavy, brick clay land in Athy and it's not easy to work. We could put the direct drill into it, but the crop will take a hit," Darragh explained.
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+Darragh also applies compost - produced by the family business - Cleary Compost & Shredding. Using compost, sowing cover crops and implementing minimum-tillage has contributed to soil improvement according to Darragh and that was clear to see in the field.
+Spreading fertiliser
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+Once the beans were planted Darragh was putting on the fertiliser spreader to spread urea on his hybrid barley.
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+"We switched to urea products this year because there is a saving of about EUR15/ac over Sulcan.
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.
+While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+Two years ago we went for a urea product as well and we saved EUR35/ac. The saving isn't as much this year, but it's a saving. It all adds up.While the compost on the farm helps with soil structure and soil organic matter it also contributes a large amount of potassium (K).
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+"We would be very high in pH and Ps here on the home farm, so what we want the compost for is potash. It's high in potash.
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.
+Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+This year, in the drought, where we spread the compost you could see where the crop stayed greener for longer.Darragh fears that there might be a risk of take-all after the mild winter.
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+"Hybrid barley will be first. The risk of take-all with the mild winter could be higher. I'll be putting out 40-45un/ac on the first split. We'd always put on the first nitrogen go in February," Darragh added.
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.
+Saving through GPS
+GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+The rape is tricky. We have some fields that are very advanced and we have bits grazed, not much.GPS has played a big part in saving on inputs on the farm. The same tramlines are used each year, reducing the need for sub-soiling and the tramlines are exactly the desired width, without any overlaps. Darragh uses RTK 'auto-steer' and section control on the sprayer and fertiliser spreader.
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+"We have an Amazone sprayer equipped with individual nozzle shut off. This reduces over application of costly pesticides by a further 5% over conventional section control, so we have more savings again.
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+
+"Farmers need to adopt and embrace this modern technology. The cost savings even on a smaller scale farm are more than justified and recouped on the initial investment."
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Grain price: Price drop towards weekend...FOB Creil included 
+
+
+
+ 
+Poll results: 89% care that ingredients are Irish; 77% would change brands 
+
+
+

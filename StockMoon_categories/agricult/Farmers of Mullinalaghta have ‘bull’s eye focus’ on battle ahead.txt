@@ -1,0 +1,2611 @@
+Farmers of Mullinalaghta have ‘bull’s eye focus’ on battle aheadIt may be the middle of calving season, but the farmers of Mullinalaghta St. Columba's have a bull's eye focus on this weekend's All-Ireland club semi-final.
+This Saturday (February 16) the Leinster senior club champions from Co. Longford will take on the might of Kerry's Dr. Crokes in the AIB All-Ireland Senior Club Football Championship Semi-Final at Semple Stadium in Thurles.
+The men from the half parish on the Longford/Cavan border are all set after producing a shocker in early December when they beat Dublin side Kilmacud Crokes in the AIB Leinster Club Senior Football Championship Final, clinching the first-ever title for Co. Longford.
+This week, the farmers on the team - David McGivney, Aaron Earley, Eoghan Keegan, and Aidan McElligott - spoke to AgriLand about the upcoming game; the team's expectations; and the championship so far.
+The players also vividly described the sense of pride that has descended upon the tiny north-Longford parish - which consists of around 370 inhabitants - since the side clinched that much-coveted Leinster crown last December.
+McGivney, together with his brother James and father Peter, runs a beef and suckler farm in the heart of the parish. James is also a key player on the team.
+Calving and training
+It's a busy time of year on the family farm with cows calving, but despite this, the Mullinalaghta defender hasn't missed a training session and is firmly focused on next week's clash in Co. Tipperary.
+It's hectic at the minute; but it's the only way to be. I'm getting to training anyway and that's good - the brother and father are a big help on the farm.
+McGivney added: "As a team we never thought we would be in a situation like this; it's only a week away now and we are taking it in our stride."
+Believe it, or believe it not, it is now two-and-a-half months since the north Longford side battled all the odds to claim the Leinster title.
+
+
+
+
+
+
+
+
+Mullinalaghta St. Columba's in action against Kilmacud Crokes in Tullamore
+
+
+
+
+
+
+
+
+Mullinalaghta supporters crowd pitch after final whistle
+
+
+
+
+
+
+
+
+Mullinaglaghta fans delight as home side crowned Leinster Senior Club Football champions
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Countrywide the game was described as a glorious win for every small, rural, GAA community across the island.
+The men from Mullinalaghta can't believe how quickly the next outing has come around - they said the entire occasion has been "the stuff of dreams".
+'Bonus territory'
+Aaron Earley, like the rest of the team, has been playing football for Mullinalaghta since his first day in national school.
+Indeed it was brought to everyone's attention after the last win that this bunch of players brought their football boots to school instead of their pencil cases.
+Earley is a suckler farmer alongside his dad, Paddy. For him winning the club final was "unbelievable" and the game on Saturday is "bonus territory".
+Winning the Leinster club final was so different to anything we have ever achieved before. There was such a great atmosphere here in the parish after we won; there wasn't a lot of work done that week.
+The young farmer went on to say: "To find ourselves playing now in an All-Ireland club semi-final is hard to believe and from here on everything we achieve is a bonus."
+He added: "The mood in the camp is positive and we are just going to take this game as it comes. We are working on ourselves now and trying to get our own game right."
+Eoghan Keegan on the home farm
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+This Saturday (February 16) the Leinster senior club champions from Co. Longford will take on the might of Kerry's Dr. Crokes in the AIB All-Ireland Senior Club Football Championship Semi-Final at Semple Stadium in Thurles.
+The men from the half parish on the Longford/Cavan border are all set after producing a shocker in early December when they beat Dublin side Kilmacud Crokes in the AIB Leinster Club Senior Football Championship Final, clinching the first-ever title for Co. Longford.
+This week, the farmers on the team - David McGivney, Aaron Earley, Eoghan Keegan, and Aidan McElligott - spoke to AgriLand about the upcoming game; the team's expectations; and the championship so far.
+The players also vividly described the sense of pride that has descended upon the tiny north-Longford parish - which consists of around 370 inhabitants - since the side clinched that much-coveted Leinster crown last December.
+McGivney, together with his brother James and father Peter, runs a beef and suckler farm in the heart of the parish. James is also a key player on the team.
+Calving and training
+It's a busy time of year on the family farm with cows calving, but despite this, the Mullinalaghta defender hasn't missed a training session and is firmly focused on next week's clash in Co. Tipperary.
+It's hectic at the minute; but it's the only way to be. I'm getting to training anyway and that's good - the brother and father are a big help on the farm.
+McGivney added: "As a team we never thought we would be in a situation like this; it's only a week away now and we are taking it in our stride."
+Believe it, or believe it not, it is now two-and-a-half months since the north Longford side battled all the odds to claim the Leinster title.
+
+
+
+
+
+
+
+
+Mullinalaghta St. Columba's in action against Kilmacud Crokes in Tullamore
+
+
+
+
+
+
+
+
+Mullinalaghta supporters crowd pitch after final whistle
+
+
+
+
+
+
+
+
+Mullinaglaghta fans delight as home side crowned Leinster Senior Club Football champions
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Countrywide the game was described as a glorious win for every small, rural, GAA community across the island.
+The men from Mullinalaghta can't believe how quickly the next outing has come around - they said the entire occasion has been "the stuff of dreams".
+'Bonus territory'
+Aaron Earley, like the rest of the team, has been playing football for Mullinalaghta since his first day in national school.
+Indeed it was brought to everyone's attention after the last win that this bunch of players brought their football boots to school instead of their pencil cases.
+Earley is a suckler farmer alongside his dad, Paddy. For him winning the club final was "unbelievable" and the game on Saturday is "bonus territory".
+Winning the Leinster club final was so different to anything we have ever achieved before. There was such a great atmosphere here in the parish after we won; there wasn't a lot of work done that week.
+The young farmer went on to say: "To find ourselves playing now in an All-Ireland club semi-final is hard to believe and from here on everything we achieve is a bonus."
+He added: "The mood in the camp is positive and we are just going to take this game as it comes. We are working on ourselves now and trying to get our own game right."
+Eoghan Keegan on the home farm
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+The men from the half parish on the Longford/Cavan border are all set after producing a shocker in early December when they beat Dublin side Kilmacud Crokes in the AIB Leinster Club Senior Football Championship Final, clinching the first-ever title for Co. Longford.
+This week, the farmers on the team - David McGivney, Aaron Earley, Eoghan Keegan, and Aidan McElligott - spoke to AgriLand about the upcoming game; the team's expectations; and the championship so far.
+The players also vividly described the sense of pride that has descended upon the tiny north-Longford parish - which consists of around 370 inhabitants - since the side clinched that much-coveted Leinster crown last December.
+McGivney, together with his brother James and father Peter, runs a beef and suckler farm in the heart of the parish. James is also a key player on the team.
+Calving and training
+It's a busy time of year on the family farm with cows calving, but despite this, the Mullinalaghta defender hasn't missed a training session and is firmly focused on next week's clash in Co. Tipperary.
+It's hectic at the minute; but it's the only way to be. I'm getting to training anyway and that's good - the brother and father are a big help on the farm.
+McGivney added: "As a team we never thought we would be in a situation like this; it's only a week away now and we are taking it in our stride."
+Believe it, or believe it not, it is now two-and-a-half months since the north Longford side battled all the odds to claim the Leinster title.
+
+
+
+
+
+
+
+
+Mullinalaghta St. Columba's in action against Kilmacud Crokes in Tullamore
+
+
+
+
+
+
+
+
+Mullinalaghta supporters crowd pitch after final whistle
+
+
+
+
+
+
+
+
+Mullinaglaghta fans delight as home side crowned Leinster Senior Club Football champions
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Countrywide the game was described as a glorious win for every small, rural, GAA community across the island.
+The men from Mullinalaghta can't believe how quickly the next outing has come around - they said the entire occasion has been "the stuff of dreams".
+'Bonus territory'
+Aaron Earley, like the rest of the team, has been playing football for Mullinalaghta since his first day in national school.
+Indeed it was brought to everyone's attention after the last win that this bunch of players brought their football boots to school instead of their pencil cases.
+Earley is a suckler farmer alongside his dad, Paddy. For him winning the club final was "unbelievable" and the game on Saturday is "bonus territory".
+Winning the Leinster club final was so different to anything we have ever achieved before. There was such a great atmosphere here in the parish after we won; there wasn't a lot of work done that week.
+The young farmer went on to say: "To find ourselves playing now in an All-Ireland club semi-final is hard to believe and from here on everything we achieve is a bonus."
+He added: "The mood in the camp is positive and we are just going to take this game as it comes. We are working on ourselves now and trying to get our own game right."
+Eoghan Keegan on the home farm
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+The players also vividly described the sense of pride that has descended upon the tiny north-Longford parish - which consists of around 370 inhabitants - since the side clinched that much-coveted Leinster crown last December.
+McGivney, together with his brother James and father Peter, runs a beef and suckler farm in the heart of the parish. James is also a key player on the team.
+Calving and training
+It's a busy time of year on the family farm with cows calving, but despite this, the Mullinalaghta defender hasn't missed a training session and is firmly focused on next week's clash in Co. Tipperary.
+It's hectic at the minute; but it's the only way to be. I'm getting to training anyway and that's good - the brother and father are a big help on the farm.
+McGivney added: "As a team we never thought we would be in a situation like this; it's only a week away now and we are taking it in our stride."
+Believe it, or believe it not, it is now two-and-a-half months since the north Longford side battled all the odds to claim the Leinster title.
+
+
+
+
+
+
+
+
+Mullinalaghta St. Columba's in action against Kilmacud Crokes in Tullamore
+
+
+
+
+
+
+
+
+Mullinalaghta supporters crowd pitch after final whistle
+
+
+
+
+
+
+
+
+Mullinaglaghta fans delight as home side crowned Leinster Senior Club Football champions
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Countrywide the game was described as a glorious win for every small, rural, GAA community across the island.
+The men from Mullinalaghta can't believe how quickly the next outing has come around - they said the entire occasion has been "the stuff of dreams".
+'Bonus territory'
+Aaron Earley, like the rest of the team, has been playing football for Mullinalaghta since his first day in national school.
+Indeed it was brought to everyone's attention after the last win that this bunch of players brought their football boots to school instead of their pencil cases.
+Earley is a suckler farmer alongside his dad, Paddy. For him winning the club final was "unbelievable" and the game on Saturday is "bonus territory".
+Winning the Leinster club final was so different to anything we have ever achieved before. There was such a great atmosphere here in the parish after we won; there wasn't a lot of work done that week.
+The young farmer went on to say: "To find ourselves playing now in an All-Ireland club semi-final is hard to believe and from here on everything we achieve is a bonus."
+He added: "The mood in the camp is positive and we are just going to take this game as it comes. We are working on ourselves now and trying to get our own game right."
+Eoghan Keegan on the home farm
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+McGivney, together with his brother James and father Peter, runs a beef and suckler farm in the heart of the parish. James is also a key player on the team.
+Calving and training
+It's a busy time of year on the family farm with cows calving, but despite this, the Mullinalaghta defender hasn't missed a training session and is firmly focused on next week's clash in Co. Tipperary.
+It's hectic at the minute; but it's the only way to be. I'm getting to training anyway and that's good - the brother and father are a big help on the farm.
+McGivney added: "As a team we never thought we would be in a situation like this; it's only a week away now and we are taking it in our stride."
+Believe it, or believe it not, it is now two-and-a-half months since the north Longford side battled all the odds to claim the Leinster title.
+
+
+
+
+
+
+
+
+Mullinalaghta St. Columba's in action against Kilmacud Crokes in Tullamore
+
+
+
+
+
+
+
+
+Mullinalaghta supporters crowd pitch after final whistle
+
+
+
+
+
+
+
+
+Mullinaglaghta fans delight as home side crowned Leinster Senior Club Football champions
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Countrywide the game was described as a glorious win for every small, rural, GAA community across the island.
+The men from Mullinalaghta can't believe how quickly the next outing has come around - they said the entire occasion has been "the stuff of dreams".
+'Bonus territory'
+Aaron Earley, like the rest of the team, has been playing football for Mullinalaghta since his first day in national school.
+Indeed it was brought to everyone's attention after the last win that this bunch of players brought their football boots to school instead of their pencil cases.
+Earley is a suckler farmer alongside his dad, Paddy. For him winning the club final was "unbelievable" and the game on Saturday is "bonus territory".
+Winning the Leinster club final was so different to anything we have ever achieved before. There was such a great atmosphere here in the parish after we won; there wasn't a lot of work done that week.
+The young farmer went on to say: "To find ourselves playing now in an All-Ireland club semi-final is hard to believe and from here on everything we achieve is a bonus."
+He added: "The mood in the camp is positive and we are just going to take this game as it comes. We are working on ourselves now and trying to get our own game right."
+Eoghan Keegan on the home farm
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+It's a busy time of year on the family farm with cows calving, but despite this, the Mullinalaghta defender hasn't missed a training session and is firmly focused on next week's clash in Co. Tipperary.
+It's hectic at the minute; but it's the only way to be. I'm getting to training anyway and that's good - the brother and father are a big help on the farm.
+McGivney added: "As a team we never thought we would be in a situation like this; it's only a week away now and we are taking it in our stride."
+Believe it, or believe it not, it is now two-and-a-half months since the north Longford side battled all the odds to claim the Leinster title.
+
+
+
+
+
+
+
+
+Mullinalaghta St. Columba's in action against Kilmacud Crokes in Tullamore
+
+
+
+
+
+
+
+
+Mullinalaghta supporters crowd pitch after final whistle
+
+
+
+
+
+
+
+
+Mullinaglaghta fans delight as home side crowned Leinster Senior Club Football champions
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Countrywide the game was described as a glorious win for every small, rural, GAA community across the island.
+The men from Mullinalaghta can't believe how quickly the next outing has come around - they said the entire occasion has been "the stuff of dreams".
+'Bonus territory'
+Aaron Earley, like the rest of the team, has been playing football for Mullinalaghta since his first day in national school.
+Indeed it was brought to everyone's attention after the last win that this bunch of players brought their football boots to school instead of their pencil cases.
+Earley is a suckler farmer alongside his dad, Paddy. For him winning the club final was "unbelievable" and the game on Saturday is "bonus territory".
+Winning the Leinster club final was so different to anything we have ever achieved before. There was such a great atmosphere here in the parish after we won; there wasn't a lot of work done that week.
+The young farmer went on to say: "To find ourselves playing now in an All-Ireland club semi-final is hard to believe and from here on everything we achieve is a bonus."
+He added: "The mood in the camp is positive and we are just going to take this game as it comes. We are working on ourselves now and trying to get our own game right."
+Eoghan Keegan on the home farm
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+It's hectic at the minute; but it's the only way to be. I'm getting to training anyway and that's good - the brother and father are a big help on the farm.McGivney added: "As a team we never thought we would be in a situation like this; it's only a week away now and we are taking it in our stride."
+Believe it, or believe it not, it is now two-and-a-half months since the north Longford side battled all the odds to claim the Leinster title.
+
+
+
+
+
+
+
+
+Mullinalaghta St. Columba's in action against Kilmacud Crokes in Tullamore
+
+
+
+
+
+
+
+
+Mullinalaghta supporters crowd pitch after final whistle
+
+
+
+
+
+
+
+
+Mullinaglaghta fans delight as home side crowned Leinster Senior Club Football champions
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Countrywide the game was described as a glorious win for every small, rural, GAA community across the island.
+The men from Mullinalaghta can't believe how quickly the next outing has come around - they said the entire occasion has been "the stuff of dreams".
+'Bonus territory'
+Aaron Earley, like the rest of the team, has been playing football for Mullinalaghta since his first day in national school.
+Indeed it was brought to everyone's attention after the last win that this bunch of players brought their football boots to school instead of their pencil cases.
+Earley is a suckler farmer alongside his dad, Paddy. For him winning the club final was "unbelievable" and the game on Saturday is "bonus territory".
+Winning the Leinster club final was so different to anything we have ever achieved before. There was such a great atmosphere here in the parish after we won; there wasn't a lot of work done that week.
+The young farmer went on to say: "To find ourselves playing now in an All-Ireland club semi-final is hard to believe and from here on everything we achieve is a bonus."
+He added: "The mood in the camp is positive and we are just going to take this game as it comes. We are working on ourselves now and trying to get our own game right."
+Eoghan Keegan on the home farm
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+Believe it, or believe it not, it is now two-and-a-half months since the north Longford side battled all the odds to claim the Leinster title.
+
+
+
+
+
+
+
+
+Mullinalaghta St. Columba's in action against Kilmacud Crokes in Tullamore
+
+
+
+
+
+
+
+
+Mullinalaghta supporters crowd pitch after final whistle
+
+
+
+
+
+
+
+
+Mullinaglaghta fans delight as home side crowned Leinster Senior Club Football champions
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Countrywide the game was described as a glorious win for every small, rural, GAA community across the island.
+The men from Mullinalaghta can't believe how quickly the next outing has come around - they said the entire occasion has been "the stuff of dreams".
+'Bonus territory'
+Aaron Earley, like the rest of the team, has been playing football for Mullinalaghta since his first day in national school.
+Indeed it was brought to everyone's attention after the last win that this bunch of players brought their football boots to school instead of their pencil cases.
+Earley is a suckler farmer alongside his dad, Paddy. For him winning the club final was "unbelievable" and the game on Saturday is "bonus territory".
+Winning the Leinster club final was so different to anything we have ever achieved before. There was such a great atmosphere here in the parish after we won; there wasn't a lot of work done that week.
+The young farmer went on to say: "To find ourselves playing now in an All-Ireland club semi-final is hard to believe and from here on everything we achieve is a bonus."
+He added: "The mood in the camp is positive and we are just going to take this game as it comes. We are working on ourselves now and trying to get our own game right."
+Eoghan Keegan on the home farm
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+Countrywide the game was described as a glorious win for every small, rural, GAA community across the island.
+The men from Mullinalaghta can't believe how quickly the next outing has come around - they said the entire occasion has been "the stuff of dreams".
+'Bonus territory'
+Aaron Earley, like the rest of the team, has been playing football for Mullinalaghta since his first day in national school.
+Indeed it was brought to everyone's attention after the last win that this bunch of players brought their football boots to school instead of their pencil cases.
+Earley is a suckler farmer alongside his dad, Paddy. For him winning the club final was "unbelievable" and the game on Saturday is "bonus territory".
+Winning the Leinster club final was so different to anything we have ever achieved before. There was such a great atmosphere here in the parish after we won; there wasn't a lot of work done that week.
+The young farmer went on to say: "To find ourselves playing now in an All-Ireland club semi-final is hard to believe and from here on everything we achieve is a bonus."
+He added: "The mood in the camp is positive and we are just going to take this game as it comes. We are working on ourselves now and trying to get our own game right."
+Eoghan Keegan on the home farm
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+The men from Mullinalaghta can't believe how quickly the next outing has come around - they said the entire occasion has been "the stuff of dreams".
+'Bonus territory'
+Aaron Earley, like the rest of the team, has been playing football for Mullinalaghta since his first day in national school.
+Indeed it was brought to everyone's attention after the last win that this bunch of players brought their football boots to school instead of their pencil cases.
+Earley is a suckler farmer alongside his dad, Paddy. For him winning the club final was "unbelievable" and the game on Saturday is "bonus territory".
+Winning the Leinster club final was so different to anything we have ever achieved before. There was such a great atmosphere here in the parish after we won; there wasn't a lot of work done that week.
+The young farmer went on to say: "To find ourselves playing now in an All-Ireland club semi-final is hard to believe and from here on everything we achieve is a bonus."
+He added: "The mood in the camp is positive and we are just going to take this game as it comes. We are working on ourselves now and trying to get our own game right."
+Eoghan Keegan on the home farm
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+Aaron Earley, like the rest of the team, has been playing football for Mullinalaghta since his first day in national school.
+Indeed it was brought to everyone's attention after the last win that this bunch of players brought their football boots to school instead of their pencil cases.
+Earley is a suckler farmer alongside his dad, Paddy. For him winning the club final was "unbelievable" and the game on Saturday is "bonus territory".
+Winning the Leinster club final was so different to anything we have ever achieved before. There was such a great atmosphere here in the parish after we won; there wasn't a lot of work done that week.
+The young farmer went on to say: "To find ourselves playing now in an All-Ireland club semi-final is hard to believe and from here on everything we achieve is a bonus."
+He added: "The mood in the camp is positive and we are just going to take this game as it comes. We are working on ourselves now and trying to get our own game right."
+Eoghan Keegan on the home farm
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+Indeed it was brought to everyone's attention after the last win that this bunch of players brought their football boots to school instead of their pencil cases.
+Earley is a suckler farmer alongside his dad, Paddy. For him winning the club final was "unbelievable" and the game on Saturday is "bonus territory".
+Winning the Leinster club final was so different to anything we have ever achieved before. There was such a great atmosphere here in the parish after we won; there wasn't a lot of work done that week.
+The young farmer went on to say: "To find ourselves playing now in an All-Ireland club semi-final is hard to believe and from here on everything we achieve is a bonus."
+He added: "The mood in the camp is positive and we are just going to take this game as it comes. We are working on ourselves now and trying to get our own game right."
+Eoghan Keegan on the home farm
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+Earley is a suckler farmer alongside his dad, Paddy. For him winning the club final was "unbelievable" and the game on Saturday is "bonus territory".
+Winning the Leinster club final was so different to anything we have ever achieved before. There was such a great atmosphere here in the parish after we won; there wasn't a lot of work done that week.
+The young farmer went on to say: "To find ourselves playing now in an All-Ireland club semi-final is hard to believe and from here on everything we achieve is a bonus."
+He added: "The mood in the camp is positive and we are just going to take this game as it comes. We are working on ourselves now and trying to get our own game right."
+Eoghan Keegan on the home farm
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+Winning the Leinster club final was so different to anything we have ever achieved before. There was such a great atmosphere here in the parish after we won; there wasn't a lot of work done that week.The young farmer went on to say: "To find ourselves playing now in an All-Ireland club semi-final is hard to believe and from here on everything we achieve is a bonus."
+He added: "The mood in the camp is positive and we are just going to take this game as it comes. We are working on ourselves now and trying to get our own game right."
+Eoghan Keegan on the home farm
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+He added: "The mood in the camp is positive and we are just going to take this game as it comes. We are working on ourselves now and trying to get our own game right."
+Eoghan Keegan on the home farm
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+Meanwhile, Eoghan Keegan is under no illusion as to how crucial the upcoming semi clash is. He knows too that the Longford side is positioned as the underdog.
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+It's not something, however, that bothers him all that much.
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+"Look, we went in as massive underdogs against Kilmacud Crokes and we probably came in unnoticed. Nobody was looking at us to be coming into a Leinster final and maybe that's what happened in that game.
+With Dr. Crokes it could be the same thing again; we could pull a shock again
+Keegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+With Dr. Crokes it could be the same thing again; we could pull a shock againKeegan conceded, however, that Sunday's game is "bigger and going to be a tough battle".
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+Also, it goes without saying that some of the best football players in the country made their names from coming up through the ranks of Dr. Crokes.
+'The Gooch' and company
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+So, what does this mean for the Longford men?
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+"It's funny, you know, but coming from winning a county championship to coming up against the likes of 'The Gooch' Cooper and Sean Fitzgerald is unbelievable.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+"For me growing up I was looking at 'The Gooch', but for us to be coming toe-to-toe with boys like that now is great - that's the stuff of dreams," Keegan confessed.
+L-R: Aidan McElligott; Eoghan Keegan; Aaron Earley; and David McGivney
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+For Aidan McElligott reaching an All-Ireland club semi-final is something to relish.
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+He and his four brothers are key members of the Mullinalaghta side and, in fact, 2018 was a particularly special year for the family, in terms of football, as it was the first time all five brothers played together at senior level.
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+Their father, Dan, is a native of Co. Kerry and one of the many people who was instrumental in getting the north-Longford side to where it is today.
+There are that many of us now we nearly make up half a team on our own.
+He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+There are that many of us now we nearly make up half a team on our own.He added: "It is nice, though, to have family around when you are part of a team; we are lucky that there are five of us and that we are still playing together."
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+McElligott, meanwhile, attends college in Tralee and is "up and down" for training.
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+"Yes, it's hectic enough at the minute; but hopefully it will be all worthwhile. At the moment, I'm trying to stay under the radar down in Kerry and stay as focused as I can on the game," he continued.
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+The Mullinalaghta St. Columba's footballer also pointed out that the side is looking forward to the "challenge ahead" next weekend.
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+He insists too that since the club emerged victorious in Leinster, the nerves in the camp have subsided.
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.
+McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+The final was new territory; but the nerves were gone for us, we were trying really to take everything as it came along. To be honest with you, we were also trying to just take everything in.McElligott continued: "Days like these don't really come around too often; you try to enjoy the experience as much as you can as well as knuckling down and preparing for the challenge. We have all relaxed a little bit at this stage, worked really hard and tried to enjoy the experience.
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+"At this time of year we would be starting back into pre-season training and we are hearing stories now about other clubs getting ready for the league and here we are getting ready for an All-Ireland semi-final - it's just unreal.
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+"We are just really looking forward to this and I don't think nerves are going to be a problem on the day."
+Up for the Match special
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+It appears too, at this stage, that the entire county has gotten behind the Mullinalaghta men.
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+More and more signs with messages of support have emerged at the local crossroads - and at other various points around the county - from businesses and sports cubs.
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+Kiernan Milling in Granard is all set to host an 'Up for Match' style fundraiser on Wednesday night (February 13) where an expert panel will provide insights into the eagerly anticipated  game.
+The star-studded GAA expert panel will include: All-Star Armagh All-Ireland winning footballer Oisin McConville; former Westmeath attacker, ex All-Star and Sunday Game pundit Dessie Dolan; and former Monaghan stalwart and GAA commentator Dick Clerkin.
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+"Longford is a small county and support like this means a lot more because you know a lot of the people in the county.
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+"You know the support is genuine; this support means an awful lot to us and we want everyone to know that has not gone unnoticed and is very much appreciated," McElligott said.
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+
+'Beyond a dream'
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+Despite the focus now on Saturday's match, there is still a little room for these mighty men from Mullinalaghta to stop every now and then, pinch themselves and smile at the wonderful realisation of it all.
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+Their efforts have genuinely brought so much delight to themselves, their families, their neighbours and their friends - (I can personally vouch for that as a proud Mullinalaghta native myself).
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+"This is beyond a dream; when we were in national school we dreamed of winning a championship.
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+
+"When we started playing, a semi-final was as far as Mullinalaghta ever got. So, to see what's happening now, is beyond a dream. It is just unbelievable," concluded McGivney.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Mighty Mullinalaghta returns to heroes' welcome at crossroads 
+
+
+

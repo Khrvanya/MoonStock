@@ -1,0 +1,783 @@
+Panoramic and compact farm with equestrian facilities for sale on 156acA wonderful and compact property with equestrian facilities Litton Farm in Sandyway, South Molton, Co. Devon, has been put on the market by selling agents Savills.
+Litten Farm has about 156.84ac and is available for purchase as a whole.
+It is located: 4 miles from Withypool; 8 miles from South Molton; 6 miles from Exford; 10.5 miles from Dulverton; and 21.5 miles from Tiverton.
+Communication links are excellent, with the M5 motorway at Junction 25 or at Junction 24.
+
+Connectivity
+Exmoor is renowned for its wonderful countryside, far-reaching views and stunning scenery. Litton Farm takes full advantage of all of these, occupying a very private location in the heart of the moor and yet is only a short distance from the centre of Withypool.
+There are mainline rail links from Tiverton and Taunton, including London Paddington and airports at Exeter and Bristol.
+
+Gardens and outbuildings
+The gardens lie to the south of the house with a large stone cart shed that could be incorporated into the main accommodation, subject to the appropriate permissions. To the rear of the cart shed is a workshop, a dog kennel and a mono-pitched building.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Predominantly permanent pasture, the land is organic and within a mid-tier countryside stewardship scheme. The pasture land is split by hedgerows and stock fencing into good-sized grazing paddocks. The grassland is grazed under a licence from March to October each year.
+The land extends to 156.84ac in all and comprises a mix of good-quality pasture, small pockets of woodland and scrub and is suitable for agriculture, equestrian, conservation or purely amenity use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Equestrian buildings
+There is a general purpose building currently used for stabling and incorporates seven American-style stables. The building is connected to electricity and water, and is occupied under a licence.
+To the rear of the building is a mobile home which is connected to all services. At the entrance to the yard is a small outbuilding that incorporates four stables and storage area.
+Property details
+Litton Farm sits at the head of a long gravel drive, with a tiled roof and far-reaching views of the Exmoor National Park.
+The property has a very well laid out accommodation, but also offers the potential to develop into the adjacent cart shed, subject to the appropriate planning permissions.
+ The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room. Litten Farm has about 156.84ac and is available for purchase as a whole.
+It is located: 4 miles from Withypool; 8 miles from South Molton; 6 miles from Exford; 10.5 miles from Dulverton; and 21.5 miles from Tiverton.
+Communication links are excellent, with the M5 motorway at Junction 25 or at Junction 24.
+
+Connectivity
+Exmoor is renowned for its wonderful countryside, far-reaching views and stunning scenery. Litton Farm takes full advantage of all of these, occupying a very private location in the heart of the moor and yet is only a short distance from the centre of Withypool.
+There are mainline rail links from Tiverton and Taunton, including London Paddington and airports at Exeter and Bristol.
+
+Gardens and outbuildings
+The gardens lie to the south of the house with a large stone cart shed that could be incorporated into the main accommodation, subject to the appropriate permissions. To the rear of the cart shed is a workshop, a dog kennel and a mono-pitched building.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Predominantly permanent pasture, the land is organic and within a mid-tier countryside stewardship scheme. The pasture land is split by hedgerows and stock fencing into good-sized grazing paddocks. The grassland is grazed under a licence from March to October each year.
+The land extends to 156.84ac in all and comprises a mix of good-quality pasture, small pockets of woodland and scrub and is suitable for agriculture, equestrian, conservation or purely amenity use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Equestrian buildings
+There is a general purpose building currently used for stabling and incorporates seven American-style stables. The building is connected to electricity and water, and is occupied under a licence.
+To the rear of the building is a mobile home which is connected to all services. At the entrance to the yard is a small outbuilding that incorporates four stables and storage area.
+Property details
+Litton Farm sits at the head of a long gravel drive, with a tiled roof and far-reaching views of the Exmoor National Park.
+The property has a very well laid out accommodation, but also offers the potential to develop into the adjacent cart shed, subject to the appropriate planning permissions.
+ The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room. It is located: 4 miles from Withypool; 8 miles from South Molton; 6 miles from Exford; 10.5 miles from Dulverton; and 21.5 miles from Tiverton.
+Communication links are excellent, with the M5 motorway at Junction 25 or at Junction 24.
+
+Connectivity
+Exmoor is renowned for its wonderful countryside, far-reaching views and stunning scenery. Litton Farm takes full advantage of all of these, occupying a very private location in the heart of the moor and yet is only a short distance from the centre of Withypool.
+There are mainline rail links from Tiverton and Taunton, including London Paddington and airports at Exeter and Bristol.
+
+Gardens and outbuildings
+The gardens lie to the south of the house with a large stone cart shed that could be incorporated into the main accommodation, subject to the appropriate permissions. To the rear of the cart shed is a workshop, a dog kennel and a mono-pitched building.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Predominantly permanent pasture, the land is organic and within a mid-tier countryside stewardship scheme. The pasture land is split by hedgerows and stock fencing into good-sized grazing paddocks. The grassland is grazed under a licence from March to October each year.
+The land extends to 156.84ac in all and comprises a mix of good-quality pasture, small pockets of woodland and scrub and is suitable for agriculture, equestrian, conservation or purely amenity use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Equestrian buildings
+There is a general purpose building currently used for stabling and incorporates seven American-style stables. The building is connected to electricity and water, and is occupied under a licence.
+To the rear of the building is a mobile home which is connected to all services. At the entrance to the yard is a small outbuilding that incorporates four stables and storage area.
+Property details
+Litton Farm sits at the head of a long gravel drive, with a tiled roof and far-reaching views of the Exmoor National Park.
+The property has a very well laid out accommodation, but also offers the potential to develop into the adjacent cart shed, subject to the appropriate planning permissions.
+ The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room. Communication links are excellent, with the M5 motorway at Junction 25 or at Junction 24.
+
+Connectivity
+Exmoor is renowned for its wonderful countryside, far-reaching views and stunning scenery. Litton Farm takes full advantage of all of these, occupying a very private location in the heart of the moor and yet is only a short distance from the centre of Withypool.
+There are mainline rail links from Tiverton and Taunton, including London Paddington and airports at Exeter and Bristol.
+
+Gardens and outbuildings
+The gardens lie to the south of the house with a large stone cart shed that could be incorporated into the main accommodation, subject to the appropriate permissions. To the rear of the cart shed is a workshop, a dog kennel and a mono-pitched building.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Predominantly permanent pasture, the land is organic and within a mid-tier countryside stewardship scheme. The pasture land is split by hedgerows and stock fencing into good-sized grazing paddocks. The grassland is grazed under a licence from March to October each year.
+The land extends to 156.84ac in all and comprises a mix of good-quality pasture, small pockets of woodland and scrub and is suitable for agriculture, equestrian, conservation or purely amenity use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Equestrian buildings
+There is a general purpose building currently used for stabling and incorporates seven American-style stables. The building is connected to electricity and water, and is occupied under a licence.
+To the rear of the building is a mobile home which is connected to all services. At the entrance to the yard is a small outbuilding that incorporates four stables and storage area.
+Property details
+Litton Farm sits at the head of a long gravel drive, with a tiled roof and far-reaching views of the Exmoor National Park.
+The property has a very well laid out accommodation, but also offers the potential to develop into the adjacent cart shed, subject to the appropriate planning permissions.
+ The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room. 
+Connectivity
+Exmoor is renowned for its wonderful countryside, far-reaching views and stunning scenery. Litton Farm takes full advantage of all of these, occupying a very private location in the heart of the moor and yet is only a short distance from the centre of Withypool.
+There are mainline rail links from Tiverton and Taunton, including London Paddington and airports at Exeter and Bristol.
+
+Gardens and outbuildings
+The gardens lie to the south of the house with a large stone cart shed that could be incorporated into the main accommodation, subject to the appropriate permissions. To the rear of the cart shed is a workshop, a dog kennel and a mono-pitched building.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Predominantly permanent pasture, the land is organic and within a mid-tier countryside stewardship scheme. The pasture land is split by hedgerows and stock fencing into good-sized grazing paddocks. The grassland is grazed under a licence from March to October each year.
+The land extends to 156.84ac in all and comprises a mix of good-quality pasture, small pockets of woodland and scrub and is suitable for agriculture, equestrian, conservation or purely amenity use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Equestrian buildings
+There is a general purpose building currently used for stabling and incorporates seven American-style stables. The building is connected to electricity and water, and is occupied under a licence.
+To the rear of the building is a mobile home which is connected to all services. At the entrance to the yard is a small outbuilding that incorporates four stables and storage area.
+Property details
+Litton Farm sits at the head of a long gravel drive, with a tiled roof and far-reaching views of the Exmoor National Park.
+The property has a very well laid out accommodation, but also offers the potential to develop into the adjacent cart shed, subject to the appropriate planning permissions.
+ The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room. Exmoor is renowned for its wonderful countryside, far-reaching views and stunning scenery. Litton Farm takes full advantage of all of these, occupying a very private location in the heart of the moor and yet is only a short distance from the centre of Withypool.
+There are mainline rail links from Tiverton and Taunton, including London Paddington and airports at Exeter and Bristol.
+
+Gardens and outbuildings
+The gardens lie to the south of the house with a large stone cart shed that could be incorporated into the main accommodation, subject to the appropriate permissions. To the rear of the cart shed is a workshop, a dog kennel and a mono-pitched building.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Predominantly permanent pasture, the land is organic and within a mid-tier countryside stewardship scheme. The pasture land is split by hedgerows and stock fencing into good-sized grazing paddocks. The grassland is grazed under a licence from March to October each year.
+The land extends to 156.84ac in all and comprises a mix of good-quality pasture, small pockets of woodland and scrub and is suitable for agriculture, equestrian, conservation or purely amenity use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Equestrian buildings
+There is a general purpose building currently used for stabling and incorporates seven American-style stables. The building is connected to electricity and water, and is occupied under a licence.
+To the rear of the building is a mobile home which is connected to all services. At the entrance to the yard is a small outbuilding that incorporates four stables and storage area.
+Property details
+Litton Farm sits at the head of a long gravel drive, with a tiled roof and far-reaching views of the Exmoor National Park.
+The property has a very well laid out accommodation, but also offers the potential to develop into the adjacent cart shed, subject to the appropriate planning permissions.
+ The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room. There are mainline rail links from Tiverton and Taunton, including London Paddington and airports at Exeter and Bristol.
+
+Gardens and outbuildings
+The gardens lie to the south of the house with a large stone cart shed that could be incorporated into the main accommodation, subject to the appropriate permissions. To the rear of the cart shed is a workshop, a dog kennel and a mono-pitched building.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Predominantly permanent pasture, the land is organic and within a mid-tier countryside stewardship scheme. The pasture land is split by hedgerows and stock fencing into good-sized grazing paddocks. The grassland is grazed under a licence from March to October each year.
+The land extends to 156.84ac in all and comprises a mix of good-quality pasture, small pockets of woodland and scrub and is suitable for agriculture, equestrian, conservation or purely amenity use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Equestrian buildings
+There is a general purpose building currently used for stabling and incorporates seven American-style stables. The building is connected to electricity and water, and is occupied under a licence.
+To the rear of the building is a mobile home which is connected to all services. At the entrance to the yard is a small outbuilding that incorporates four stables and storage area.
+Property details
+Litton Farm sits at the head of a long gravel drive, with a tiled roof and far-reaching views of the Exmoor National Park.
+The property has a very well laid out accommodation, but also offers the potential to develop into the adjacent cart shed, subject to the appropriate planning permissions.
+ The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room. 
+Gardens and outbuildings
+The gardens lie to the south of the house with a large stone cart shed that could be incorporated into the main accommodation, subject to the appropriate permissions. To the rear of the cart shed is a workshop, a dog kennel and a mono-pitched building.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Predominantly permanent pasture, the land is organic and within a mid-tier countryside stewardship scheme. The pasture land is split by hedgerows and stock fencing into good-sized grazing paddocks. The grassland is grazed under a licence from March to October each year.
+The land extends to 156.84ac in all and comprises a mix of good-quality pasture, small pockets of woodland and scrub and is suitable for agriculture, equestrian, conservation or purely amenity use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Equestrian buildings
+There is a general purpose building currently used for stabling and incorporates seven American-style stables. The building is connected to electricity and water, and is occupied under a licence.
+To the rear of the building is a mobile home which is connected to all services. At the entrance to the yard is a small outbuilding that incorporates four stables and storage area.
+Property details
+Litton Farm sits at the head of a long gravel drive, with a tiled roof and far-reaching views of the Exmoor National Park.
+The property has a very well laid out accommodation, but also offers the potential to develop into the adjacent cart shed, subject to the appropriate planning permissions.
+ The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room. The gardens lie to the south of the house with a large stone cart shed that could be incorporated into the main accommodation, subject to the appropriate permissions. To the rear of the cart shed is a workshop, a dog kennel and a mono-pitched building.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Predominantly permanent pasture, the land is organic and within a mid-tier countryside stewardship scheme. The pasture land is split by hedgerows and stock fencing into good-sized grazing paddocks. The grassland is grazed under a licence from March to October each year.
+The land extends to 156.84ac in all and comprises a mix of good-quality pasture, small pockets of woodland and scrub and is suitable for agriculture, equestrian, conservation or purely amenity use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Equestrian buildings
+There is a general purpose building currently used for stabling and incorporates seven American-style stables. The building is connected to electricity and water, and is occupied under a licence.
+To the rear of the building is a mobile home which is connected to all services. At the entrance to the yard is a small outbuilding that incorporates four stables and storage area.
+Property details
+Litton Farm sits at the head of a long gravel drive, with a tiled roof and far-reaching views of the Exmoor National Park.
+The property has a very well laid out accommodation, but also offers the potential to develop into the adjacent cart shed, subject to the appropriate planning permissions.
+ The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room. Predominantly permanent pasture, the land is organic and within a mid-tier countryside stewardship scheme. The pasture land is split by hedgerows and stock fencing into good-sized grazing paddocks. The grassland is grazed under a licence from March to October each year.
+The land extends to 156.84ac in all and comprises a mix of good-quality pasture, small pockets of woodland and scrub and is suitable for agriculture, equestrian, conservation or purely amenity use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Equestrian buildings
+There is a general purpose building currently used for stabling and incorporates seven American-style stables. The building is connected to electricity and water, and is occupied under a licence.
+To the rear of the building is a mobile home which is connected to all services. At the entrance to the yard is a small outbuilding that incorporates four stables and storage area.
+Property details
+Litton Farm sits at the head of a long gravel drive, with a tiled roof and far-reaching views of the Exmoor National Park.
+The property has a very well laid out accommodation, but also offers the potential to develop into the adjacent cart shed, subject to the appropriate planning permissions.
+ The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room. The land extends to 156.84ac in all and comprises a mix of good-quality pasture, small pockets of woodland and scrub and is suitable for agriculture, equestrian, conservation or purely amenity use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Equestrian buildings
+There is a general purpose building currently used for stabling and incorporates seven American-style stables. The building is connected to electricity and water, and is occupied under a licence.
+To the rear of the building is a mobile home which is connected to all services. At the entrance to the yard is a small outbuilding that incorporates four stables and storage area.
+Property details
+Litton Farm sits at the head of a long gravel drive, with a tiled roof and far-reaching views of the Exmoor National Park.
+The property has a very well laid out accommodation, but also offers the potential to develop into the adjacent cart shed, subject to the appropriate planning permissions.
+ The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room. There is a general purpose building currently used for stabling and incorporates seven American-style stables. The building is connected to electricity and water, and is occupied under a licence.
+To the rear of the building is a mobile home which is connected to all services. At the entrance to the yard is a small outbuilding that incorporates four stables and storage area.
+Property details
+Litton Farm sits at the head of a long gravel drive, with a tiled roof and far-reaching views of the Exmoor National Park.
+The property has a very well laid out accommodation, but also offers the potential to develop into the adjacent cart shed, subject to the appropriate planning permissions.
+ The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room. To the rear of the building is a mobile home which is connected to all services. At the entrance to the yard is a small outbuilding that incorporates four stables and storage area.
+Property details
+Litton Farm sits at the head of a long gravel drive, with a tiled roof and far-reaching views of the Exmoor National Park.
+The property has a very well laid out accommodation, but also offers the potential to develop into the adjacent cart shed, subject to the appropriate planning permissions.
+ The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room. Litton Farm sits at the head of a long gravel drive, with a tiled roof and far-reaching views of the Exmoor National Park.
+The property has a very well laid out accommodation, but also offers the potential to develop into the adjacent cart shed, subject to the appropriate planning permissions.
+ The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room. The property has a very well laid out accommodation, but also offers the potential to develop into the adjacent cart shed, subject to the appropriate planning permissions.
+ The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room.  The farmhouse includes:
+
+A large entrance hall;
+A porch conservatory entrance to a covered patio;
+A large double-aspect kitchen;
+A well-proportioned dining room with a slate floor;
+A south-facing sun room;
+A well-equipped utility room;
+Four double bedrooms (two en-suite); and
+A family shower room. 

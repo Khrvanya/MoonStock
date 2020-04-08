@@ -1,0 +1,1169 @@
+The curious ‘case’ of the tractor run on the south coastThe county of Cork has been awash with tractor runs recently. Among the most recent was an escapade around the locality of Roberts Cove.
+The run, which was open not only to tractors but vintage cars and other vehicles too, took place last Sunday (January 6). Proceeds from the event are destined for the Tracton Defibrillator Program.
+Image source: 'Dave P'
+The run included some noteworthy machines, not least a pairing of big-boned Case tractors - namely a 2294 and a 2090 (pictured below; side-by-side).
+Image source: 'Dave P'
+The 154hp 2294 (on the left) is certainly a lofty beast; the older 2090 (on the right) is equally imposing.
+The pictures accompanying this article are from the Tractor Runs - Cork Facebook page. It's a new site dedicated to tractor runs and associated gatherings right across Co. Cork. All of these pictures are courtesy of 'Dave P'.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Don't forget to check out our report from a recent mammoth-sized tractor run in Kilbrittain - also in Co. Cork (just a mile or so from the coast).
+Also Read: 436 tractors take part in mammoth Cork tractor run
+According to the organisers, 436 tractors partook in that run - a sizeable tally by any reckoning.
+Entries came from a variety of sources - farmers' yards, contractors' fleets and enthusiasts' private collections. Some of the participating tractors were practically new; others were older than some of the drivers.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+436 tractors take part in mammoth Cork tractor run 
+
+
+
+The run, which was open not only to tractors but vintage cars and other vehicles too, took place last Sunday (January 6). Proceeds from the event are destined for the Tracton Defibrillator Program.
+Image source: 'Dave P'
+The run included some noteworthy machines, not least a pairing of big-boned Case tractors - namely a 2294 and a 2090 (pictured below; side-by-side).
+Image source: 'Dave P'
+The 154hp 2294 (on the left) is certainly a lofty beast; the older 2090 (on the right) is equally imposing.
+The pictures accompanying this article are from the Tractor Runs - Cork Facebook page. It's a new site dedicated to tractor runs and associated gatherings right across Co. Cork. All of these pictures are courtesy of 'Dave P'.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Don't forget to check out our report from a recent mammoth-sized tractor run in Kilbrittain - also in Co. Cork (just a mile or so from the coast).
+Also Read: 436 tractors take part in mammoth Cork tractor run
+According to the organisers, 436 tractors partook in that run - a sizeable tally by any reckoning.
+Entries came from a variety of sources - farmers' yards, contractors' fleets and enthusiasts' private collections. Some of the participating tractors were practically new; others were older than some of the drivers.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+436 tractors take part in mammoth Cork tractor run 
+
+
+
+The run included some noteworthy machines, not least a pairing of big-boned Case tractors - namely a 2294 and a 2090 (pictured below; side-by-side).
+Image source: 'Dave P'
+The 154hp 2294 (on the left) is certainly a lofty beast; the older 2090 (on the right) is equally imposing.
+The pictures accompanying this article are from the Tractor Runs - Cork Facebook page. It's a new site dedicated to tractor runs and associated gatherings right across Co. Cork. All of these pictures are courtesy of 'Dave P'.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Don't forget to check out our report from a recent mammoth-sized tractor run in Kilbrittain - also in Co. Cork (just a mile or so from the coast).
+Also Read: 436 tractors take part in mammoth Cork tractor run
+According to the organisers, 436 tractors partook in that run - a sizeable tally by any reckoning.
+Entries came from a variety of sources - farmers' yards, contractors' fleets and enthusiasts' private collections. Some of the participating tractors were practically new; others were older than some of the drivers.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+436 tractors take part in mammoth Cork tractor run 
+
+
+
+The 154hp 2294 (on the left) is certainly a lofty beast; the older 2090 (on the right) is equally imposing.
+The pictures accompanying this article are from the Tractor Runs - Cork Facebook page. It's a new site dedicated to tractor runs and associated gatherings right across Co. Cork. All of these pictures are courtesy of 'Dave P'.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Don't forget to check out our report from a recent mammoth-sized tractor run in Kilbrittain - also in Co. Cork (just a mile or so from the coast).
+Also Read: 436 tractors take part in mammoth Cork tractor run
+According to the organisers, 436 tractors partook in that run - a sizeable tally by any reckoning.
+Entries came from a variety of sources - farmers' yards, contractors' fleets and enthusiasts' private collections. Some of the participating tractors were practically new; others were older than some of the drivers.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+436 tractors take part in mammoth Cork tractor run 
+
+
+
+The pictures accompanying this article are from the Tractor Runs - Cork Facebook page. It's a new site dedicated to tractor runs and associated gatherings right across Co. Cork. All of these pictures are courtesy of 'Dave P'.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Don't forget to check out our report from a recent mammoth-sized tractor run in Kilbrittain - also in Co. Cork (just a mile or so from the coast).
+Also Read: 436 tractors take part in mammoth Cork tractor run
+According to the organisers, 436 tractors partook in that run - a sizeable tally by any reckoning.
+Entries came from a variety of sources - farmers' yards, contractors' fleets and enthusiasts' private collections. Some of the participating tractors were practically new; others were older than some of the drivers.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+436 tractors take part in mammoth Cork tractor run 
+
+
+
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Don't forget to check out our report from a recent mammoth-sized tractor run in Kilbrittain - also in Co. Cork (just a mile or so from the coast).
+Also Read: 436 tractors take part in mammoth Cork tractor run
+According to the organisers, 436 tractors partook in that run - a sizeable tally by any reckoning.
+Entries came from a variety of sources - farmers' yards, contractors' fleets and enthusiasts' private collections. Some of the participating tractors were practically new; others were older than some of the drivers.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+436 tractors take part in mammoth Cork tractor run 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Don't forget to check out our report from a recent mammoth-sized tractor run in Kilbrittain - also in Co. Cork (just a mile or so from the coast).
+Also Read: 436 tractors take part in mammoth Cork tractor run
+According to the organisers, 436 tractors partook in that run - a sizeable tally by any reckoning.
+Entries came from a variety of sources - farmers' yards, contractors' fleets and enthusiasts' private collections. Some of the participating tractors were practically new; others were older than some of the drivers.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+436 tractors take part in mammoth Cork tractor run 
+
+
+
+Don't forget to check out our report from a recent mammoth-sized tractor run in Kilbrittain - also in Co. Cork (just a mile or so from the coast).
+Also Read: 436 tractors take part in mammoth Cork tractor run
+According to the organisers, 436 tractors partook in that run - a sizeable tally by any reckoning.
+Entries came from a variety of sources - farmers' yards, contractors' fleets and enthusiasts' private collections. Some of the participating tractors were practically new; others were older than some of the drivers.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+436 tractors take part in mammoth Cork tractor run 
+
+
+
+According to the organisers, 436 tractors partook in that run - a sizeable tally by any reckoning.
+Entries came from a variety of sources - farmers' yards, contractors' fleets and enthusiasts' private collections. Some of the participating tractors were practically new; others were older than some of the drivers.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+436 tractors take part in mammoth Cork tractor run 
+
+
+
+Entries came from a variety of sources - farmers' yards, contractors' fleets and enthusiasts' private collections. Some of the participating tractors were practically new; others were older than some of the drivers.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+436 tractors take part in mammoth Cork tractor run 
+
+
+

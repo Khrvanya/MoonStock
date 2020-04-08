@@ -1,0 +1,1406 @@
+Auction report Just how ‘Deere’ were these hammer pricesAn auction involving the disposal of a considerable fleet of tractors and equipment from the UK-based Hawk Plant hire group took place late last week (Thursday, March 14, and Friday, March 15).
+Along with a very significant number of plant/construction machines, well over 100 tractors were up for grabs. The tractors were sold on the first day of the sale.
+
+Tim Scrivener was there (at Charleston House, Cruckmoor Lane, Prees Green, Whitchurch, Shropshire) for AgriLand. He snapped these shots as proceedings unfolded.
+The sale was conducted by Euro Auctions.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Here, in this report, we focus on just some of the larger (higher-powered) John Deere tractors that were present.
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (2,377 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (AutoPowr; 2,269 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7310R (AutoPowr; 1,857 hours) sold for PS104,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (2,156 hours) sold for PS87,500
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,856 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,505 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 1,646 hours) sold for PS84,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 2,206 hours) sold for PS82,000
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Eyeing up a tractor bargain like a 'hawk'? 
+
+
+
+Along with a very significant number of plant/construction machines, well over 100 tractors were up for grabs. The tractors were sold on the first day of the sale.
+
+Tim Scrivener was there (at Charleston House, Cruckmoor Lane, Prees Green, Whitchurch, Shropshire) for AgriLand. He snapped these shots as proceedings unfolded.
+The sale was conducted by Euro Auctions.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Here, in this report, we focus on just some of the larger (higher-powered) John Deere tractors that were present.
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (2,377 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (AutoPowr; 2,269 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7310R (AutoPowr; 1,857 hours) sold for PS104,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (2,156 hours) sold for PS87,500
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,856 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,505 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 1,646 hours) sold for PS84,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 2,206 hours) sold for PS82,000
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Eyeing up a tractor bargain like a 'hawk'? 
+
+
+
+
+Tim Scrivener was there (at Charleston House, Cruckmoor Lane, Prees Green, Whitchurch, Shropshire) for AgriLand. He snapped these shots as proceedings unfolded.
+The sale was conducted by Euro Auctions.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Here, in this report, we focus on just some of the larger (higher-powered) John Deere tractors that were present.
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (2,377 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (AutoPowr; 2,269 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7310R (AutoPowr; 1,857 hours) sold for PS104,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (2,156 hours) sold for PS87,500
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,856 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,505 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 1,646 hours) sold for PS84,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 2,206 hours) sold for PS82,000
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Eyeing up a tractor bargain like a 'hawk'? 
+
+
+
+Tim Scrivener was there (at Charleston House, Cruckmoor Lane, Prees Green, Whitchurch, Shropshire) for AgriLand. He snapped these shots as proceedings unfolded.
+The sale was conducted by Euro Auctions.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Here, in this report, we focus on just some of the larger (higher-powered) John Deere tractors that were present.
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (2,377 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (AutoPowr; 2,269 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7310R (AutoPowr; 1,857 hours) sold for PS104,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (2,156 hours) sold for PS87,500
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,856 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,505 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 1,646 hours) sold for PS84,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 2,206 hours) sold for PS82,000
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Eyeing up a tractor bargain like a 'hawk'? 
+
+
+
+The sale was conducted by Euro Auctions.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Here, in this report, we focus on just some of the larger (higher-powered) John Deere tractors that were present.
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (2,377 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (AutoPowr; 2,269 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7310R (AutoPowr; 1,857 hours) sold for PS104,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (2,156 hours) sold for PS87,500
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,856 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,505 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 1,646 hours) sold for PS84,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 2,206 hours) sold for PS82,000
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Eyeing up a tractor bargain like a 'hawk'? 
+
+
+
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Here, in this report, we focus on just some of the larger (higher-powered) John Deere tractors that were present.
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (2,377 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (AutoPowr; 2,269 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7310R (AutoPowr; 1,857 hours) sold for PS104,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (2,156 hours) sold for PS87,500
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,856 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,505 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 1,646 hours) sold for PS84,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 2,206 hours) sold for PS82,000
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Eyeing up a tractor bargain like a 'hawk'? 
+
+
+
+Here, in this report, we focus on just some of the larger (higher-powered) John Deere tractors that were present.
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (2,377 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (AutoPowr; 2,269 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7310R (AutoPowr; 1,857 hours) sold for PS104,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (2,156 hours) sold for PS87,500
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,856 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,505 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 1,646 hours) sold for PS84,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 2,206 hours) sold for PS82,000
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Eyeing up a tractor bargain like a 'hawk'? 
+
+
+
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (2,377 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (AutoPowr; 2,269 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7310R (AutoPowr; 1,857 hours) sold for PS104,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (2,156 hours) sold for PS87,500
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,856 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,505 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 1,646 hours) sold for PS84,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 2,206 hours) sold for PS82,000
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Eyeing up a tractor bargain like a 'hawk'? 
+
+
+
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (2,377 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (AutoPowr; 2,269 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7310R (AutoPowr; 1,857 hours) sold for PS104,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (2,156 hours) sold for PS87,500
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,856 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,505 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 1,646 hours) sold for PS84,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 2,206 hours) sold for PS82,000
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Eyeing up a tractor bargain like a 'hawk'? 
+
+
+
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (2,377 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (AutoPowr; 2,269 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7310R (AutoPowr; 1,857 hours) sold for PS104,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (2,156 hours) sold for PS87,500
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,856 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,505 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 1,646 hours) sold for PS84,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 2,206 hours) sold for PS82,000
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Eyeing up a tractor bargain like a 'hawk'? 
+
+
+
+
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (2,377 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 8370R (AutoPowr; 2,269 hours) sold for PS109,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7310R (AutoPowr; 1,857 hours) sold for PS104,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (2,156 hours) sold for PS87,500
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,856 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7290R (AutoPowr; 1,505 hours) sold for PS97,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 1,646 hours) sold for PS84,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 7250R (AutoPowr; 2,206 hours) sold for PS82,000
+
+
+
+
+
+
+
+
+A section of the crowd at the auction
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Eyeing up a tractor bargain like a 'hawk'? 
+
+
+

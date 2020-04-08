@@ -1,0 +1,3185 @@
+Pics Silage kit prepped for big contracting machinery auction in Co. RoscommonA clearance auction - involving a significant fleet of contracting machinery - will take place tomorrow (Saturday, February 2).
+Also Read: Major contracting machinery auction looms large in Co. Roscommon
+AgriLand visited the yard yesterday - to see the machinery up close and to bring you these photographs (above and below).
+The sale is scheduled to kick off at 11:30am near Castlerea, Co. Roscommon. The entries all come from one contracting fleet - namely that of David Connolly.
+
+The auctioneer is Micheal Doyle.
+Much of the talk ahead of the sale revolves around the two forage harvesters - both John Deere models.
+
+The newer of the two is a 7400 (pictured below). According to the auctioneer, it's a 2006 machine and has 3,910 engine hours and 2,795 drum hours on the clock.
+
+As is evident from these pictures, it's fitted with a 630B (3m-wide) pick-up reel/header. This machine is likely to attract significant attention.
+
+The second machine is older; it's a 6710 (pictured below). The auctioneer says that this 1997 example is showing 3,800 engine hours and 2,760 drum hours.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+This harvester is fitted with a 630 (3m-wide) pick-up reel/header. Though considerably older than the 7400, this machine is also likely to prove a major talking point at the auction.
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+AgriLand visited the yard yesterday - to see the machinery up close and to bring you these photographs (above and below).
+The sale is scheduled to kick off at 11:30am near Castlerea, Co. Roscommon. The entries all come from one contracting fleet - namely that of David Connolly.
+
+The auctioneer is Micheal Doyle.
+Much of the talk ahead of the sale revolves around the two forage harvesters - both John Deere models.
+
+The newer of the two is a 7400 (pictured below). According to the auctioneer, it's a 2006 machine and has 3,910 engine hours and 2,795 drum hours on the clock.
+
+As is evident from these pictures, it's fitted with a 630B (3m-wide) pick-up reel/header. This machine is likely to attract significant attention.
+
+The second machine is older; it's a 6710 (pictured below). The auctioneer says that this 1997 example is showing 3,800 engine hours and 2,760 drum hours.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+This harvester is fitted with a 630 (3m-wide) pick-up reel/header. Though considerably older than the 7400, this machine is also likely to prove a major talking point at the auction.
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+The sale is scheduled to kick off at 11:30am near Castlerea, Co. Roscommon. The entries all come from one contracting fleet - namely that of David Connolly.
+
+The auctioneer is Micheal Doyle.
+Much of the talk ahead of the sale revolves around the two forage harvesters - both John Deere models.
+
+The newer of the two is a 7400 (pictured below). According to the auctioneer, it's a 2006 machine and has 3,910 engine hours and 2,795 drum hours on the clock.
+
+As is evident from these pictures, it's fitted with a 630B (3m-wide) pick-up reel/header. This machine is likely to attract significant attention.
+
+The second machine is older; it's a 6710 (pictured below). The auctioneer says that this 1997 example is showing 3,800 engine hours and 2,760 drum hours.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+This harvester is fitted with a 630 (3m-wide) pick-up reel/header. Though considerably older than the 7400, this machine is also likely to prove a major talking point at the auction.
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+
+The auctioneer is Micheal Doyle.
+Much of the talk ahead of the sale revolves around the two forage harvesters - both John Deere models.
+
+The newer of the two is a 7400 (pictured below). According to the auctioneer, it's a 2006 machine and has 3,910 engine hours and 2,795 drum hours on the clock.
+
+As is evident from these pictures, it's fitted with a 630B (3m-wide) pick-up reel/header. This machine is likely to attract significant attention.
+
+The second machine is older; it's a 6710 (pictured below). The auctioneer says that this 1997 example is showing 3,800 engine hours and 2,760 drum hours.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+This harvester is fitted with a 630 (3m-wide) pick-up reel/header. Though considerably older than the 7400, this machine is also likely to prove a major talking point at the auction.
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+The auctioneer is Micheal Doyle.
+Much of the talk ahead of the sale revolves around the two forage harvesters - both John Deere models.
+
+The newer of the two is a 7400 (pictured below). According to the auctioneer, it's a 2006 machine and has 3,910 engine hours and 2,795 drum hours on the clock.
+
+As is evident from these pictures, it's fitted with a 630B (3m-wide) pick-up reel/header. This machine is likely to attract significant attention.
+
+The second machine is older; it's a 6710 (pictured below). The auctioneer says that this 1997 example is showing 3,800 engine hours and 2,760 drum hours.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+This harvester is fitted with a 630 (3m-wide) pick-up reel/header. Though considerably older than the 7400, this machine is also likely to prove a major talking point at the auction.
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+Much of the talk ahead of the sale revolves around the two forage harvesters - both John Deere models.
+
+The newer of the two is a 7400 (pictured below). According to the auctioneer, it's a 2006 machine and has 3,910 engine hours and 2,795 drum hours on the clock.
+
+As is evident from these pictures, it's fitted with a 630B (3m-wide) pick-up reel/header. This machine is likely to attract significant attention.
+
+The second machine is older; it's a 6710 (pictured below). The auctioneer says that this 1997 example is showing 3,800 engine hours and 2,760 drum hours.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+This harvester is fitted with a 630 (3m-wide) pick-up reel/header. Though considerably older than the 7400, this machine is also likely to prove a major talking point at the auction.
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+
+The newer of the two is a 7400 (pictured below). According to the auctioneer, it's a 2006 machine and has 3,910 engine hours and 2,795 drum hours on the clock.
+
+As is evident from these pictures, it's fitted with a 630B (3m-wide) pick-up reel/header. This machine is likely to attract significant attention.
+
+The second machine is older; it's a 6710 (pictured below). The auctioneer says that this 1997 example is showing 3,800 engine hours and 2,760 drum hours.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+This harvester is fitted with a 630 (3m-wide) pick-up reel/header. Though considerably older than the 7400, this machine is also likely to prove a major talking point at the auction.
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+The newer of the two is a 7400 (pictured below). According to the auctioneer, it's a 2006 machine and has 3,910 engine hours and 2,795 drum hours on the clock.
+
+As is evident from these pictures, it's fitted with a 630B (3m-wide) pick-up reel/header. This machine is likely to attract significant attention.
+
+The second machine is older; it's a 6710 (pictured below). The auctioneer says that this 1997 example is showing 3,800 engine hours and 2,760 drum hours.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+This harvester is fitted with a 630 (3m-wide) pick-up reel/header. Though considerably older than the 7400, this machine is also likely to prove a major talking point at the auction.
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+
+As is evident from these pictures, it's fitted with a 630B (3m-wide) pick-up reel/header. This machine is likely to attract significant attention.
+
+The second machine is older; it's a 6710 (pictured below). The auctioneer says that this 1997 example is showing 3,800 engine hours and 2,760 drum hours.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+This harvester is fitted with a 630 (3m-wide) pick-up reel/header. Though considerably older than the 7400, this machine is also likely to prove a major talking point at the auction.
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+As is evident from these pictures, it's fitted with a 630B (3m-wide) pick-up reel/header. This machine is likely to attract significant attention.
+
+The second machine is older; it's a 6710 (pictured below). The auctioneer says that this 1997 example is showing 3,800 engine hours and 2,760 drum hours.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+This harvester is fitted with a 630 (3m-wide) pick-up reel/header. Though considerably older than the 7400, this machine is also likely to prove a major talking point at the auction.
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+
+The second machine is older; it's a 6710 (pictured below). The auctioneer says that this 1997 example is showing 3,800 engine hours and 2,760 drum hours.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+This harvester is fitted with a 630 (3m-wide) pick-up reel/header. Though considerably older than the 7400, this machine is also likely to prove a major talking point at the auction.
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+The second machine is older; it's a 6710 (pictured below). The auctioneer says that this 1997 example is showing 3,800 engine hours and 2,760 drum hours.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+This harvester is fitted with a 630 (3m-wide) pick-up reel/header. Though considerably older than the 7400, this machine is also likely to prove a major talking point at the auction.
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+This harvester is fitted with a 630 (3m-wide) pick-up reel/header. Though considerably older than the 7400, this machine is also likely to prove a major talking point at the auction.
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+This harvester is fitted with a 630 (3m-wide) pick-up reel/header. Though considerably older than the 7400, this machine is also likely to prove a major talking point at the auction.
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+These pictures suggest that this 6710 is in reasonably good condition - for a forager of its age. Bear in mind; this machine is now more than two decades old.
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+Apart from the two harvesters, there'll be a plethora of other equipment going under the hammer tomorrow.
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+Included in the line-up, for example, is this Krone trailed mower-conditioner (pictured below).
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+It's not the only such machine; there are also similar units from Taarup (Kverneland) in the mix (pictured below).
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+Many of the other machines that will be offered (all from the same contractor's fleet) are shown in this gallery (below). It also includes some useful close-up shots of the aforementioned forage harvesters.
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+Click on a thumbnail to open up a full-size image; once opened you can scroll sideways to see the next picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+
+Stay tuned to AgriLand for follow-up articles, in which we'll bring you extensive photographs of the tractors that are destined to go under the hammer tomorrow.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Major contracting machinery auction looms large in Co. Roscommon 
+
+
+

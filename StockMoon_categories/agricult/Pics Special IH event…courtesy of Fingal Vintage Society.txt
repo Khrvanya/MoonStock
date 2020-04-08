@@ -1,0 +1,1164 @@
+Pics Special IH event…courtesy of Fingal Vintage SocietyFingal Vintage Society held a special 'International Harvester (IH) Commemoration Night' on Saturday (February 16) - in association with Case IH dealership Mid-Louth Garage.
+The venue was the City North Hotel (located north of Dublin city - just off the M1 motorway).
+Image source: Ray Mallon (RM Agriphotos)
+The MC (Master of Ceremonies) was Michael Moroney - a well-known figure in the farm machinery industry. Also present was Gareth Gault - the face of Ballymena-based Grassmen.
+Photographer Ray Mallon (RM Agriphotos) was there too - capturing the sights and framing some very eye-catching photographs along the way. Below is just a selection of the many pictures taken by Ray at the event.
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Case IH milestone
+In related news, Case IH celebrated its 175th anniversary last year.
+Jerome Increase Case founded his eponymous farm equipment business way back in 1842, in the US town of Racine, Wisconsin, where the worldwide headquarters of the Case IH agricultural business remain today.
+The company's beginnings were closely linked with those of the American economy, as pioneers moved west and new farms were established there to feed the growing population centres in the east.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+In 1869, Case went on to manufacture its first steam engine tractor. Though mounted on wheels, it was drawn by horses and used only to power other machines. In 1876, the company built its first self-propelled traction steam engine.
+As steam engines quickly replaced horses for threshing, JI Case Threshing Machine Company had become the world's largest producer of steam engines by 1886.
+JI Case manufactured large numbers of steam engines
+In 1902, five companies merged to form the International Harvester company in Chicago. The deal was brokered personally by JP Morgan, the American banker who dominated corporate finance at the time.
+International Harvester produced its first combine harvester in 1915. In 1923, the Farmall - the world's first row-crop tractor - was introduced. More than five million Farmall tractors were sold.
+Fast forward to 1977, when the unique single-rotor Axial-Flow rotary combine harvester came on the scene. This machine made a significant impact on farming across North America.
+Case IH was formed in 1985 when JI Case acquired the agricultural division of International Harvester, uniting Case and IH under a single brand.
+Case IH's first product, the Magnum series (160hp to 240hp), was introduced in 1987 and became the first tractor to win the Industrial Design Excellence Award.
+An early Case IH Magnum tractor in action. Image source: Shane Casey
+The Magnum continues to be one of the most recognizable Case IH products. More than 150,000 have been sold.
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+'Jubilee edition' tractor marks 175 years for Case IH 
+
+
+
+The venue was the City North Hotel (located north of Dublin city - just off the M1 motorway).
+Image source: Ray Mallon (RM Agriphotos)
+The MC (Master of Ceremonies) was Michael Moroney - a well-known figure in the farm machinery industry. Also present was Gareth Gault - the face of Ballymena-based Grassmen.
+Photographer Ray Mallon (RM Agriphotos) was there too - capturing the sights and framing some very eye-catching photographs along the way. Below is just a selection of the many pictures taken by Ray at the event.
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Case IH milestone
+In related news, Case IH celebrated its 175th anniversary last year.
+Jerome Increase Case founded his eponymous farm equipment business way back in 1842, in the US town of Racine, Wisconsin, where the worldwide headquarters of the Case IH agricultural business remain today.
+The company's beginnings were closely linked with those of the American economy, as pioneers moved west and new farms were established there to feed the growing population centres in the east.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+In 1869, Case went on to manufacture its first steam engine tractor. Though mounted on wheels, it was drawn by horses and used only to power other machines. In 1876, the company built its first self-propelled traction steam engine.
+As steam engines quickly replaced horses for threshing, JI Case Threshing Machine Company had become the world's largest producer of steam engines by 1886.
+JI Case manufactured large numbers of steam engines
+In 1902, five companies merged to form the International Harvester company in Chicago. The deal was brokered personally by JP Morgan, the American banker who dominated corporate finance at the time.
+International Harvester produced its first combine harvester in 1915. In 1923, the Farmall - the world's first row-crop tractor - was introduced. More than five million Farmall tractors were sold.
+Fast forward to 1977, when the unique single-rotor Axial-Flow rotary combine harvester came on the scene. This machine made a significant impact on farming across North America.
+Case IH was formed in 1985 when JI Case acquired the agricultural division of International Harvester, uniting Case and IH under a single brand.
+Case IH's first product, the Magnum series (160hp to 240hp), was introduced in 1987 and became the first tractor to win the Industrial Design Excellence Award.
+An early Case IH Magnum tractor in action. Image source: Shane Casey
+The Magnum continues to be one of the most recognizable Case IH products. More than 150,000 have been sold.
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+'Jubilee edition' tractor marks 175 years for Case IH 
+
+
+
+The MC (Master of Ceremonies) was Michael Moroney - a well-known figure in the farm machinery industry. Also present was Gareth Gault - the face of Ballymena-based Grassmen.
+Photographer Ray Mallon (RM Agriphotos) was there too - capturing the sights and framing some very eye-catching photographs along the way. Below is just a selection of the many pictures taken by Ray at the event.
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Case IH milestone
+In related news, Case IH celebrated its 175th anniversary last year.
+Jerome Increase Case founded his eponymous farm equipment business way back in 1842, in the US town of Racine, Wisconsin, where the worldwide headquarters of the Case IH agricultural business remain today.
+The company's beginnings were closely linked with those of the American economy, as pioneers moved west and new farms were established there to feed the growing population centres in the east.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+In 1869, Case went on to manufacture its first steam engine tractor. Though mounted on wheels, it was drawn by horses and used only to power other machines. In 1876, the company built its first self-propelled traction steam engine.
+As steam engines quickly replaced horses for threshing, JI Case Threshing Machine Company had become the world's largest producer of steam engines by 1886.
+JI Case manufactured large numbers of steam engines
+In 1902, five companies merged to form the International Harvester company in Chicago. The deal was brokered personally by JP Morgan, the American banker who dominated corporate finance at the time.
+International Harvester produced its first combine harvester in 1915. In 1923, the Farmall - the world's first row-crop tractor - was introduced. More than five million Farmall tractors were sold.
+Fast forward to 1977, when the unique single-rotor Axial-Flow rotary combine harvester came on the scene. This machine made a significant impact on farming across North America.
+Case IH was formed in 1985 when JI Case acquired the agricultural division of International Harvester, uniting Case and IH under a single brand.
+Case IH's first product, the Magnum series (160hp to 240hp), was introduced in 1987 and became the first tractor to win the Industrial Design Excellence Award.
+An early Case IH Magnum tractor in action. Image source: Shane Casey
+The Magnum continues to be one of the most recognizable Case IH products. More than 150,000 have been sold.
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+'Jubilee edition' tractor marks 175 years for Case IH 
+
+
+
+Photographer Ray Mallon (RM Agriphotos) was there too - capturing the sights and framing some very eye-catching photographs along the way. Below is just a selection of the many pictures taken by Ray at the event.
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+
+
+
+
+
+
+
+Image source: Ray Mallon (RM Agriphotos)
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Case IH milestone
+In related news, Case IH celebrated its 175th anniversary last year.
+Jerome Increase Case founded his eponymous farm equipment business way back in 1842, in the US town of Racine, Wisconsin, where the worldwide headquarters of the Case IH agricultural business remain today.
+The company's beginnings were closely linked with those of the American economy, as pioneers moved west and new farms were established there to feed the growing population centres in the east.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+In 1869, Case went on to manufacture its first steam engine tractor. Though mounted on wheels, it was drawn by horses and used only to power other machines. In 1876, the company built its first self-propelled traction steam engine.
+As steam engines quickly replaced horses for threshing, JI Case Threshing Machine Company had become the world's largest producer of steam engines by 1886.
+JI Case manufactured large numbers of steam engines
+In 1902, five companies merged to form the International Harvester company in Chicago. The deal was brokered personally by JP Morgan, the American banker who dominated corporate finance at the time.
+International Harvester produced its first combine harvester in 1915. In 1923, the Farmall - the world's first row-crop tractor - was introduced. More than five million Farmall tractors were sold.
+Fast forward to 1977, when the unique single-rotor Axial-Flow rotary combine harvester came on the scene. This machine made a significant impact on farming across North America.
+Case IH was formed in 1985 when JI Case acquired the agricultural division of International Harvester, uniting Case and IH under a single brand.
+Case IH's first product, the Magnum series (160hp to 240hp), was introduced in 1987 and became the first tractor to win the Industrial Design Excellence Award.
+An early Case IH Magnum tractor in action. Image source: Shane Casey
+The Magnum continues to be one of the most recognizable Case IH products. More than 150,000 have been sold.
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+'Jubilee edition' tractor marks 175 years for Case IH 
+
+
+
+In related news, Case IH celebrated its 175th anniversary last year.
+Jerome Increase Case founded his eponymous farm equipment business way back in 1842, in the US town of Racine, Wisconsin, where the worldwide headquarters of the Case IH agricultural business remain today.
+The company's beginnings were closely linked with those of the American economy, as pioneers moved west and new farms were established there to feed the growing population centres in the east.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+In 1869, Case went on to manufacture its first steam engine tractor. Though mounted on wheels, it was drawn by horses and used only to power other machines. In 1876, the company built its first self-propelled traction steam engine.
+As steam engines quickly replaced horses for threshing, JI Case Threshing Machine Company had become the world's largest producer of steam engines by 1886.
+JI Case manufactured large numbers of steam engines
+In 1902, five companies merged to form the International Harvester company in Chicago. The deal was brokered personally by JP Morgan, the American banker who dominated corporate finance at the time.
+International Harvester produced its first combine harvester in 1915. In 1923, the Farmall - the world's first row-crop tractor - was introduced. More than five million Farmall tractors were sold.
+Fast forward to 1977, when the unique single-rotor Axial-Flow rotary combine harvester came on the scene. This machine made a significant impact on farming across North America.
+Case IH was formed in 1985 when JI Case acquired the agricultural division of International Harvester, uniting Case and IH under a single brand.
+Case IH's first product, the Magnum series (160hp to 240hp), was introduced in 1987 and became the first tractor to win the Industrial Design Excellence Award.
+An early Case IH Magnum tractor in action. Image source: Shane Casey
+The Magnum continues to be one of the most recognizable Case IH products. More than 150,000 have been sold.
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+'Jubilee edition' tractor marks 175 years for Case IH 
+
+
+
+Jerome Increase Case founded his eponymous farm equipment business way back in 1842, in the US town of Racine, Wisconsin, where the worldwide headquarters of the Case IH agricultural business remain today.
+The company's beginnings were closely linked with those of the American economy, as pioneers moved west and new farms were established there to feed the growing population centres in the east.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+In 1869, Case went on to manufacture its first steam engine tractor. Though mounted on wheels, it was drawn by horses and used only to power other machines. In 1876, the company built its first self-propelled traction steam engine.
+As steam engines quickly replaced horses for threshing, JI Case Threshing Machine Company had become the world's largest producer of steam engines by 1886.
+JI Case manufactured large numbers of steam engines
+In 1902, five companies merged to form the International Harvester company in Chicago. The deal was brokered personally by JP Morgan, the American banker who dominated corporate finance at the time.
+International Harvester produced its first combine harvester in 1915. In 1923, the Farmall - the world's first row-crop tractor - was introduced. More than five million Farmall tractors were sold.
+Fast forward to 1977, when the unique single-rotor Axial-Flow rotary combine harvester came on the scene. This machine made a significant impact on farming across North America.
+Case IH was formed in 1985 when JI Case acquired the agricultural division of International Harvester, uniting Case and IH under a single brand.
+Case IH's first product, the Magnum series (160hp to 240hp), was introduced in 1987 and became the first tractor to win the Industrial Design Excellence Award.
+An early Case IH Magnum tractor in action. Image source: Shane Casey
+The Magnum continues to be one of the most recognizable Case IH products. More than 150,000 have been sold.
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+'Jubilee edition' tractor marks 175 years for Case IH 
+
+
+
+The company's beginnings were closely linked with those of the American economy, as pioneers moved west and new farms were established there to feed the growing population centres in the east.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+In 1869, Case went on to manufacture its first steam engine tractor. Though mounted on wheels, it was drawn by horses and used only to power other machines. In 1876, the company built its first self-propelled traction steam engine.
+As steam engines quickly replaced horses for threshing, JI Case Threshing Machine Company had become the world's largest producer of steam engines by 1886.
+JI Case manufactured large numbers of steam engines
+In 1902, five companies merged to form the International Harvester company in Chicago. The deal was brokered personally by JP Morgan, the American banker who dominated corporate finance at the time.
+International Harvester produced its first combine harvester in 1915. In 1923, the Farmall - the world's first row-crop tractor - was introduced. More than five million Farmall tractors were sold.
+Fast forward to 1977, when the unique single-rotor Axial-Flow rotary combine harvester came on the scene. This machine made a significant impact on farming across North America.
+Case IH was formed in 1985 when JI Case acquired the agricultural division of International Harvester, uniting Case and IH under a single brand.
+Case IH's first product, the Magnum series (160hp to 240hp), was introduced in 1987 and became the first tractor to win the Industrial Design Excellence Award.
+An early Case IH Magnum tractor in action. Image source: Shane Casey
+The Magnum continues to be one of the most recognizable Case IH products. More than 150,000 have been sold.
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+'Jubilee edition' tractor marks 175 years for Case IH 
+
+
+
+As steam engines quickly replaced horses for threshing, JI Case Threshing Machine Company had become the world's largest producer of steam engines by 1886.
+JI Case manufactured large numbers of steam engines
+In 1902, five companies merged to form the International Harvester company in Chicago. The deal was brokered personally by JP Morgan, the American banker who dominated corporate finance at the time.
+International Harvester produced its first combine harvester in 1915. In 1923, the Farmall - the world's first row-crop tractor - was introduced. More than five million Farmall tractors were sold.
+Fast forward to 1977, when the unique single-rotor Axial-Flow rotary combine harvester came on the scene. This machine made a significant impact on farming across North America.
+Case IH was formed in 1985 when JI Case acquired the agricultural division of International Harvester, uniting Case and IH under a single brand.
+Case IH's first product, the Magnum series (160hp to 240hp), was introduced in 1987 and became the first tractor to win the Industrial Design Excellence Award.
+An early Case IH Magnum tractor in action. Image source: Shane Casey
+The Magnum continues to be one of the most recognizable Case IH products. More than 150,000 have been sold.
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+'Jubilee edition' tractor marks 175 years for Case IH 
+
+
+
+In 1902, five companies merged to form the International Harvester company in Chicago. The deal was brokered personally by JP Morgan, the American banker who dominated corporate finance at the time.
+International Harvester produced its first combine harvester in 1915. In 1923, the Farmall - the world's first row-crop tractor - was introduced. More than five million Farmall tractors were sold.
+Fast forward to 1977, when the unique single-rotor Axial-Flow rotary combine harvester came on the scene. This machine made a significant impact on farming across North America.
+Case IH was formed in 1985 when JI Case acquired the agricultural division of International Harvester, uniting Case and IH under a single brand.
+Case IH's first product, the Magnum series (160hp to 240hp), was introduced in 1987 and became the first tractor to win the Industrial Design Excellence Award.
+An early Case IH Magnum tractor in action. Image source: Shane Casey
+The Magnum continues to be one of the most recognizable Case IH products. More than 150,000 have been sold.
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+'Jubilee edition' tractor marks 175 years for Case IH 
+
+
+
+International Harvester produced its first combine harvester in 1915. In 1923, the Farmall - the world's first row-crop tractor - was introduced. More than five million Farmall tractors were sold.
+Fast forward to 1977, when the unique single-rotor Axial-Flow rotary combine harvester came on the scene. This machine made a significant impact on farming across North America.
+Case IH was formed in 1985 when JI Case acquired the agricultural division of International Harvester, uniting Case and IH under a single brand.
+Case IH's first product, the Magnum series (160hp to 240hp), was introduced in 1987 and became the first tractor to win the Industrial Design Excellence Award.
+An early Case IH Magnum tractor in action. Image source: Shane Casey
+The Magnum continues to be one of the most recognizable Case IH products. More than 150,000 have been sold.
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+'Jubilee edition' tractor marks 175 years for Case IH 
+
+
+
+Fast forward to 1977, when the unique single-rotor Axial-Flow rotary combine harvester came on the scene. This machine made a significant impact on farming across North America.
+Case IH was formed in 1985 when JI Case acquired the agricultural division of International Harvester, uniting Case and IH under a single brand.
+Case IH's first product, the Magnum series (160hp to 240hp), was introduced in 1987 and became the first tractor to win the Industrial Design Excellence Award.
+An early Case IH Magnum tractor in action. Image source: Shane Casey
+The Magnum continues to be one of the most recognizable Case IH products. More than 150,000 have been sold.
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+'Jubilee edition' tractor marks 175 years for Case IH 
+
+
+
+Case IH's first product, the Magnum series (160hp to 240hp), was introduced in 1987 and became the first tractor to win the Industrial Design Excellence Award.
+An early Case IH Magnum tractor in action. Image source: Shane Casey
+The Magnum continues to be one of the most recognizable Case IH products. More than 150,000 have been sold.
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+'Jubilee edition' tractor marks 175 years for Case IH 
+
+
+
+The Magnum continues to be one of the most recognizable Case IH products. More than 150,000 have been sold.
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+'Jubilee edition' tractor marks 175 years for Case IH 
+
+
+
+
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+'Jubilee edition' tractor marks 175 years for Case IH 
+
+
+

@@ -1,0 +1,1489 @@
+Dreamt of owning an island This spectacular one is for saleCastle Island, located on Castle Island Road, Downpatrick, Co. Down, is a spectacular residential and agricultural island that is currently up for sale by private treaty through Savills.
+The 116ac property is well connected with road access to the mainland, pertaining excellent views and amenities. It is located: 4 miles to Downpatrick; 24 miles to Belfast City Centre; 26 miles to Belfast City Airport; 46 miles to Belfast International Airport; 104 miles to Dublin Airport; and 198 miles to Dublin City.
+There is a regular car/passenger ferry crossing from Strangford Lough to Portaferry.
+
+Location
+Castle Island is situated at the mouth of Quoile River to the south of Strangford Lough. It has an exhilarating setting with southerly views over the river and beyond to the Mourne Mountains and an amazing outlook over Strangford Lough to the north.
+This breathtaking island is home to Quoile Yacht Club and is bound by the Quoile Pondage Nature Reserve and Bird Hide. There are plenty of local interest points nearby, including Castle Ward Forest Park (5.5 miles) and Delamont Country Park (6.5 miles).
+
+Property
+Castle Island is a captivating private residential island extending to about 116ac with about 1.8 miles of coastline.
+The expansive house is a modern, detached property strategically positioned to take full advantage of the stunning views across the Quoile River and Mourne Mountains beyond.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+The house itself includes:
+
+An open-plan kitchen / sitting / dining room;
+A drawing room;
+A sun room;
+A master bedroom with an en-suite shower;
+Three further bedrooms (one en-suite);
+A shower room;
+A utility room; and
+A garage.
+
+
+A key feature of the island is the direct road access to the mainland via Castle Island Road and onto Strangford Road which connects Strangford with Downpatrick.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Gardens and grounds
+Lying within a perimeter fence, the enclosed garden and grounds at the house extend to about 2.4ac and include manicured lawns and mature trees. There is a small gravel area next to the house with trees and shrubs.
+The land comprises about 100ac of pasture, and about 16ac of miscellaneous land. It is laid out in enclosures divided by stock-proof fencing, with hedging and mature trees providing shelter.
+Adjacent to the public road there is water via a mains supply and outdoor livestock handling facilities. A pond is situated in the centre of the island.
+The extensive block of farmland lies within a perimeter fence and is well-suited for the grazing of livestock and production of silage/hay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+For Further Enquiries
+Castle Island is for sale by private treaty and has a guide price of PS1.2 million.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+The 116ac property is well connected with road access to the mainland, pertaining excellent views and amenities. It is located: 4 miles to Downpatrick; 24 miles to Belfast City Centre; 26 miles to Belfast City Airport; 46 miles to Belfast International Airport; 104 miles to Dublin Airport; and 198 miles to Dublin City.
+There is a regular car/passenger ferry crossing from Strangford Lough to Portaferry.
+
+Location
+Castle Island is situated at the mouth of Quoile River to the south of Strangford Lough. It has an exhilarating setting with southerly views over the river and beyond to the Mourne Mountains and an amazing outlook over Strangford Lough to the north.
+This breathtaking island is home to Quoile Yacht Club and is bound by the Quoile Pondage Nature Reserve and Bird Hide. There are plenty of local interest points nearby, including Castle Ward Forest Park (5.5 miles) and Delamont Country Park (6.5 miles).
+
+Property
+Castle Island is a captivating private residential island extending to about 116ac with about 1.8 miles of coastline.
+The expansive house is a modern, detached property strategically positioned to take full advantage of the stunning views across the Quoile River and Mourne Mountains beyond.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+The house itself includes:
+
+An open-plan kitchen / sitting / dining room;
+A drawing room;
+A sun room;
+A master bedroom with an en-suite shower;
+Three further bedrooms (one en-suite);
+A shower room;
+A utility room; and
+A garage.
+
+
+A key feature of the island is the direct road access to the mainland via Castle Island Road and onto Strangford Road which connects Strangford with Downpatrick.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Gardens and grounds
+Lying within a perimeter fence, the enclosed garden and grounds at the house extend to about 2.4ac and include manicured lawns and mature trees. There is a small gravel area next to the house with trees and shrubs.
+The land comprises about 100ac of pasture, and about 16ac of miscellaneous land. It is laid out in enclosures divided by stock-proof fencing, with hedging and mature trees providing shelter.
+Adjacent to the public road there is water via a mains supply and outdoor livestock handling facilities. A pond is situated in the centre of the island.
+The extensive block of farmland lies within a perimeter fence and is well-suited for the grazing of livestock and production of silage/hay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+For Further Enquiries
+Castle Island is for sale by private treaty and has a guide price of PS1.2 million.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+There is a regular car/passenger ferry crossing from Strangford Lough to Portaferry.
+
+Location
+Castle Island is situated at the mouth of Quoile River to the south of Strangford Lough. It has an exhilarating setting with southerly views over the river and beyond to the Mourne Mountains and an amazing outlook over Strangford Lough to the north.
+This breathtaking island is home to Quoile Yacht Club and is bound by the Quoile Pondage Nature Reserve and Bird Hide. There are plenty of local interest points nearby, including Castle Ward Forest Park (5.5 miles) and Delamont Country Park (6.5 miles).
+
+Property
+Castle Island is a captivating private residential island extending to about 116ac with about 1.8 miles of coastline.
+The expansive house is a modern, detached property strategically positioned to take full advantage of the stunning views across the Quoile River and Mourne Mountains beyond.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+The house itself includes:
+
+An open-plan kitchen / sitting / dining room;
+A drawing room;
+A sun room;
+A master bedroom with an en-suite shower;
+Three further bedrooms (one en-suite);
+A shower room;
+A utility room; and
+A garage.
+
+
+A key feature of the island is the direct road access to the mainland via Castle Island Road and onto Strangford Road which connects Strangford with Downpatrick.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Gardens and grounds
+Lying within a perimeter fence, the enclosed garden and grounds at the house extend to about 2.4ac and include manicured lawns and mature trees. There is a small gravel area next to the house with trees and shrubs.
+The land comprises about 100ac of pasture, and about 16ac of miscellaneous land. It is laid out in enclosures divided by stock-proof fencing, with hedging and mature trees providing shelter.
+Adjacent to the public road there is water via a mains supply and outdoor livestock handling facilities. A pond is situated in the centre of the island.
+The extensive block of farmland lies within a perimeter fence and is well-suited for the grazing of livestock and production of silage/hay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+For Further Enquiries
+Castle Island is for sale by private treaty and has a guide price of PS1.2 million.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+
+Location
+Castle Island is situated at the mouth of Quoile River to the south of Strangford Lough. It has an exhilarating setting with southerly views over the river and beyond to the Mourne Mountains and an amazing outlook over Strangford Lough to the north.
+This breathtaking island is home to Quoile Yacht Club and is bound by the Quoile Pondage Nature Reserve and Bird Hide. There are plenty of local interest points nearby, including Castle Ward Forest Park (5.5 miles) and Delamont Country Park (6.5 miles).
+
+Property
+Castle Island is a captivating private residential island extending to about 116ac with about 1.8 miles of coastline.
+The expansive house is a modern, detached property strategically positioned to take full advantage of the stunning views across the Quoile River and Mourne Mountains beyond.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+The house itself includes:
+
+An open-plan kitchen / sitting / dining room;
+A drawing room;
+A sun room;
+A master bedroom with an en-suite shower;
+Three further bedrooms (one en-suite);
+A shower room;
+A utility room; and
+A garage.
+
+
+A key feature of the island is the direct road access to the mainland via Castle Island Road and onto Strangford Road which connects Strangford with Downpatrick.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Gardens and grounds
+Lying within a perimeter fence, the enclosed garden and grounds at the house extend to about 2.4ac and include manicured lawns and mature trees. There is a small gravel area next to the house with trees and shrubs.
+The land comprises about 100ac of pasture, and about 16ac of miscellaneous land. It is laid out in enclosures divided by stock-proof fencing, with hedging and mature trees providing shelter.
+Adjacent to the public road there is water via a mains supply and outdoor livestock handling facilities. A pond is situated in the centre of the island.
+The extensive block of farmland lies within a perimeter fence and is well-suited for the grazing of livestock and production of silage/hay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+For Further Enquiries
+Castle Island is for sale by private treaty and has a guide price of PS1.2 million.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+Castle Island is situated at the mouth of Quoile River to the south of Strangford Lough. It has an exhilarating setting with southerly views over the river and beyond to the Mourne Mountains and an amazing outlook over Strangford Lough to the north.
+This breathtaking island is home to Quoile Yacht Club and is bound by the Quoile Pondage Nature Reserve and Bird Hide. There are plenty of local interest points nearby, including Castle Ward Forest Park (5.5 miles) and Delamont Country Park (6.5 miles).
+
+Property
+Castle Island is a captivating private residential island extending to about 116ac with about 1.8 miles of coastline.
+The expansive house is a modern, detached property strategically positioned to take full advantage of the stunning views across the Quoile River and Mourne Mountains beyond.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+The house itself includes:
+
+An open-plan kitchen / sitting / dining room;
+A drawing room;
+A sun room;
+A master bedroom with an en-suite shower;
+Three further bedrooms (one en-suite);
+A shower room;
+A utility room; and
+A garage.
+
+
+A key feature of the island is the direct road access to the mainland via Castle Island Road and onto Strangford Road which connects Strangford with Downpatrick.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Gardens and grounds
+Lying within a perimeter fence, the enclosed garden and grounds at the house extend to about 2.4ac and include manicured lawns and mature trees. There is a small gravel area next to the house with trees and shrubs.
+The land comprises about 100ac of pasture, and about 16ac of miscellaneous land. It is laid out in enclosures divided by stock-proof fencing, with hedging and mature trees providing shelter.
+Adjacent to the public road there is water via a mains supply and outdoor livestock handling facilities. A pond is situated in the centre of the island.
+The extensive block of farmland lies within a perimeter fence and is well-suited for the grazing of livestock and production of silage/hay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+For Further Enquiries
+Castle Island is for sale by private treaty and has a guide price of PS1.2 million.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+This breathtaking island is home to Quoile Yacht Club and is bound by the Quoile Pondage Nature Reserve and Bird Hide. There are plenty of local interest points nearby, including Castle Ward Forest Park (5.5 miles) and Delamont Country Park (6.5 miles).
+
+Property
+Castle Island is a captivating private residential island extending to about 116ac with about 1.8 miles of coastline.
+The expansive house is a modern, detached property strategically positioned to take full advantage of the stunning views across the Quoile River and Mourne Mountains beyond.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+The house itself includes:
+
+An open-plan kitchen / sitting / dining room;
+A drawing room;
+A sun room;
+A master bedroom with an en-suite shower;
+Three further bedrooms (one en-suite);
+A shower room;
+A utility room; and
+A garage.
+
+
+A key feature of the island is the direct road access to the mainland via Castle Island Road and onto Strangford Road which connects Strangford with Downpatrick.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Gardens and grounds
+Lying within a perimeter fence, the enclosed garden and grounds at the house extend to about 2.4ac and include manicured lawns and mature trees. There is a small gravel area next to the house with trees and shrubs.
+The land comprises about 100ac of pasture, and about 16ac of miscellaneous land. It is laid out in enclosures divided by stock-proof fencing, with hedging and mature trees providing shelter.
+Adjacent to the public road there is water via a mains supply and outdoor livestock handling facilities. A pond is situated in the centre of the island.
+The extensive block of farmland lies within a perimeter fence and is well-suited for the grazing of livestock and production of silage/hay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+For Further Enquiries
+Castle Island is for sale by private treaty and has a guide price of PS1.2 million.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+
+Property
+Castle Island is a captivating private residential island extending to about 116ac with about 1.8 miles of coastline.
+The expansive house is a modern, detached property strategically positioned to take full advantage of the stunning views across the Quoile River and Mourne Mountains beyond.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+The house itself includes:
+
+An open-plan kitchen / sitting / dining room;
+A drawing room;
+A sun room;
+A master bedroom with an en-suite shower;
+Three further bedrooms (one en-suite);
+A shower room;
+A utility room; and
+A garage.
+
+
+A key feature of the island is the direct road access to the mainland via Castle Island Road and onto Strangford Road which connects Strangford with Downpatrick.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Gardens and grounds
+Lying within a perimeter fence, the enclosed garden and grounds at the house extend to about 2.4ac and include manicured lawns and mature trees. There is a small gravel area next to the house with trees and shrubs.
+The land comprises about 100ac of pasture, and about 16ac of miscellaneous land. It is laid out in enclosures divided by stock-proof fencing, with hedging and mature trees providing shelter.
+Adjacent to the public road there is water via a mains supply and outdoor livestock handling facilities. A pond is situated in the centre of the island.
+The extensive block of farmland lies within a perimeter fence and is well-suited for the grazing of livestock and production of silage/hay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+For Further Enquiries
+Castle Island is for sale by private treaty and has a guide price of PS1.2 million.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+Castle Island is a captivating private residential island extending to about 116ac with about 1.8 miles of coastline.
+The expansive house is a modern, detached property strategically positioned to take full advantage of the stunning views across the Quoile River and Mourne Mountains beyond.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+The house itself includes:
+
+An open-plan kitchen / sitting / dining room;
+A drawing room;
+A sun room;
+A master bedroom with an en-suite shower;
+Three further bedrooms (one en-suite);
+A shower room;
+A utility room; and
+A garage.
+
+
+A key feature of the island is the direct road access to the mainland via Castle Island Road and onto Strangford Road which connects Strangford with Downpatrick.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Gardens and grounds
+Lying within a perimeter fence, the enclosed garden and grounds at the house extend to about 2.4ac and include manicured lawns and mature trees. There is a small gravel area next to the house with trees and shrubs.
+The land comprises about 100ac of pasture, and about 16ac of miscellaneous land. It is laid out in enclosures divided by stock-proof fencing, with hedging and mature trees providing shelter.
+Adjacent to the public road there is water via a mains supply and outdoor livestock handling facilities. A pond is situated in the centre of the island.
+The extensive block of farmland lies within a perimeter fence and is well-suited for the grazing of livestock and production of silage/hay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+For Further Enquiries
+Castle Island is for sale by private treaty and has a guide price of PS1.2 million.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+The expansive house is a modern, detached property strategically positioned to take full advantage of the stunning views across the Quoile River and Mourne Mountains beyond.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+The house itself includes:
+
+An open-plan kitchen / sitting / dining room;
+A drawing room;
+A sun room;
+A master bedroom with an en-suite shower;
+Three further bedrooms (one en-suite);
+A shower room;
+A utility room; and
+A garage.
+
+
+A key feature of the island is the direct road access to the mainland via Castle Island Road and onto Strangford Road which connects Strangford with Downpatrick.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Gardens and grounds
+Lying within a perimeter fence, the enclosed garden and grounds at the house extend to about 2.4ac and include manicured lawns and mature trees. There is a small gravel area next to the house with trees and shrubs.
+The land comprises about 100ac of pasture, and about 16ac of miscellaneous land. It is laid out in enclosures divided by stock-proof fencing, with hedging and mature trees providing shelter.
+Adjacent to the public road there is water via a mains supply and outdoor livestock handling facilities. A pond is situated in the centre of the island.
+The extensive block of farmland lies within a perimeter fence and is well-suited for the grazing of livestock and production of silage/hay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+For Further Enquiries
+Castle Island is for sale by private treaty and has a guide price of PS1.2 million.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+The house itself includes:
+
+An open-plan kitchen / sitting / dining room;
+A drawing room;
+A sun room;
+A master bedroom with an en-suite shower;
+Three further bedrooms (one en-suite);
+A shower room;
+A utility room; and
+A garage.
+
+A key feature of the island is the direct road access to the mainland via Castle Island Road and onto Strangford Road which connects Strangford with Downpatrick.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Gardens and grounds
+Lying within a perimeter fence, the enclosed garden and grounds at the house extend to about 2.4ac and include manicured lawns and mature trees. There is a small gravel area next to the house with trees and shrubs.
+The land comprises about 100ac of pasture, and about 16ac of miscellaneous land. It is laid out in enclosures divided by stock-proof fencing, with hedging and mature trees providing shelter.
+Adjacent to the public road there is water via a mains supply and outdoor livestock handling facilities. A pond is situated in the centre of the island.
+The extensive block of farmland lies within a perimeter fence and is well-suited for the grazing of livestock and production of silage/hay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+For Further Enquiries
+Castle Island is for sale by private treaty and has a guide price of PS1.2 million.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+Lying within a perimeter fence, the enclosed garden and grounds at the house extend to about 2.4ac and include manicured lawns and mature trees. There is a small gravel area next to the house with trees and shrubs.
+The land comprises about 100ac of pasture, and about 16ac of miscellaneous land. It is laid out in enclosures divided by stock-proof fencing, with hedging and mature trees providing shelter.
+Adjacent to the public road there is water via a mains supply and outdoor livestock handling facilities. A pond is situated in the centre of the island.
+The extensive block of farmland lies within a perimeter fence and is well-suited for the grazing of livestock and production of silage/hay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+For Further Enquiries
+Castle Island is for sale by private treaty and has a guide price of PS1.2 million.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+The land comprises about 100ac of pasture, and about 16ac of miscellaneous land. It is laid out in enclosures divided by stock-proof fencing, with hedging and mature trees providing shelter.
+Adjacent to the public road there is water via a mains supply and outdoor livestock handling facilities. A pond is situated in the centre of the island.
+The extensive block of farmland lies within a perimeter fence and is well-suited for the grazing of livestock and production of silage/hay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+For Further Enquiries
+Castle Island is for sale by private treaty and has a guide price of PS1.2 million.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+Adjacent to the public road there is water via a mains supply and outdoor livestock handling facilities. A pond is situated in the centre of the island.
+The extensive block of farmland lies within a perimeter fence and is well-suited for the grazing of livestock and production of silage/hay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+For Further Enquiries
+Castle Island is for sale by private treaty and has a guide price of PS1.2 million.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+The extensive block of farmland lies within a perimeter fence and is well-suited for the grazing of livestock and production of silage/hay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+For Further Enquiries
+Castle Island is for sale by private treaty and has a guide price of PS1.2 million.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+Castle Island is for sale by private treaty and has a guide price of PS1.2 million.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+Offers may be submitted to the joint selling agents at: Savills Belfast, Longbridge House, 16-24 Waring Street, Belfast; or Osborne King, The Metro Building, 6-9 Donegall Square South, Belfast; and Savills Country, 33 Molesworth Street, Dublin 2.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+Alternatively, you can email: [email protected]; and: [email protected].
+More information can be found online.
+More information can be found online.

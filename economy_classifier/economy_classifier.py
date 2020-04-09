@@ -1,8 +1,6 @@
 import numpy as np
 import joblib
 from sklearn.datasets import load_files
-from sklearn.metrics import classification_report, accuracy_score
-from sklearn.feature_extraction.text import CountVectorizer
 
 
 def article_classify(article: str, model_path=os.path.join(os.path.abspath(os.curdir), 'economy_classifier_RF.sav'),

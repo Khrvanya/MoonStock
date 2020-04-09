@@ -5,7 +5,9 @@ from sklearn.metrics import classification_report, accuracy_score
 from sklearn.feature_extraction.text import CountVectorizer
 
 
-def article_classify(article: str, model_path: str, convect_path: str, diff_coef=.1) -> list:
+def article_classify(article: str, model_path=os.path.join(os.path.abspath(os.curdir), 'economy_classifier_RF.sav'),
+                     convect_path=os.path.join(os.path.abspath(os.curdir), 'economy_classifier_CV.sav'),
+                     diff_coef=.1) -> list:
     """
     Gets an article text and model path and countvector path (which is used for transforming the article), 
     then classifies the article with that model and 
@@ -25,12 +27,3 @@ def article_classify(article: str, model_path: str, convect_path: str, diff_coef
     result = categ_dict[y_pred > (y_pred.max() - diff_coef)]
     
     return result
-
-
-s = open(r'StockMoon_categories/crypto/Speaker Update Bitstamp’s Miha Grčar Joins Barcelona Trading Conference.txt', 'rt').read()
-
-# сюда вставь свой путь к модели классификации и к векторам которые я кинул
-model = r'economy_classifier_RF.sav'
-vectors = r'economy_classifier_CV.sav'
-
-article_classify(s, model, vectors)

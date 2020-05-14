@@ -1,0 +1,2512 @@
+Buildings focus A brand new 24-unit parlour for 170 organic cows in Co. KildareFarming in Castlefarm, Narraghmore, Co. Kildare, Peter and Jenny Young milk a herd of Friesian and Jersey-cross cows under an organic system.
+In 2004, 65 cows were milked under a conventional system alongside a small tillage enterprise. However, both Peter and Jenny began to look at other options for the future direction of their farm.
+And, in October 2006, the farm entered the organic conversion process with full organic status achieved in 2008. Since then, there have been a number of substantial developments on the holding. The total area farmed has increased from 72ha to 108ha.
+Now, a herd of 170 spring-calving cows and heifers take centre stage on the farm, with calving underway at the moment.
+In addition to the organic dairy enterprise, the Youngs also operate a farm shop on the Kildare holding, where a number of products are sold including honey and organic porridge; the oats are also grown on the farm.
+However, the newest farm development sits to the rear of the yard - a 24-unit ATL parlour. It was constructed on a greenfield site in recent months; Peter milked in the parlour for the first time on Wednesday last (February 20).
+
+However, the project had been in the pipeline for a number of years.
+He said: "We first started thinking about putting a parlour on a greenfield site in 2000, but we decided we couldn't afford it so we just extended our 6-unit parlour to a 12-unit parlour; it certainly doesn't owe us anything at this stage."
+When it came to investing in the parlour, Peter set it up from both a labour and management point of view.
+"Too many times I've seen farmers put parlours in and in three years time, they want to put more units on or expand and they run into trouble.
+"There's 24-units and there is capacity to go up to 35-units. When you are building, it's cheapest to build it the first time," the Kildare man explained.
+Features
+After deciding on a site, the impressive build is home to an ATL machine which was fitted by Peake Dairy Services.
+It is equipped with: CR 35 automatic cluster removers (ACRs); lightweight clusters; 2X2 pulsation; stainless steel lift-over arms - lift to start; a folding low line wash system; batch feeders; a variable speed dry vacuum pump; and a variable speed milk pump.
+Other features include: a 15t meal bin; an Alfco auto drafting system; a fixed foot bath; and a Packo bulk milk tank with a capacity of 21,500L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+In 2004, 65 cows were milked under a conventional system alongside a small tillage enterprise. However, both Peter and Jenny began to look at other options for the future direction of their farm.
+And, in October 2006, the farm entered the organic conversion process with full organic status achieved in 2008. Since then, there have been a number of substantial developments on the holding. The total area farmed has increased from 72ha to 108ha.
+Now, a herd of 170 spring-calving cows and heifers take centre stage on the farm, with calving underway at the moment.
+In addition to the organic dairy enterprise, the Youngs also operate a farm shop on the Kildare holding, where a number of products are sold including honey and organic porridge; the oats are also grown on the farm.
+However, the newest farm development sits to the rear of the yard - a 24-unit ATL parlour. It was constructed on a greenfield site in recent months; Peter milked in the parlour for the first time on Wednesday last (February 20).
+
+However, the project had been in the pipeline for a number of years.
+He said: "We first started thinking about putting a parlour on a greenfield site in 2000, but we decided we couldn't afford it so we just extended our 6-unit parlour to a 12-unit parlour; it certainly doesn't owe us anything at this stage."
+When it came to investing in the parlour, Peter set it up from both a labour and management point of view.
+"Too many times I've seen farmers put parlours in and in three years time, they want to put more units on or expand and they run into trouble.
+"There's 24-units and there is capacity to go up to 35-units. When you are building, it's cheapest to build it the first time," the Kildare man explained.
+Features
+After deciding on a site, the impressive build is home to an ATL machine which was fitted by Peake Dairy Services.
+It is equipped with: CR 35 automatic cluster removers (ACRs); lightweight clusters; 2X2 pulsation; stainless steel lift-over arms - lift to start; a folding low line wash system; batch feeders; a variable speed dry vacuum pump; and a variable speed milk pump.
+Other features include: a 15t meal bin; an Alfco auto drafting system; a fixed foot bath; and a Packo bulk milk tank with a capacity of 21,500L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+And, in October 2006, the farm entered the organic conversion process with full organic status achieved in 2008. Since then, there have been a number of substantial developments on the holding. The total area farmed has increased from 72ha to 108ha.
+Now, a herd of 170 spring-calving cows and heifers take centre stage on the farm, with calving underway at the moment.
+In addition to the organic dairy enterprise, the Youngs also operate a farm shop on the Kildare holding, where a number of products are sold including honey and organic porridge; the oats are also grown on the farm.
+However, the newest farm development sits to the rear of the yard - a 24-unit ATL parlour. It was constructed on a greenfield site in recent months; Peter milked in the parlour for the first time on Wednesday last (February 20).
+
+However, the project had been in the pipeline for a number of years.
+He said: "We first started thinking about putting a parlour on a greenfield site in 2000, but we decided we couldn't afford it so we just extended our 6-unit parlour to a 12-unit parlour; it certainly doesn't owe us anything at this stage."
+When it came to investing in the parlour, Peter set it up from both a labour and management point of view.
+"Too many times I've seen farmers put parlours in and in three years time, they want to put more units on or expand and they run into trouble.
+"There's 24-units and there is capacity to go up to 35-units. When you are building, it's cheapest to build it the first time," the Kildare man explained.
+Features
+After deciding on a site, the impressive build is home to an ATL machine which was fitted by Peake Dairy Services.
+It is equipped with: CR 35 automatic cluster removers (ACRs); lightweight clusters; 2X2 pulsation; stainless steel lift-over arms - lift to start; a folding low line wash system; batch feeders; a variable speed dry vacuum pump; and a variable speed milk pump.
+Other features include: a 15t meal bin; an Alfco auto drafting system; a fixed foot bath; and a Packo bulk milk tank with a capacity of 21,500L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+Now, a herd of 170 spring-calving cows and heifers take centre stage on the farm, with calving underway at the moment.
+In addition to the organic dairy enterprise, the Youngs also operate a farm shop on the Kildare holding, where a number of products are sold including honey and organic porridge; the oats are also grown on the farm.
+However, the newest farm development sits to the rear of the yard - a 24-unit ATL parlour. It was constructed on a greenfield site in recent months; Peter milked in the parlour for the first time on Wednesday last (February 20).
+
+However, the project had been in the pipeline for a number of years.
+He said: "We first started thinking about putting a parlour on a greenfield site in 2000, but we decided we couldn't afford it so we just extended our 6-unit parlour to a 12-unit parlour; it certainly doesn't owe us anything at this stage."
+When it came to investing in the parlour, Peter set it up from both a labour and management point of view.
+"Too many times I've seen farmers put parlours in and in three years time, they want to put more units on or expand and they run into trouble.
+"There's 24-units and there is capacity to go up to 35-units. When you are building, it's cheapest to build it the first time," the Kildare man explained.
+Features
+After deciding on a site, the impressive build is home to an ATL machine which was fitted by Peake Dairy Services.
+It is equipped with: CR 35 automatic cluster removers (ACRs); lightweight clusters; 2X2 pulsation; stainless steel lift-over arms - lift to start; a folding low line wash system; batch feeders; a variable speed dry vacuum pump; and a variable speed milk pump.
+Other features include: a 15t meal bin; an Alfco auto drafting system; a fixed foot bath; and a Packo bulk milk tank with a capacity of 21,500L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+In addition to the organic dairy enterprise, the Youngs also operate a farm shop on the Kildare holding, where a number of products are sold including honey and organic porridge; the oats are also grown on the farm.
+However, the newest farm development sits to the rear of the yard - a 24-unit ATL parlour. It was constructed on a greenfield site in recent months; Peter milked in the parlour for the first time on Wednesday last (February 20).
+
+However, the project had been in the pipeline for a number of years.
+He said: "We first started thinking about putting a parlour on a greenfield site in 2000, but we decided we couldn't afford it so we just extended our 6-unit parlour to a 12-unit parlour; it certainly doesn't owe us anything at this stage."
+When it came to investing in the parlour, Peter set it up from both a labour and management point of view.
+"Too many times I've seen farmers put parlours in and in three years time, they want to put more units on or expand and they run into trouble.
+"There's 24-units and there is capacity to go up to 35-units. When you are building, it's cheapest to build it the first time," the Kildare man explained.
+Features
+After deciding on a site, the impressive build is home to an ATL machine which was fitted by Peake Dairy Services.
+It is equipped with: CR 35 automatic cluster removers (ACRs); lightweight clusters; 2X2 pulsation; stainless steel lift-over arms - lift to start; a folding low line wash system; batch feeders; a variable speed dry vacuum pump; and a variable speed milk pump.
+Other features include: a 15t meal bin; an Alfco auto drafting system; a fixed foot bath; and a Packo bulk milk tank with a capacity of 21,500L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+However, the newest farm development sits to the rear of the yard - a 24-unit ATL parlour. It was constructed on a greenfield site in recent months; Peter milked in the parlour for the first time on Wednesday last (February 20).
+
+However, the project had been in the pipeline for a number of years.
+He said: "We first started thinking about putting a parlour on a greenfield site in 2000, but we decided we couldn't afford it so we just extended our 6-unit parlour to a 12-unit parlour; it certainly doesn't owe us anything at this stage."
+When it came to investing in the parlour, Peter set it up from both a labour and management point of view.
+"Too many times I've seen farmers put parlours in and in three years time, they want to put more units on or expand and they run into trouble.
+"There's 24-units and there is capacity to go up to 35-units. When you are building, it's cheapest to build it the first time," the Kildare man explained.
+Features
+After deciding on a site, the impressive build is home to an ATL machine which was fitted by Peake Dairy Services.
+It is equipped with: CR 35 automatic cluster removers (ACRs); lightweight clusters; 2X2 pulsation; stainless steel lift-over arms - lift to start; a folding low line wash system; batch feeders; a variable speed dry vacuum pump; and a variable speed milk pump.
+Other features include: a 15t meal bin; an Alfco auto drafting system; a fixed foot bath; and a Packo bulk milk tank with a capacity of 21,500L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+
+However, the project had been in the pipeline for a number of years.
+He said: "We first started thinking about putting a parlour on a greenfield site in 2000, but we decided we couldn't afford it so we just extended our 6-unit parlour to a 12-unit parlour; it certainly doesn't owe us anything at this stage."
+When it came to investing in the parlour, Peter set it up from both a labour and management point of view.
+"Too many times I've seen farmers put parlours in and in three years time, they want to put more units on or expand and they run into trouble.
+"There's 24-units and there is capacity to go up to 35-units. When you are building, it's cheapest to build it the first time," the Kildare man explained.
+Features
+After deciding on a site, the impressive build is home to an ATL machine which was fitted by Peake Dairy Services.
+It is equipped with: CR 35 automatic cluster removers (ACRs); lightweight clusters; 2X2 pulsation; stainless steel lift-over arms - lift to start; a folding low line wash system; batch feeders; a variable speed dry vacuum pump; and a variable speed milk pump.
+Other features include: a 15t meal bin; an Alfco auto drafting system; a fixed foot bath; and a Packo bulk milk tank with a capacity of 21,500L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+However, the project had been in the pipeline for a number of years.
+He said: "We first started thinking about putting a parlour on a greenfield site in 2000, but we decided we couldn't afford it so we just extended our 6-unit parlour to a 12-unit parlour; it certainly doesn't owe us anything at this stage."
+When it came to investing in the parlour, Peter set it up from both a labour and management point of view.
+"Too many times I've seen farmers put parlours in and in three years time, they want to put more units on or expand and they run into trouble.
+"There's 24-units and there is capacity to go up to 35-units. When you are building, it's cheapest to build it the first time," the Kildare man explained.
+Features
+After deciding on a site, the impressive build is home to an ATL machine which was fitted by Peake Dairy Services.
+It is equipped with: CR 35 automatic cluster removers (ACRs); lightweight clusters; 2X2 pulsation; stainless steel lift-over arms - lift to start; a folding low line wash system; batch feeders; a variable speed dry vacuum pump; and a variable speed milk pump.
+Other features include: a 15t meal bin; an Alfco auto drafting system; a fixed foot bath; and a Packo bulk milk tank with a capacity of 21,500L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+He said: "We first started thinking about putting a parlour on a greenfield site in 2000, but we decided we couldn't afford it so we just extended our 6-unit parlour to a 12-unit parlour; it certainly doesn't owe us anything at this stage."
+When it came to investing in the parlour, Peter set it up from both a labour and management point of view.
+"Too many times I've seen farmers put parlours in and in three years time, they want to put more units on or expand and they run into trouble.
+"There's 24-units and there is capacity to go up to 35-units. When you are building, it's cheapest to build it the first time," the Kildare man explained.
+Features
+After deciding on a site, the impressive build is home to an ATL machine which was fitted by Peake Dairy Services.
+It is equipped with: CR 35 automatic cluster removers (ACRs); lightweight clusters; 2X2 pulsation; stainless steel lift-over arms - lift to start; a folding low line wash system; batch feeders; a variable speed dry vacuum pump; and a variable speed milk pump.
+Other features include: a 15t meal bin; an Alfco auto drafting system; a fixed foot bath; and a Packo bulk milk tank with a capacity of 21,500L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+When it came to investing in the parlour, Peter set it up from both a labour and management point of view.
+"Too many times I've seen farmers put parlours in and in three years time, they want to put more units on or expand and they run into trouble.
+"There's 24-units and there is capacity to go up to 35-units. When you are building, it's cheapest to build it the first time," the Kildare man explained.
+Features
+After deciding on a site, the impressive build is home to an ATL machine which was fitted by Peake Dairy Services.
+It is equipped with: CR 35 automatic cluster removers (ACRs); lightweight clusters; 2X2 pulsation; stainless steel lift-over arms - lift to start; a folding low line wash system; batch feeders; a variable speed dry vacuum pump; and a variable speed milk pump.
+Other features include: a 15t meal bin; an Alfco auto drafting system; a fixed foot bath; and a Packo bulk milk tank with a capacity of 21,500L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+"Too many times I've seen farmers put parlours in and in three years time, they want to put more units on or expand and they run into trouble.
+"There's 24-units and there is capacity to go up to 35-units. When you are building, it's cheapest to build it the first time," the Kildare man explained.
+Features
+After deciding on a site, the impressive build is home to an ATL machine which was fitted by Peake Dairy Services.
+It is equipped with: CR 35 automatic cluster removers (ACRs); lightweight clusters; 2X2 pulsation; stainless steel lift-over arms - lift to start; a folding low line wash system; batch feeders; a variable speed dry vacuum pump; and a variable speed milk pump.
+Other features include: a 15t meal bin; an Alfco auto drafting system; a fixed foot bath; and a Packo bulk milk tank with a capacity of 21,500L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+"There's 24-units and there is capacity to go up to 35-units. When you are building, it's cheapest to build it the first time," the Kildare man explained.
+Features
+After deciding on a site, the impressive build is home to an ATL machine which was fitted by Peake Dairy Services.
+It is equipped with: CR 35 automatic cluster removers (ACRs); lightweight clusters; 2X2 pulsation; stainless steel lift-over arms - lift to start; a folding low line wash system; batch feeders; a variable speed dry vacuum pump; and a variable speed milk pump.
+Other features include: a 15t meal bin; an Alfco auto drafting system; a fixed foot bath; and a Packo bulk milk tank with a capacity of 21,500L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+After deciding on a site, the impressive build is home to an ATL machine which was fitted by Peake Dairy Services.
+It is equipped with: CR 35 automatic cluster removers (ACRs); lightweight clusters; 2X2 pulsation; stainless steel lift-over arms - lift to start; a folding low line wash system; batch feeders; a variable speed dry vacuum pump; and a variable speed milk pump.
+Other features include: a 15t meal bin; an Alfco auto drafting system; a fixed foot bath; and a Packo bulk milk tank with a capacity of 21,500L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+It is equipped with: CR 35 automatic cluster removers (ACRs); lightweight clusters; 2X2 pulsation; stainless steel lift-over arms - lift to start; a folding low line wash system; batch feeders; a variable speed dry vacuum pump; and a variable speed milk pump.
+Other features include: a 15t meal bin; an Alfco auto drafting system; a fixed foot bath; and a Packo bulk milk tank with a capacity of 21,500L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+Other features include: a 15t meal bin; an Alfco auto drafting system; a fixed foot bath; and a Packo bulk milk tank with a capacity of 21,500L.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+In addition, a collecting yard was reduced from 375m2 to 300m2 to provide extra feed space when buffer feeding is required. A backing gate and scraper will also be installed.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+Also, to avoid the need for a sump pump, there is a continuous fall from the front of the parlour to the collecting yard; this yard is also sloped to a slatted tank located at the lower end.
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+"The collection yard was built for 300 cows, but I pulled it in because we are short feed space for 170 cows on the buildings we have. So, it's multi-functional and we will be feeding silage in it at certain times of the year."
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+Head-locking gates were also installed in the collecting yard. On these, he said: "These were expensive, but every farmer I talked to told me I wouldn't regret it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+Peter plans to get an auto ID system up and running and install chariots, which are trolleys that will facilitate AI and scanning to be carried out in the parlour.
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+"I don't believe in too many extras because a milking parlour is there to milk cows. We don't field to yield; we keep it very simple and partly the reason we put cluster removers in is because we have employed labour.
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+"I don't want to be milking cows all the time. I want this parlour to be more attractive for somebody to come in and milk 170 cows in an hour and be gone and I have no problem paying for that."
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+The parlour is very well finished. The inside of the shed is painted white, with a number of skylights located throughout the unit.
+Timeline and cost
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+The construction work was carried out by D. O'Brien Plant Hire and Construction. As already mentioned above, the ATL parlour was installed by Peake Dairy Services, while the shed was erected by Kennedy Construction.
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+"I'm very happy with it and with the builders. Not every builder can do a parlour and to get a builder who can do a good parlour is great.
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+"It does take a long time to get ESB poles moved and builders lined up. Luckily, we were able to milk in the old parlour until this one was ready; it took the pressure off us and the builders."
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+Commenting on the Targeted Agricultural Modernisation Scheme (TAMS) grant, Peter said: "The grant helps. It's not the main decision why we invested, but it does help.
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+"I applied online myself; it's a good system - step by step and it's easy to do. However, don't think you are going to put the application in today and you'll get it tomorrow.
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+"We're getting a grant for the milking parlour, the bulk tank and I've grants in for an auto-wash system, backing gate and scraper. It takes so long to get them, you might as well have them lined up," Peter explained.
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+
+The overall cost of the build was EUR280,000.
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: Behind the scenes of a new machinery workshop and showroom 
+
+
+

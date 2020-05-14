@@ -1,0 +1,1406 @@
+Auction report Sample 6RM Series tractor prices from giant saleAn auction involving the disposal of a considerable fleet of tractors and equipment from the UK-based Hawk Plant hire group took place late last week (Thursday, March 14, and Friday, March 15).
+Along with a very significant number of plant/construction machines, well over 100 tractors were up for grabs. The tractors were sold on the first day of the sale.
+
+Tim Scrivener was there (at Charleston House, Cruckmoor Lane, Prees Green, Whitchurch, Shropshire) for AgriLand. He snapped these shots as proceedings unfolded.
+The sale was conducted by Euro Auctions.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Here, in this report, we focus on just a small selection of the many 6R/M Series John Deere tractors that were present.
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2017 John Deere 6195R (AutoQuad; 2,293 hours) sold for PS77,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (DirectDrive; 2,946 hours) sold for PS75,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155M (3,072 hours) sold for PS50,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6130M (1,407 hours) sold for PS47,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155R (front loader; AutoQuad; 7,824 hours) sold for PS57,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (AutoPowr; 2,069 hours) sold for PS86,000
+
+
+
+
+
+
+
+
+There was a considerable fleet of tractors at the auction
+
+
+
+
+
+
+
+
+The auctioneer in action
+
+
+
+
+
+
+
+
+John Deere mania! There was a huge number of 6R Series tractors up for grabs
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Just how 'Deere' were these hammer prices? 
+
+
+
+Along with a very significant number of plant/construction machines, well over 100 tractors were up for grabs. The tractors were sold on the first day of the sale.
+
+Tim Scrivener was there (at Charleston House, Cruckmoor Lane, Prees Green, Whitchurch, Shropshire) for AgriLand. He snapped these shots as proceedings unfolded.
+The sale was conducted by Euro Auctions.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Here, in this report, we focus on just a small selection of the many 6R/M Series John Deere tractors that were present.
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2017 John Deere 6195R (AutoQuad; 2,293 hours) sold for PS77,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (DirectDrive; 2,946 hours) sold for PS75,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155M (3,072 hours) sold for PS50,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6130M (1,407 hours) sold for PS47,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155R (front loader; AutoQuad; 7,824 hours) sold for PS57,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (AutoPowr; 2,069 hours) sold for PS86,000
+
+
+
+
+
+
+
+
+There was a considerable fleet of tractors at the auction
+
+
+
+
+
+
+
+
+The auctioneer in action
+
+
+
+
+
+
+
+
+John Deere mania! There was a huge number of 6R Series tractors up for grabs
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Just how 'Deere' were these hammer prices? 
+
+
+
+
+Tim Scrivener was there (at Charleston House, Cruckmoor Lane, Prees Green, Whitchurch, Shropshire) for AgriLand. He snapped these shots as proceedings unfolded.
+The sale was conducted by Euro Auctions.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Here, in this report, we focus on just a small selection of the many 6R/M Series John Deere tractors that were present.
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2017 John Deere 6195R (AutoQuad; 2,293 hours) sold for PS77,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (DirectDrive; 2,946 hours) sold for PS75,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155M (3,072 hours) sold for PS50,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6130M (1,407 hours) sold for PS47,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155R (front loader; AutoQuad; 7,824 hours) sold for PS57,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (AutoPowr; 2,069 hours) sold for PS86,000
+
+
+
+
+
+
+
+
+There was a considerable fleet of tractors at the auction
+
+
+
+
+
+
+
+
+The auctioneer in action
+
+
+
+
+
+
+
+
+John Deere mania! There was a huge number of 6R Series tractors up for grabs
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Just how 'Deere' were these hammer prices? 
+
+
+
+Tim Scrivener was there (at Charleston House, Cruckmoor Lane, Prees Green, Whitchurch, Shropshire) for AgriLand. He snapped these shots as proceedings unfolded.
+The sale was conducted by Euro Auctions.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Here, in this report, we focus on just a small selection of the many 6R/M Series John Deere tractors that were present.
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2017 John Deere 6195R (AutoQuad; 2,293 hours) sold for PS77,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (DirectDrive; 2,946 hours) sold for PS75,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155M (3,072 hours) sold for PS50,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6130M (1,407 hours) sold for PS47,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155R (front loader; AutoQuad; 7,824 hours) sold for PS57,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (AutoPowr; 2,069 hours) sold for PS86,000
+
+
+
+
+
+
+
+
+There was a considerable fleet of tractors at the auction
+
+
+
+
+
+
+
+
+The auctioneer in action
+
+
+
+
+
+
+
+
+John Deere mania! There was a huge number of 6R Series tractors up for grabs
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Just how 'Deere' were these hammer prices? 
+
+
+
+The sale was conducted by Euro Auctions.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Here, in this report, we focus on just a small selection of the many 6R/M Series John Deere tractors that were present.
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2017 John Deere 6195R (AutoQuad; 2,293 hours) sold for PS77,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (DirectDrive; 2,946 hours) sold for PS75,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155M (3,072 hours) sold for PS50,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6130M (1,407 hours) sold for PS47,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155R (front loader; AutoQuad; 7,824 hours) sold for PS57,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (AutoPowr; 2,069 hours) sold for PS86,000
+
+
+
+
+
+
+
+
+There was a considerable fleet of tractors at the auction
+
+
+
+
+
+
+
+
+The auctioneer in action
+
+
+
+
+
+
+
+
+John Deere mania! There was a huge number of 6R Series tractors up for grabs
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Just how 'Deere' were these hammer prices? 
+
+
+
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Here, in this report, we focus on just a small selection of the many 6R/M Series John Deere tractors that were present.
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2017 John Deere 6195R (AutoQuad; 2,293 hours) sold for PS77,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (DirectDrive; 2,946 hours) sold for PS75,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155M (3,072 hours) sold for PS50,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6130M (1,407 hours) sold for PS47,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155R (front loader; AutoQuad; 7,824 hours) sold for PS57,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (AutoPowr; 2,069 hours) sold for PS86,000
+
+
+
+
+
+
+
+
+There was a considerable fleet of tractors at the auction
+
+
+
+
+
+
+
+
+The auctioneer in action
+
+
+
+
+
+
+
+
+John Deere mania! There was a huge number of 6R Series tractors up for grabs
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Just how 'Deere' were these hammer prices? 
+
+
+
+Here, in this report, we focus on just a small selection of the many 6R/M Series John Deere tractors that were present.
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2017 John Deere 6195R (AutoQuad; 2,293 hours) sold for PS77,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (DirectDrive; 2,946 hours) sold for PS75,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155M (3,072 hours) sold for PS50,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6130M (1,407 hours) sold for PS47,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155R (front loader; AutoQuad; 7,824 hours) sold for PS57,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (AutoPowr; 2,069 hours) sold for PS86,000
+
+
+
+
+
+
+
+
+There was a considerable fleet of tractors at the auction
+
+
+
+
+
+
+
+
+The auctioneer in action
+
+
+
+
+
+
+
+
+John Deere mania! There was a huge number of 6R Series tractors up for grabs
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Just how 'Deere' were these hammer prices? 
+
+
+
+A 'buyer's premium' of 2.5% (plus VAT) must be added to the hammer prices (below).
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2017 John Deere 6195R (AutoQuad; 2,293 hours) sold for PS77,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (DirectDrive; 2,946 hours) sold for PS75,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155M (3,072 hours) sold for PS50,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6130M (1,407 hours) sold for PS47,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155R (front loader; AutoQuad; 7,824 hours) sold for PS57,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (AutoPowr; 2,069 hours) sold for PS86,000
+
+
+
+
+
+
+
+
+There was a considerable fleet of tractors at the auction
+
+
+
+
+
+
+
+
+The auctioneer in action
+
+
+
+
+
+
+
+
+John Deere mania! There was a huge number of 6R Series tractors up for grabs
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Just how 'Deere' were these hammer prices? 
+
+
+
+Hammer prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer prices below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2017 John Deere 6195R (AutoQuad; 2,293 hours) sold for PS77,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (DirectDrive; 2,946 hours) sold for PS75,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155M (3,072 hours) sold for PS50,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6130M (1,407 hours) sold for PS47,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155R (front loader; AutoQuad; 7,824 hours) sold for PS57,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (AutoPowr; 2,069 hours) sold for PS86,000
+
+
+
+
+
+
+
+
+There was a considerable fleet of tractors at the auction
+
+
+
+
+
+
+
+
+The auctioneer in action
+
+
+
+
+
+
+
+
+John Deere mania! There was a huge number of 6R Series tractors up for grabs
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Just how 'Deere' were these hammer prices? 
+
+
+
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 2017 John Deere 6195R (AutoQuad; 2,293 hours) sold for PS77,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (DirectDrive; 2,946 hours) sold for PS75,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155M (3,072 hours) sold for PS50,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6130M (1,407 hours) sold for PS47,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155R (front loader; AutoQuad; 7,824 hours) sold for PS57,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (AutoPowr; 2,069 hours) sold for PS86,000
+
+
+
+
+
+
+
+
+There was a considerable fleet of tractors at the auction
+
+
+
+
+
+
+
+
+The auctioneer in action
+
+
+
+
+
+
+
+
+John Deere mania! There was a huge number of 6R Series tractors up for grabs
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Just how 'Deere' were these hammer prices? 
+
+
+
+
+
+
+
+
+
+
+
+
+This 2017 John Deere 6195R (AutoQuad; 2,293 hours) sold for PS77,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (DirectDrive; 2,946 hours) sold for PS75,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155M (3,072 hours) sold for PS50,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6130M (1,407 hours) sold for PS47,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6155R (front loader; AutoQuad; 7,824 hours) sold for PS57,000
+
+
+
+
+
+
+
+
+This 2016 John Deere 6215R (AutoPowr; 2,069 hours) sold for PS86,000
+
+
+
+
+
+
+
+
+There was a considerable fleet of tractors at the auction
+
+
+
+
+
+
+
+
+The auctioneer in action
+
+
+
+
+
+
+
+
+John Deere mania! There was a huge number of 6R Series tractors up for grabs
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: Just how 'Deere' were these hammer prices? 
+
+
+

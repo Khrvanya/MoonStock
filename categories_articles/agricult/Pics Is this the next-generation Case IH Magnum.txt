@@ -1,0 +1,453 @@
+Pics Is this the next-generation Case IH MagnumCase IH, it seems, has just unveiled its new-generation Magnum at a farming event in the US.
+These pictures - from the Twitter page of AgriMacFan @NOtrattorist - show what appears to be the latest incarnation of Case IH's Magnum tractor, along with the corresponding New Holland T8 model.
+
+
+
+
+
+
+
+
+Image source: AgriMacFan @NOtrattorist (Twitter page)
+
+
+
+
+
+
+
+
+Image source: AgriMacFan @NOtrattorist (Twitter page)
+
+
+
+
+
+
+
+
+Image source: AgriMacFan @NOtrattorist (Twitter page)
+
+
+
+
+
+
+
+
+Image source: AgriMacFan @NOtrattorist (Twitter page)
+
+
+
+
+
+
+
+
+Image source: AgriMacFan @NOtrattorist (Twitter page)
+
+
+
+
+
+
+
+
+Image source: AgriMacFan @NOtrattorist (Twitter page)
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Elsewhere, rumours abound that Case IH is planning to unveil a new (lower-powered) tractor series - the Versum CVX.
+It's believed that these tractors will have similar power outputs to some existing Luxxum models, albeit with stepless transmissions.
+Image source: www.mechaman.nl
+It's also believed that the Versum CVX will be very similar to the recently introduced T5 Auto Command line-up from New Holland. It's possible, but not confirmed, that the Versum CVX (if it does actually exist) might be launched at this month's SIMA show in Paris, France.
+In any case (no pun intended!), stay tuned to AgriLand for further updates...
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Closer to home
+Meanwhile, here in Ireland, at last week's Farm Tractor & Machinery Trade Association (FTMTA) Farm Machinery Show in Co. Kildare, New Holland dealer Armstrong Machinery showed this terracotta-coloured T7 model.
+
+It's a variation on the Fiat Centenario Limited Edition tractor theme.
+For the record, New Holland has created official Fiat Centenario Limited Edition versions of several current (production) tractors - namely the T5.120 EC, T5.115, T4.110F with cab, T4.110LP ROPS, T4.110FB ROPS and TK4.110 ROPS.
+According to New Holland, these tractors have "specially-designed liveries and decals that incorporate elements of the Fiat tractor heritage".
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Brand new 'Fiat' tractor lands in Ireland...in the midlands 
+
+
+
+These pictures - from the Twitter page of AgriMacFan @NOtrattorist - show what appears to be the latest incarnation of Case IH's Magnum tractor, along with the corresponding New Holland T8 model.
+
+
+
+
+
+
+
+
+Image source: AgriMacFan @NOtrattorist (Twitter page)
+
+
+
+
+
+
+
+
+Image source: AgriMacFan @NOtrattorist (Twitter page)
+
+
+
+
+
+
+
+
+Image source: AgriMacFan @NOtrattorist (Twitter page)
+
+
+
+
+
+
+
+
+Image source: AgriMacFan @NOtrattorist (Twitter page)
+
+
+
+
+
+
+
+
+Image source: AgriMacFan @NOtrattorist (Twitter page)
+
+
+
+
+
+
+
+
+Image source: AgriMacFan @NOtrattorist (Twitter page)
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Elsewhere, rumours abound that Case IH is planning to unveil a new (lower-powered) tractor series - the Versum CVX.
+It's believed that these tractors will have similar power outputs to some existing Luxxum models, albeit with stepless transmissions.
+Image source: www.mechaman.nl
+It's also believed that the Versum CVX will be very similar to the recently introduced T5 Auto Command line-up from New Holland. It's possible, but not confirmed, that the Versum CVX (if it does actually exist) might be launched at this month's SIMA show in Paris, France.
+In any case (no pun intended!), stay tuned to AgriLand for further updates...
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Closer to home
+Meanwhile, here in Ireland, at last week's Farm Tractor & Machinery Trade Association (FTMTA) Farm Machinery Show in Co. Kildare, New Holland dealer Armstrong Machinery showed this terracotta-coloured T7 model.
+
+It's a variation on the Fiat Centenario Limited Edition tractor theme.
+For the record, New Holland has created official Fiat Centenario Limited Edition versions of several current (production) tractors - namely the T5.120 EC, T5.115, T4.110F with cab, T4.110LP ROPS, T4.110FB ROPS and TK4.110 ROPS.
+According to New Holland, these tractors have "specially-designed liveries and decals that incorporate elements of the Fiat tractor heritage".
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Brand new 'Fiat' tractor lands in Ireland...in the midlands 
+
+
+
+Elsewhere, rumours abound that Case IH is planning to unveil a new (lower-powered) tractor series - the Versum CVX.
+It's believed that these tractors will have similar power outputs to some existing Luxxum models, albeit with stepless transmissions.
+Image source: www.mechaman.nl
+It's also believed that the Versum CVX will be very similar to the recently introduced T5 Auto Command line-up from New Holland. It's possible, but not confirmed, that the Versum CVX (if it does actually exist) might be launched at this month's SIMA show in Paris, France.
+In any case (no pun intended!), stay tuned to AgriLand for further updates...
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Closer to home
+Meanwhile, here in Ireland, at last week's Farm Tractor & Machinery Trade Association (FTMTA) Farm Machinery Show in Co. Kildare, New Holland dealer Armstrong Machinery showed this terracotta-coloured T7 model.
+
+It's a variation on the Fiat Centenario Limited Edition tractor theme.
+For the record, New Holland has created official Fiat Centenario Limited Edition versions of several current (production) tractors - namely the T5.120 EC, T5.115, T4.110F with cab, T4.110LP ROPS, T4.110FB ROPS and TK4.110 ROPS.
+According to New Holland, these tractors have "specially-designed liveries and decals that incorporate elements of the Fiat tractor heritage".
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Brand new 'Fiat' tractor lands in Ireland...in the midlands 
+
+
+
+It's believed that these tractors will have similar power outputs to some existing Luxxum models, albeit with stepless transmissions.
+Image source: www.mechaman.nl
+It's also believed that the Versum CVX will be very similar to the recently introduced T5 Auto Command line-up from New Holland. It's possible, but not confirmed, that the Versum CVX (if it does actually exist) might be launched at this month's SIMA show in Paris, France.
+In any case (no pun intended!), stay tuned to AgriLand for further updates...
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Closer to home
+Meanwhile, here in Ireland, at last week's Farm Tractor & Machinery Trade Association (FTMTA) Farm Machinery Show in Co. Kildare, New Holland dealer Armstrong Machinery showed this terracotta-coloured T7 model.
+
+It's a variation on the Fiat Centenario Limited Edition tractor theme.
+For the record, New Holland has created official Fiat Centenario Limited Edition versions of several current (production) tractors - namely the T5.120 EC, T5.115, T4.110F with cab, T4.110LP ROPS, T4.110FB ROPS and TK4.110 ROPS.
+According to New Holland, these tractors have "specially-designed liveries and decals that incorporate elements of the Fiat tractor heritage".
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Brand new 'Fiat' tractor lands in Ireland...in the midlands 
+
+
+
+It's also believed that the Versum CVX will be very similar to the recently introduced T5 Auto Command line-up from New Holland. It's possible, but not confirmed, that the Versum CVX (if it does actually exist) might be launched at this month's SIMA show in Paris, France.
+In any case (no pun intended!), stay tuned to AgriLand for further updates...
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Closer to home
+Meanwhile, here in Ireland, at last week's Farm Tractor & Machinery Trade Association (FTMTA) Farm Machinery Show in Co. Kildare, New Holland dealer Armstrong Machinery showed this terracotta-coloured T7 model.
+
+It's a variation on the Fiat Centenario Limited Edition tractor theme.
+For the record, New Holland has created official Fiat Centenario Limited Edition versions of several current (production) tractors - namely the T5.120 EC, T5.115, T4.110F with cab, T4.110LP ROPS, T4.110FB ROPS and TK4.110 ROPS.
+According to New Holland, these tractors have "specially-designed liveries and decals that incorporate elements of the Fiat tractor heritage".
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Brand new 'Fiat' tractor lands in Ireland...in the midlands 
+
+
+
+In any case (no pun intended!), stay tuned to AgriLand for further updates...
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+Closer to home
+Meanwhile, here in Ireland, at last week's Farm Tractor & Machinery Trade Association (FTMTA) Farm Machinery Show in Co. Kildare, New Holland dealer Armstrong Machinery showed this terracotta-coloured T7 model.
+
+It's a variation on the Fiat Centenario Limited Edition tractor theme.
+For the record, New Holland has created official Fiat Centenario Limited Edition versions of several current (production) tractors - namely the T5.120 EC, T5.115, T4.110F with cab, T4.110LP ROPS, T4.110FB ROPS and TK4.110 ROPS.
+According to New Holland, these tractors have "specially-designed liveries and decals that incorporate elements of the Fiat tractor heritage".
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Brand new 'Fiat' tractor lands in Ireland...in the midlands 
+
+
+
+Meanwhile, here in Ireland, at last week's Farm Tractor & Machinery Trade Association (FTMTA) Farm Machinery Show in Co. Kildare, New Holland dealer Armstrong Machinery showed this terracotta-coloured T7 model.
+
+It's a variation on the Fiat Centenario Limited Edition tractor theme.
+For the record, New Holland has created official Fiat Centenario Limited Edition versions of several current (production) tractors - namely the T5.120 EC, T5.115, T4.110F with cab, T4.110LP ROPS, T4.110FB ROPS and TK4.110 ROPS.
+According to New Holland, these tractors have "specially-designed liveries and decals that incorporate elements of the Fiat tractor heritage".
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Brand new 'Fiat' tractor lands in Ireland...in the midlands 
+
+
+
+
+It's a variation on the Fiat Centenario Limited Edition tractor theme.
+For the record, New Holland has created official Fiat Centenario Limited Edition versions of several current (production) tractors - namely the T5.120 EC, T5.115, T4.110F with cab, T4.110LP ROPS, T4.110FB ROPS and TK4.110 ROPS.
+According to New Holland, these tractors have "specially-designed liveries and decals that incorporate elements of the Fiat tractor heritage".
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Brand new 'Fiat' tractor lands in Ireland...in the midlands 
+
+
+
+It's a variation on the Fiat Centenario Limited Edition tractor theme.
+For the record, New Holland has created official Fiat Centenario Limited Edition versions of several current (production) tractors - namely the T5.120 EC, T5.115, T4.110F with cab, T4.110LP ROPS, T4.110FB ROPS and TK4.110 ROPS.
+According to New Holland, these tractors have "specially-designed liveries and decals that incorporate elements of the Fiat tractor heritage".
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Brand new 'Fiat' tractor lands in Ireland...in the midlands 
+
+
+
+For the record, New Holland has created official Fiat Centenario Limited Edition versions of several current (production) tractors - namely the T5.120 EC, T5.115, T4.110F with cab, T4.110LP ROPS, T4.110FB ROPS and TK4.110 ROPS.
+According to New Holland, these tractors have "specially-designed liveries and decals that incorporate elements of the Fiat tractor heritage".
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Brand new 'Fiat' tractor lands in Ireland...in the midlands 
+
+
+
+According to New Holland, these tractors have "specially-designed liveries and decals that incorporate elements of the Fiat tractor heritage".
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Brand new 'Fiat' tractor lands in Ireland...in the midlands 
+
+
+

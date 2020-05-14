@@ -1,0 +1,21 @@
+Bulgarian gas company plans to launch wholesale LoRa network 
+03072018
+
+0912
+Natural GasA subsidiary of Bulgarian natural gas company Overgas is to build a wireless network which will offer wholesale capacity to other operators.Vestitel mapVestitel already provides wholesale telecoms services through its network, using fibre running in ducts alongside its gas pipelines, but it plans to add the wireless service from the beginning of 2019.
+ 
+"We are already testing the base stations and the network services," Vestitel CEO Valentin Velichkov told Capacity. The network is primarily designed for machine-to-machine (M2M) applications, he added.
+ 
+Overgas will use the M2M network to connect its gas meters, said Velichkov, speaking to Capacity at the Capacity Europe East event in Sofia. "The service will cover the entire network. This is a completely new market in Bulgaria." The network uses LoRa - long range, low-power wireless technology, he added.
+ 
+The company will offer the service on a wholesale basis "to any other operators", said Velichkov. Vestitel is talking to equipment and software vendors about developing applications to run on the system.
+ 
+Meanwhile Vestitel's fibre network extends across the whole of Bulgaria and through Greece to Thessaloniki and Athens.
+ 
+Within Bulgaria, the network has two rings covering Sofia, Plovdiv, Varna, Burgas, Stara Zagora, Russe, Pleven, Veliko Tarnovo, Sliven, Blagoevgrad, Kjustendil, Pernik, Kulata, Botevgrad, Dobrich, Petrich, Zlatarevo and Gueshevo.
+ 
+"We have a lot of business between Bulgaria and Greece but we are also developing the network towards the borders of Macedonia, Albania and Kosovo," as well as north to Romania, "and we want to strengthen the connection to the Turkish border", he added. "In Macedonia we would like to develop our own infrastructure."
+ 
+Macedonia, an independent republic formed in the break-up of the former Yugoslavia, is likely to be renamed the Republic of North Macedonia following an agreement last month to settle a long-standing naming dispute with Greece.
+Source: capacitymedia.com
+Vestitel mapVestitel already provides wholesale telecoms services through its network, using fibre running in ducts alongside its gas pipelines, but it plans to add the wireless service from the beginning of 2019. "We are already testing the base stations and the network services," Vestitel CEO Valentin Velichkov told Capacity. The network is primarily designed for machine-to-machine (M2M) applications, he added. Overgas will use the M2M network to connect its gas meters, said Velichkov, speaking to Capacity at the Capacity Europe East event in Sofia. "The service will cover the entire network. This is a completely new market in Bulgaria." The network uses LoRa - long range, low-power wireless technology, he added. The company will offer the service on a wholesale basis "to any other operators", said Velichkov. Vestitel is talking to equipment and software vendors about developing applications to run on the system. Meanwhile Vestitel's fibre network extends across the whole of Bulgaria and through Greece to Thessaloniki and Athens. Within Bulgaria, the network has two rings covering Sofia, Plovdiv, Varna, Burgas, Stara Zagora, Russe, Pleven, Veliko Tarnovo, Sliven, Blagoevgrad, Kjustendil, Pernik, Kulata, Botevgrad, Dobrich, Petrich, Zlatarevo and Gueshevo. "We have a lot of business between Bulgaria and Greece but we are also developing the network towards the borders of Macedonia, Albania and Kosovo," as well as north to Romania, "and we want to strengthen the connection to the Turkish border", he added. "In Macedonia we would like to develop our own infrastructure." Macedonia, an independent republic formed in the break-up of the former Yugoslavia, is likely to be renamed the Republic of North Macedonia following an agreement last month to settle a long-standing naming dispute with Greece.Source: capacitymedia.com

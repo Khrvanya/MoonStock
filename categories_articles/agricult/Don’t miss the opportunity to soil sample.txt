@@ -1,0 +1,1477 @@
+Don’t miss the opportunity to soil sampleDavid Argue - Teagasc Green Acres Advisor
+As spring approaches, many farmers will be keen to get out into the fields and spread organic and chemical fertilisers.
+However, before these fertilisers are applied, it is an opportune time to take soil samples. Incorporating the results of which can allow for the management and improvement of soil fertility to enhance grassland production.
+When to take soil samples?
+The ideal time to soil sample the farm is between October and March. Remember, at least three-to-six months should pass between the final application of phosphorous (P) and potassium (K) - organic or chemical - and two years should lapse between the last lime application.
+A soil test should enable the generation of a three-to-five year fertiliser plan. However, you may need to test more frequently if steps have been taken to correct poor-fertility levels.
+Soil testing costs approximately EUR0.50/ac/year, so it's a relatively small cost.
+
+What does a soil sample tell you?
+The principle of soil analysis is to determine the average nutrient status of an area and to give a measure of the available nutrients in the soil.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+A sample can give an indication of the soil nutrient content and the soils pH. In terms of P and K, the results are presented on a 1-4 index scale - with index 1 being the lowest and 4 being the highest.
+Interpreting a soil sample allows us to prepare a fertiliser plan and gives a good indication of which fields require certain fertilisers. This information allows us to manage lime, P and K as efficiently as possible.
+Taking soil samples correctly
+The soil sample result will only be as good as the sample that is taken. A funnel type auger and a 4 inch core are used in order to get a suitable sample.
+When taking a soil sample, it's important to avoid any unusual spots in the field, such as around water troughs, feed troughs, dung paths or close to the headlands. Some examples of where to avoid are pictured below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+A map of the farm is useful to determine where exactly the sample is taken from and to relate back to when it comes to fertiliser application.
+It is recommended to take a sample every 2 to 4ha. A soil sample box and a permanent marker are also needed to identify each sample.
+A representative sample is required. Take the sample by walking in the shape of a W in the field, while taking five samples along each diagonal. A minimum of 20 cores per sample is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How much should beef farmers pay for bull calves from the dairy herd? 
+
+
+
+As spring approaches, many farmers will be keen to get out into the fields and spread organic and chemical fertilisers.
+However, before these fertilisers are applied, it is an opportune time to take soil samples. Incorporating the results of which can allow for the management and improvement of soil fertility to enhance grassland production.
+When to take soil samples?
+The ideal time to soil sample the farm is between October and March. Remember, at least three-to-six months should pass between the final application of phosphorous (P) and potassium (K) - organic or chemical - and two years should lapse between the last lime application.
+A soil test should enable the generation of a three-to-five year fertiliser plan. However, you may need to test more frequently if steps have been taken to correct poor-fertility levels.
+Soil testing costs approximately EUR0.50/ac/year, so it's a relatively small cost.
+
+What does a soil sample tell you?
+The principle of soil analysis is to determine the average nutrient status of an area and to give a measure of the available nutrients in the soil.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+A sample can give an indication of the soil nutrient content and the soils pH. In terms of P and K, the results are presented on a 1-4 index scale - with index 1 being the lowest and 4 being the highest.
+Interpreting a soil sample allows us to prepare a fertiliser plan and gives a good indication of which fields require certain fertilisers. This information allows us to manage lime, P and K as efficiently as possible.
+Taking soil samples correctly
+The soil sample result will only be as good as the sample that is taken. A funnel type auger and a 4 inch core are used in order to get a suitable sample.
+When taking a soil sample, it's important to avoid any unusual spots in the field, such as around water troughs, feed troughs, dung paths or close to the headlands. Some examples of where to avoid are pictured below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+A map of the farm is useful to determine where exactly the sample is taken from and to relate back to when it comes to fertiliser application.
+It is recommended to take a sample every 2 to 4ha. A soil sample box and a permanent marker are also needed to identify each sample.
+A representative sample is required. Take the sample by walking in the shape of a W in the field, while taking five samples along each diagonal. A minimum of 20 cores per sample is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How much should beef farmers pay for bull calves from the dairy herd? 
+
+
+
+However, before these fertilisers are applied, it is an opportune time to take soil samples. Incorporating the results of which can allow for the management and improvement of soil fertility to enhance grassland production.
+When to take soil samples?
+The ideal time to soil sample the farm is between October and March. Remember, at least three-to-six months should pass between the final application of phosphorous (P) and potassium (K) - organic or chemical - and two years should lapse between the last lime application.
+A soil test should enable the generation of a three-to-five year fertiliser plan. However, you may need to test more frequently if steps have been taken to correct poor-fertility levels.
+Soil testing costs approximately EUR0.50/ac/year, so it's a relatively small cost.
+
+What does a soil sample tell you?
+The principle of soil analysis is to determine the average nutrient status of an area and to give a measure of the available nutrients in the soil.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+A sample can give an indication of the soil nutrient content and the soils pH. In terms of P and K, the results are presented on a 1-4 index scale - with index 1 being the lowest and 4 being the highest.
+Interpreting a soil sample allows us to prepare a fertiliser plan and gives a good indication of which fields require certain fertilisers. This information allows us to manage lime, P and K as efficiently as possible.
+Taking soil samples correctly
+The soil sample result will only be as good as the sample that is taken. A funnel type auger and a 4 inch core are used in order to get a suitable sample.
+When taking a soil sample, it's important to avoid any unusual spots in the field, such as around water troughs, feed troughs, dung paths or close to the headlands. Some examples of where to avoid are pictured below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+A map of the farm is useful to determine where exactly the sample is taken from and to relate back to when it comes to fertiliser application.
+It is recommended to take a sample every 2 to 4ha. A soil sample box and a permanent marker are also needed to identify each sample.
+A representative sample is required. Take the sample by walking in the shape of a W in the field, while taking five samples along each diagonal. A minimum of 20 cores per sample is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How much should beef farmers pay for bull calves from the dairy herd? 
+
+
+
+The ideal time to soil sample the farm is between October and March. Remember, at least three-to-six months should pass between the final application of phosphorous (P) and potassium (K) - organic or chemical - and two years should lapse between the last lime application.
+A soil test should enable the generation of a three-to-five year fertiliser plan. However, you may need to test more frequently if steps have been taken to correct poor-fertility levels.
+Soil testing costs approximately EUR0.50/ac/year, so it's a relatively small cost.
+
+What does a soil sample tell you?
+The principle of soil analysis is to determine the average nutrient status of an area and to give a measure of the available nutrients in the soil.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+A sample can give an indication of the soil nutrient content and the soils pH. In terms of P and K, the results are presented on a 1-4 index scale - with index 1 being the lowest and 4 being the highest.
+Interpreting a soil sample allows us to prepare a fertiliser plan and gives a good indication of which fields require certain fertilisers. This information allows us to manage lime, P and K as efficiently as possible.
+Taking soil samples correctly
+The soil sample result will only be as good as the sample that is taken. A funnel type auger and a 4 inch core are used in order to get a suitable sample.
+When taking a soil sample, it's important to avoid any unusual spots in the field, such as around water troughs, feed troughs, dung paths or close to the headlands. Some examples of where to avoid are pictured below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+A map of the farm is useful to determine where exactly the sample is taken from and to relate back to when it comes to fertiliser application.
+It is recommended to take a sample every 2 to 4ha. A soil sample box and a permanent marker are also needed to identify each sample.
+A representative sample is required. Take the sample by walking in the shape of a W in the field, while taking five samples along each diagonal. A minimum of 20 cores per sample is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How much should beef farmers pay for bull calves from the dairy herd? 
+
+
+
+A soil test should enable the generation of a three-to-five year fertiliser plan. However, you may need to test more frequently if steps have been taken to correct poor-fertility levels.
+Soil testing costs approximately EUR0.50/ac/year, so it's a relatively small cost.
+
+What does a soil sample tell you?
+The principle of soil analysis is to determine the average nutrient status of an area and to give a measure of the available nutrients in the soil.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+A sample can give an indication of the soil nutrient content and the soils pH. In terms of P and K, the results are presented on a 1-4 index scale - with index 1 being the lowest and 4 being the highest.
+Interpreting a soil sample allows us to prepare a fertiliser plan and gives a good indication of which fields require certain fertilisers. This information allows us to manage lime, P and K as efficiently as possible.
+Taking soil samples correctly
+The soil sample result will only be as good as the sample that is taken. A funnel type auger and a 4 inch core are used in order to get a suitable sample.
+When taking a soil sample, it's important to avoid any unusual spots in the field, such as around water troughs, feed troughs, dung paths or close to the headlands. Some examples of where to avoid are pictured below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+A map of the farm is useful to determine where exactly the sample is taken from and to relate back to when it comes to fertiliser application.
+It is recommended to take a sample every 2 to 4ha. A soil sample box and a permanent marker are also needed to identify each sample.
+A representative sample is required. Take the sample by walking in the shape of a W in the field, while taking five samples along each diagonal. A minimum of 20 cores per sample is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How much should beef farmers pay for bull calves from the dairy herd? 
+
+
+
+Soil testing costs approximately EUR0.50/ac/year, so it's a relatively small cost.
+
+What does a soil sample tell you?
+The principle of soil analysis is to determine the average nutrient status of an area and to give a measure of the available nutrients in the soil.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+A sample can give an indication of the soil nutrient content and the soils pH. In terms of P and K, the results are presented on a 1-4 index scale - with index 1 being the lowest and 4 being the highest.
+Interpreting a soil sample allows us to prepare a fertiliser plan and gives a good indication of which fields require certain fertilisers. This information allows us to manage lime, P and K as efficiently as possible.
+Taking soil samples correctly
+The soil sample result will only be as good as the sample that is taken. A funnel type auger and a 4 inch core are used in order to get a suitable sample.
+When taking a soil sample, it's important to avoid any unusual spots in the field, such as around water troughs, feed troughs, dung paths or close to the headlands. Some examples of where to avoid are pictured below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+A map of the farm is useful to determine where exactly the sample is taken from and to relate back to when it comes to fertiliser application.
+It is recommended to take a sample every 2 to 4ha. A soil sample box and a permanent marker are also needed to identify each sample.
+A representative sample is required. Take the sample by walking in the shape of a W in the field, while taking five samples along each diagonal. A minimum of 20 cores per sample is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How much should beef farmers pay for bull calves from the dairy herd? 
+
+
+
+
+What does a soil sample tell you?
+The principle of soil analysis is to determine the average nutrient status of an area and to give a measure of the available nutrients in the soil.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+A sample can give an indication of the soil nutrient content and the soils pH. In terms of P and K, the results are presented on a 1-4 index scale - with index 1 being the lowest and 4 being the highest.
+Interpreting a soil sample allows us to prepare a fertiliser plan and gives a good indication of which fields require certain fertilisers. This information allows us to manage lime, P and K as efficiently as possible.
+Taking soil samples correctly
+The soil sample result will only be as good as the sample that is taken. A funnel type auger and a 4 inch core are used in order to get a suitable sample.
+When taking a soil sample, it's important to avoid any unusual spots in the field, such as around water troughs, feed troughs, dung paths or close to the headlands. Some examples of where to avoid are pictured below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+A map of the farm is useful to determine where exactly the sample is taken from and to relate back to when it comes to fertiliser application.
+It is recommended to take a sample every 2 to 4ha. A soil sample box and a permanent marker are also needed to identify each sample.
+A representative sample is required. Take the sample by walking in the shape of a W in the field, while taking five samples along each diagonal. A minimum of 20 cores per sample is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How much should beef farmers pay for bull calves from the dairy herd? 
+
+
+
+The principle of soil analysis is to determine the average nutrient status of an area and to give a measure of the available nutrients in the soil.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+A sample can give an indication of the soil nutrient content and the soils pH. In terms of P and K, the results are presented on a 1-4 index scale - with index 1 being the lowest and 4 being the highest.
+Interpreting a soil sample allows us to prepare a fertiliser plan and gives a good indication of which fields require certain fertilisers. This information allows us to manage lime, P and K as efficiently as possible.
+Taking soil samples correctly
+The soil sample result will only be as good as the sample that is taken. A funnel type auger and a 4 inch core are used in order to get a suitable sample.
+When taking a soil sample, it's important to avoid any unusual spots in the field, such as around water troughs, feed troughs, dung paths or close to the headlands. Some examples of where to avoid are pictured below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+A map of the farm is useful to determine where exactly the sample is taken from and to relate back to when it comes to fertiliser application.
+It is recommended to take a sample every 2 to 4ha. A soil sample box and a permanent marker are also needed to identify each sample.
+A representative sample is required. Take the sample by walking in the shape of a W in the field, while taking five samples along each diagonal. A minimum of 20 cores per sample is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How much should beef farmers pay for bull calves from the dairy herd? 
+
+
+
+A sample can give an indication of the soil nutrient content and the soils pH. In terms of P and K, the results are presented on a 1-4 index scale - with index 1 being the lowest and 4 being the highest.
+Interpreting a soil sample allows us to prepare a fertiliser plan and gives a good indication of which fields require certain fertilisers. This information allows us to manage lime, P and K as efficiently as possible.
+Taking soil samples correctly
+The soil sample result will only be as good as the sample that is taken. A funnel type auger and a 4 inch core are used in order to get a suitable sample.
+When taking a soil sample, it's important to avoid any unusual spots in the field, such as around water troughs, feed troughs, dung paths or close to the headlands. Some examples of where to avoid are pictured below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+A map of the farm is useful to determine where exactly the sample is taken from and to relate back to when it comes to fertiliser application.
+It is recommended to take a sample every 2 to 4ha. A soil sample box and a permanent marker are also needed to identify each sample.
+A representative sample is required. Take the sample by walking in the shape of a W in the field, while taking five samples along each diagonal. A minimum of 20 cores per sample is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How much should beef farmers pay for bull calves from the dairy herd? 
+
+
+
+Interpreting a soil sample allows us to prepare a fertiliser plan and gives a good indication of which fields require certain fertilisers. This information allows us to manage lime, P and K as efficiently as possible.
+Taking soil samples correctly
+The soil sample result will only be as good as the sample that is taken. A funnel type auger and a 4 inch core are used in order to get a suitable sample.
+When taking a soil sample, it's important to avoid any unusual spots in the field, such as around water troughs, feed troughs, dung paths or close to the headlands. Some examples of where to avoid are pictured below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+A map of the farm is useful to determine where exactly the sample is taken from and to relate back to when it comes to fertiliser application.
+It is recommended to take a sample every 2 to 4ha. A soil sample box and a permanent marker are also needed to identify each sample.
+A representative sample is required. Take the sample by walking in the shape of a W in the field, while taking five samples along each diagonal. A minimum of 20 cores per sample is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How much should beef farmers pay for bull calves from the dairy herd? 
+
+
+
+The soil sample result will only be as good as the sample that is taken. A funnel type auger and a 4 inch core are used in order to get a suitable sample.
+When taking a soil sample, it's important to avoid any unusual spots in the field, such as around water troughs, feed troughs, dung paths or close to the headlands. Some examples of where to avoid are pictured below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+A map of the farm is useful to determine where exactly the sample is taken from and to relate back to when it comes to fertiliser application.
+It is recommended to take a sample every 2 to 4ha. A soil sample box and a permanent marker are also needed to identify each sample.
+A representative sample is required. Take the sample by walking in the shape of a W in the field, while taking five samples along each diagonal. A minimum of 20 cores per sample is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How much should beef farmers pay for bull calves from the dairy herd? 
+
+
+
+When taking a soil sample, it's important to avoid any unusual spots in the field, such as around water troughs, feed troughs, dung paths or close to the headlands. Some examples of where to avoid are pictured below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+A map of the farm is useful to determine where exactly the sample is taken from and to relate back to when it comes to fertiliser application.
+It is recommended to take a sample every 2 to 4ha. A soil sample box and a permanent marker are also needed to identify each sample.
+A representative sample is required. Take the sample by walking in the shape of a W in the field, while taking five samples along each diagonal. A minimum of 20 cores per sample is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How much should beef farmers pay for bull calves from the dairy herd? 
+
+
+
+A map of the farm is useful to determine where exactly the sample is taken from and to relate back to when it comes to fertiliser application.
+It is recommended to take a sample every 2 to 4ha. A soil sample box and a permanent marker are also needed to identify each sample.
+A representative sample is required. Take the sample by walking in the shape of a W in the field, while taking five samples along each diagonal. A minimum of 20 cores per sample is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How much should beef farmers pay for bull calves from the dairy herd? 
+
+
+
+It is recommended to take a sample every 2 to 4ha. A soil sample box and a permanent marker are also needed to identify each sample.
+A representative sample is required. Take the sample by walking in the shape of a W in the field, while taking five samples along each diagonal. A minimum of 20 cores per sample is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How much should beef farmers pay for bull calves from the dairy herd? 
+
+
+
+A representative sample is required. Take the sample by walking in the shape of a W in the field, while taking five samples along each diagonal. A minimum of 20 cores per sample is required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How much should beef farmers pay for bull calves from the dairy herd? 
+
+
+

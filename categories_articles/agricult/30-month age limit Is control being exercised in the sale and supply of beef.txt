@@ -1,0 +1,3878 @@
+30-month age limit Is control being exercised in the sale and supply of beefWhile farm organisations have come out this week strongly opposed to the 30-month age limit for steers and heifers and the 16-month age limit for bulls, one entity went so far as to say that these age limits are "no longer needed".
+The Irish Creamery Milk Suppliers' Association (ICMSA) livestock chairman Des Morrison told AgriLand that the 30-month age limit was historical, a carry-over based on a BSE counter-measure and was no longer necessary.
+Meanwhile, the Beef Plan Movement says the age limits work against grass-fed systems that give Ireland a competitive edge over other countries.
+The Irish Cattle and Sheep Farmers' Association (ICSA) pointed out that the limits forced the farmer into selling and subsequently turned him into a weak vendor.
+The Irish Farmers' Association (IFA) told AgriLand that quality was to the fore at all times and the 30-month age limit, in particular, was part of the veterinary certification requirements for a number of countries.
+The Irish Family-Farm Rights Group (IFRG) said the 30-month age limit should be raised to 36 months and a 24-month age limit "would be preferable" with regard to the 16-month age limit.
+ICMSA
+The ICMSA said the age limits were no longer necessary.
+"The age limits are no longer needed due to the large kills and the backlog of cattle at factories in recent weeks. The ICMSA is aware of cases where farmers with cattle close to the age limits have been unable to get them killed on time.
+Also Read: 'Age limits determined by processors and retailers' - Creed
+"They have therefore missed out on the bonus by a few days. The ICMSA believes this is grossly unfair and that something needs to be done about it," added Morrison.
+Beef Plan Movement
+Co-founder of the Beef Plan Movement Eamon Corley said the age limits were turning a product that is non-perishable into one that is.
+"It works against the unintensive, mainly grass-fed systems which give Ireland a competitive advantage over many other countries," he added.
+The question that needed to be asked, Corley continued, was: "Is the quality of the meat from a 31-month old heifer any worse or less tender than the quality of the meat of a 29-month animal?
+Absolutely not but there are other factors that effect the quality of meat.
+He added: "For example - the amount of days the animal is left hanging and mixing inferior quality animals with the better quality ones - again this is widespread practice in Irish meat plants."
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+ICSA
+With regard to the 30-month age limit, the ICSA's general secretary Eddie Punch said it was "forcing" farmers to sell at a particular time and this had become a very limiting procedure for farmers.
+A farmer's freedom to sell cattle is curtailed and it is being used as a device to make farmers weak sellers.
+He continued: "The ICSA has been fighting against this for the last few years because really it is a factory measure; what we really need in relation to this is for some independent research to be carried out so that we can find out from the consumer themselves what exactly it is they want and not what the retailer wants."
+IFRG
+The IFRG said the 30-month age limit for steers/heifers should be raised to 36 months.
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+The Irish Creamery Milk Suppliers' Association (ICMSA) livestock chairman Des Morrison told AgriLand that the 30-month age limit was historical, a carry-over based on a BSE counter-measure and was no longer necessary.
+Meanwhile, the Beef Plan Movement says the age limits work against grass-fed systems that give Ireland a competitive edge over other countries.
+The Irish Cattle and Sheep Farmers' Association (ICSA) pointed out that the limits forced the farmer into selling and subsequently turned him into a weak vendor.
+The Irish Farmers' Association (IFA) told AgriLand that quality was to the fore at all times and the 30-month age limit, in particular, was part of the veterinary certification requirements for a number of countries.
+The Irish Family-Farm Rights Group (IFRG) said the 30-month age limit should be raised to 36 months and a 24-month age limit "would be preferable" with regard to the 16-month age limit.
+ICMSA
+The ICMSA said the age limits were no longer necessary.
+"The age limits are no longer needed due to the large kills and the backlog of cattle at factories in recent weeks. The ICMSA is aware of cases where farmers with cattle close to the age limits have been unable to get them killed on time.
+Also Read: 'Age limits determined by processors and retailers' - Creed
+"They have therefore missed out on the bonus by a few days. The ICMSA believes this is grossly unfair and that something needs to be done about it," added Morrison.
+Beef Plan Movement
+Co-founder of the Beef Plan Movement Eamon Corley said the age limits were turning a product that is non-perishable into one that is.
+"It works against the unintensive, mainly grass-fed systems which give Ireland a competitive advantage over many other countries," he added.
+The question that needed to be asked, Corley continued, was: "Is the quality of the meat from a 31-month old heifer any worse or less tender than the quality of the meat of a 29-month animal?
+Absolutely not but there are other factors that effect the quality of meat.
+He added: "For example - the amount of days the animal is left hanging and mixing inferior quality animals with the better quality ones - again this is widespread practice in Irish meat plants."
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+ICSA
+With regard to the 30-month age limit, the ICSA's general secretary Eddie Punch said it was "forcing" farmers to sell at a particular time and this had become a very limiting procedure for farmers.
+A farmer's freedom to sell cattle is curtailed and it is being used as a device to make farmers weak sellers.
+He continued: "The ICSA has been fighting against this for the last few years because really it is a factory measure; what we really need in relation to this is for some independent research to be carried out so that we can find out from the consumer themselves what exactly it is they want and not what the retailer wants."
+IFRG
+The IFRG said the 30-month age limit for steers/heifers should be raised to 36 months.
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+Meanwhile, the Beef Plan Movement says the age limits work against grass-fed systems that give Ireland a competitive edge over other countries.
+The Irish Cattle and Sheep Farmers' Association (ICSA) pointed out that the limits forced the farmer into selling and subsequently turned him into a weak vendor.
+The Irish Farmers' Association (IFA) told AgriLand that quality was to the fore at all times and the 30-month age limit, in particular, was part of the veterinary certification requirements for a number of countries.
+The Irish Family-Farm Rights Group (IFRG) said the 30-month age limit should be raised to 36 months and a 24-month age limit "would be preferable" with regard to the 16-month age limit.
+ICMSA
+The ICMSA said the age limits were no longer necessary.
+"The age limits are no longer needed due to the large kills and the backlog of cattle at factories in recent weeks. The ICMSA is aware of cases where farmers with cattle close to the age limits have been unable to get them killed on time.
+Also Read: 'Age limits determined by processors and retailers' - Creed
+"They have therefore missed out on the bonus by a few days. The ICMSA believes this is grossly unfair and that something needs to be done about it," added Morrison.
+Beef Plan Movement
+Co-founder of the Beef Plan Movement Eamon Corley said the age limits were turning a product that is non-perishable into one that is.
+"It works against the unintensive, mainly grass-fed systems which give Ireland a competitive advantage over many other countries," he added.
+The question that needed to be asked, Corley continued, was: "Is the quality of the meat from a 31-month old heifer any worse or less tender than the quality of the meat of a 29-month animal?
+Absolutely not but there are other factors that effect the quality of meat.
+He added: "For example - the amount of days the animal is left hanging and mixing inferior quality animals with the better quality ones - again this is widespread practice in Irish meat plants."
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+ICSA
+With regard to the 30-month age limit, the ICSA's general secretary Eddie Punch said it was "forcing" farmers to sell at a particular time and this had become a very limiting procedure for farmers.
+A farmer's freedom to sell cattle is curtailed and it is being used as a device to make farmers weak sellers.
+He continued: "The ICSA has been fighting against this for the last few years because really it is a factory measure; what we really need in relation to this is for some independent research to be carried out so that we can find out from the consumer themselves what exactly it is they want and not what the retailer wants."
+IFRG
+The IFRG said the 30-month age limit for steers/heifers should be raised to 36 months.
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+The Irish Farmers' Association (IFA) told AgriLand that quality was to the fore at all times and the 30-month age limit, in particular, was part of the veterinary certification requirements for a number of countries.
+The Irish Family-Farm Rights Group (IFRG) said the 30-month age limit should be raised to 36 months and a 24-month age limit "would be preferable" with regard to the 16-month age limit.
+ICMSA
+The ICMSA said the age limits were no longer necessary.
+"The age limits are no longer needed due to the large kills and the backlog of cattle at factories in recent weeks. The ICMSA is aware of cases where farmers with cattle close to the age limits have been unable to get them killed on time.
+Also Read: 'Age limits determined by processors and retailers' - Creed
+"They have therefore missed out on the bonus by a few days. The ICMSA believes this is grossly unfair and that something needs to be done about it," added Morrison.
+Beef Plan Movement
+Co-founder of the Beef Plan Movement Eamon Corley said the age limits were turning a product that is non-perishable into one that is.
+"It works against the unintensive, mainly grass-fed systems which give Ireland a competitive advantage over many other countries," he added.
+The question that needed to be asked, Corley continued, was: "Is the quality of the meat from a 31-month old heifer any worse or less tender than the quality of the meat of a 29-month animal?
+Absolutely not but there are other factors that effect the quality of meat.
+He added: "For example - the amount of days the animal is left hanging and mixing inferior quality animals with the better quality ones - again this is widespread practice in Irish meat plants."
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+ICSA
+With regard to the 30-month age limit, the ICSA's general secretary Eddie Punch said it was "forcing" farmers to sell at a particular time and this had become a very limiting procedure for farmers.
+A farmer's freedom to sell cattle is curtailed and it is being used as a device to make farmers weak sellers.
+He continued: "The ICSA has been fighting against this for the last few years because really it is a factory measure; what we really need in relation to this is for some independent research to be carried out so that we can find out from the consumer themselves what exactly it is they want and not what the retailer wants."
+IFRG
+The IFRG said the 30-month age limit for steers/heifers should be raised to 36 months.
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+The Irish Family-Farm Rights Group (IFRG) said the 30-month age limit should be raised to 36 months and a 24-month age limit "would be preferable" with regard to the 16-month age limit.
+ICMSA
+The ICMSA said the age limits were no longer necessary.
+"The age limits are no longer needed due to the large kills and the backlog of cattle at factories in recent weeks. The ICMSA is aware of cases where farmers with cattle close to the age limits have been unable to get them killed on time.
+Also Read: 'Age limits determined by processors and retailers' - Creed
+"They have therefore missed out on the bonus by a few days. The ICMSA believes this is grossly unfair and that something needs to be done about it," added Morrison.
+Beef Plan Movement
+Co-founder of the Beef Plan Movement Eamon Corley said the age limits were turning a product that is non-perishable into one that is.
+"It works against the unintensive, mainly grass-fed systems which give Ireland a competitive advantage over many other countries," he added.
+The question that needed to be asked, Corley continued, was: "Is the quality of the meat from a 31-month old heifer any worse or less tender than the quality of the meat of a 29-month animal?
+Absolutely not but there are other factors that effect the quality of meat.
+He added: "For example - the amount of days the animal is left hanging and mixing inferior quality animals with the better quality ones - again this is widespread practice in Irish meat plants."
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+ICSA
+With regard to the 30-month age limit, the ICSA's general secretary Eddie Punch said it was "forcing" farmers to sell at a particular time and this had become a very limiting procedure for farmers.
+A farmer's freedom to sell cattle is curtailed and it is being used as a device to make farmers weak sellers.
+He continued: "The ICSA has been fighting against this for the last few years because really it is a factory measure; what we really need in relation to this is for some independent research to be carried out so that we can find out from the consumer themselves what exactly it is they want and not what the retailer wants."
+IFRG
+The IFRG said the 30-month age limit for steers/heifers should be raised to 36 months.
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+The ICMSA said the age limits were no longer necessary.
+"The age limits are no longer needed due to the large kills and the backlog of cattle at factories in recent weeks. The ICMSA is aware of cases where farmers with cattle close to the age limits have been unable to get them killed on time.
+Also Read: 'Age limits determined by processors and retailers' - Creed
+"They have therefore missed out on the bonus by a few days. The ICMSA believes this is grossly unfair and that something needs to be done about it," added Morrison.
+Beef Plan Movement
+Co-founder of the Beef Plan Movement Eamon Corley said the age limits were turning a product that is non-perishable into one that is.
+"It works against the unintensive, mainly grass-fed systems which give Ireland a competitive advantage over many other countries," he added.
+The question that needed to be asked, Corley continued, was: "Is the quality of the meat from a 31-month old heifer any worse or less tender than the quality of the meat of a 29-month animal?
+Absolutely not but there are other factors that effect the quality of meat.
+He added: "For example - the amount of days the animal is left hanging and mixing inferior quality animals with the better quality ones - again this is widespread practice in Irish meat plants."
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+ICSA
+With regard to the 30-month age limit, the ICSA's general secretary Eddie Punch said it was "forcing" farmers to sell at a particular time and this had become a very limiting procedure for farmers.
+A farmer's freedom to sell cattle is curtailed and it is being used as a device to make farmers weak sellers.
+He continued: "The ICSA has been fighting against this for the last few years because really it is a factory measure; what we really need in relation to this is for some independent research to be carried out so that we can find out from the consumer themselves what exactly it is they want and not what the retailer wants."
+IFRG
+The IFRG said the 30-month age limit for steers/heifers should be raised to 36 months.
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+"The age limits are no longer needed due to the large kills and the backlog of cattle at factories in recent weeks. The ICMSA is aware of cases where farmers with cattle close to the age limits have been unable to get them killed on time.
+Also Read: 'Age limits determined by processors and retailers' - Creed
+"They have therefore missed out on the bonus by a few days. The ICMSA believes this is grossly unfair and that something needs to be done about it," added Morrison.
+Beef Plan Movement
+Co-founder of the Beef Plan Movement Eamon Corley said the age limits were turning a product that is non-perishable into one that is.
+"It works against the unintensive, mainly grass-fed systems which give Ireland a competitive advantage over many other countries," he added.
+The question that needed to be asked, Corley continued, was: "Is the quality of the meat from a 31-month old heifer any worse or less tender than the quality of the meat of a 29-month animal?
+Absolutely not but there are other factors that effect the quality of meat.
+He added: "For example - the amount of days the animal is left hanging and mixing inferior quality animals with the better quality ones - again this is widespread practice in Irish meat plants."
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+ICSA
+With regard to the 30-month age limit, the ICSA's general secretary Eddie Punch said it was "forcing" farmers to sell at a particular time and this had become a very limiting procedure for farmers.
+A farmer's freedom to sell cattle is curtailed and it is being used as a device to make farmers weak sellers.
+He continued: "The ICSA has been fighting against this for the last few years because really it is a factory measure; what we really need in relation to this is for some independent research to be carried out so that we can find out from the consumer themselves what exactly it is they want and not what the retailer wants."
+IFRG
+The IFRG said the 30-month age limit for steers/heifers should be raised to 36 months.
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+"They have therefore missed out on the bonus by a few days. The ICMSA believes this is grossly unfair and that something needs to be done about it," added Morrison.
+Beef Plan Movement
+Co-founder of the Beef Plan Movement Eamon Corley said the age limits were turning a product that is non-perishable into one that is.
+"It works against the unintensive, mainly grass-fed systems which give Ireland a competitive advantage over many other countries," he added.
+The question that needed to be asked, Corley continued, was: "Is the quality of the meat from a 31-month old heifer any worse or less tender than the quality of the meat of a 29-month animal?
+Absolutely not but there are other factors that effect the quality of meat.
+He added: "For example - the amount of days the animal is left hanging and mixing inferior quality animals with the better quality ones - again this is widespread practice in Irish meat plants."
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+ICSA
+With regard to the 30-month age limit, the ICSA's general secretary Eddie Punch said it was "forcing" farmers to sell at a particular time and this had become a very limiting procedure for farmers.
+A farmer's freedom to sell cattle is curtailed and it is being used as a device to make farmers weak sellers.
+He continued: "The ICSA has been fighting against this for the last few years because really it is a factory measure; what we really need in relation to this is for some independent research to be carried out so that we can find out from the consumer themselves what exactly it is they want and not what the retailer wants."
+IFRG
+The IFRG said the 30-month age limit for steers/heifers should be raised to 36 months.
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+Co-founder of the Beef Plan Movement Eamon Corley said the age limits were turning a product that is non-perishable into one that is.
+"It works against the unintensive, mainly grass-fed systems which give Ireland a competitive advantage over many other countries," he added.
+The question that needed to be asked, Corley continued, was: "Is the quality of the meat from a 31-month old heifer any worse or less tender than the quality of the meat of a 29-month animal?
+Absolutely not but there are other factors that effect the quality of meat.
+He added: "For example - the amount of days the animal is left hanging and mixing inferior quality animals with the better quality ones - again this is widespread practice in Irish meat plants."
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+ICSA
+With regard to the 30-month age limit, the ICSA's general secretary Eddie Punch said it was "forcing" farmers to sell at a particular time and this had become a very limiting procedure for farmers.
+A farmer's freedom to sell cattle is curtailed and it is being used as a device to make farmers weak sellers.
+He continued: "The ICSA has been fighting against this for the last few years because really it is a factory measure; what we really need in relation to this is for some independent research to be carried out so that we can find out from the consumer themselves what exactly it is they want and not what the retailer wants."
+IFRG
+The IFRG said the 30-month age limit for steers/heifers should be raised to 36 months.
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+"It works against the unintensive, mainly grass-fed systems which give Ireland a competitive advantage over many other countries," he added.
+The question that needed to be asked, Corley continued, was: "Is the quality of the meat from a 31-month old heifer any worse or less tender than the quality of the meat of a 29-month animal?
+Absolutely not but there are other factors that effect the quality of meat.
+He added: "For example - the amount of days the animal is left hanging and mixing inferior quality animals with the better quality ones - again this is widespread practice in Irish meat plants."
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+ICSA
+With regard to the 30-month age limit, the ICSA's general secretary Eddie Punch said it was "forcing" farmers to sell at a particular time and this had become a very limiting procedure for farmers.
+A farmer's freedom to sell cattle is curtailed and it is being used as a device to make farmers weak sellers.
+He continued: "The ICSA has been fighting against this for the last few years because really it is a factory measure; what we really need in relation to this is for some independent research to be carried out so that we can find out from the consumer themselves what exactly it is they want and not what the retailer wants."
+IFRG
+The IFRG said the 30-month age limit for steers/heifers should be raised to 36 months.
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+The question that needed to be asked, Corley continued, was: "Is the quality of the meat from a 31-month old heifer any worse or less tender than the quality of the meat of a 29-month animal?
+Absolutely not but there are other factors that effect the quality of meat.
+He added: "For example - the amount of days the animal is left hanging and mixing inferior quality animals with the better quality ones - again this is widespread practice in Irish meat plants."
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+ICSA
+With regard to the 30-month age limit, the ICSA's general secretary Eddie Punch said it was "forcing" farmers to sell at a particular time and this had become a very limiting procedure for farmers.
+A farmer's freedom to sell cattle is curtailed and it is being used as a device to make farmers weak sellers.
+He continued: "The ICSA has been fighting against this for the last few years because really it is a factory measure; what we really need in relation to this is for some independent research to be carried out so that we can find out from the consumer themselves what exactly it is they want and not what the retailer wants."
+IFRG
+The IFRG said the 30-month age limit for steers/heifers should be raised to 36 months.
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+Absolutely not but there are other factors that effect the quality of meat.He added: "For example - the amount of days the animal is left hanging and mixing inferior quality animals with the better quality ones - again this is widespread practice in Irish meat plants."
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+ICSA
+With regard to the 30-month age limit, the ICSA's general secretary Eddie Punch said it was "forcing" farmers to sell at a particular time and this had become a very limiting procedure for farmers.
+A farmer's freedom to sell cattle is curtailed and it is being used as a device to make farmers weak sellers.
+He continued: "The ICSA has been fighting against this for the last few years because really it is a factory measure; what we really need in relation to this is for some independent research to be carried out so that we can find out from the consumer themselves what exactly it is they want and not what the retailer wants."
+IFRG
+The IFRG said the 30-month age limit for steers/heifers should be raised to 36 months.
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+With regard to the 30-month age limit, the ICSA's general secretary Eddie Punch said it was "forcing" farmers to sell at a particular time and this had become a very limiting procedure for farmers.
+A farmer's freedom to sell cattle is curtailed and it is being used as a device to make farmers weak sellers.
+He continued: "The ICSA has been fighting against this for the last few years because really it is a factory measure; what we really need in relation to this is for some independent research to be carried out so that we can find out from the consumer themselves what exactly it is they want and not what the retailer wants."
+IFRG
+The IFRG said the 30-month age limit for steers/heifers should be raised to 36 months.
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+A farmer's freedom to sell cattle is curtailed and it is being used as a device to make farmers weak sellers.He continued: "The ICSA has been fighting against this for the last few years because really it is a factory measure; what we really need in relation to this is for some independent research to be carried out so that we can find out from the consumer themselves what exactly it is they want and not what the retailer wants."
+IFRG
+The IFRG said the 30-month age limit for steers/heifers should be raised to 36 months.
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+The IFRG said the 30-month age limit for steers/heifers should be raised to 36 months.
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+A spokesperson added: "The 16-month age limit for bulls should be evaluated by each individual farmer for whether or not the high costs associated with this method of finishing are feasible. A 24-month age limit may be preferable."
+IFA
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+On the QPS, the IFA said its policy was that farmers must be properly rewarded for quality.
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+In addition it stated that the IFA was also pushing for an additional price premium for quality cattle from the suckler herd.
+The association said the in-spec bonus of 12c/kg was introduced to reward farmers for producing cattle which met the stricter specifications for the higher value UK and continental retail trade.
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+A spokesperson concluded: "According to the factories it was based on UK and some continental retail market requirements. In addition, some countries insist on under 30 months-of-age as part of their veterinary certification requirements."
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+How many suckler cows are in Ireland? 
+
+
+
+EUR75,000EUR1EUR8,100EUR1

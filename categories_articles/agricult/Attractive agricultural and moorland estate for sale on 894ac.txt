@@ -1,0 +1,1675 @@
+Attractive agricultural and moorland estate for sale on 894acAn attractive, agricultural and moorland estate, Emmetts Grange, near the village of Simonsbath in Exmoor, Somerset, is up for sale by Savills.
+This Grade II listed house is circa 894ac at the heart of the ring-fenced property within Exmoor National Park.
+The house is less than a 15-minute drive from the coastal twin villages of Lynton and Lynmouth.
+Other amenities can be found in Minehead, Dunster, Ilfracombe and Barnstaple. Taunton station is approximately a one hour drive away.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Property features
+The estate includes pasture land on 407ac; 11.34ac of woodland; 461.88ac of moorland; and 10.31ac miscellaneous.
+There is an extensive range of general purpose farm buildings and concrete yards suitable for a variety of agricultural enterprises. The farm buildings are included in the Farm Business Tenancy.
+Adjacent to Emmetts Grange is a Grade II listed courtyard with traditional farm buildings of stone construction with brick quoins, under a slate roof. The courtyard provides a unique and charming aspect to the rear of the house.
+Furthermore, these buildings include a tack room (with central heating and hot and cold water), a log store, a garage, a feed store/workshop and a range of stables.
+There is also former livestock accommodation that would be suitable for a variety of different uses, subject to the appropriate planning permissions.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+An array of accommodation
+The elegant Grade II Georgian-style period house enjoys an idyllic, rural and private setting, yet it is within easy reach of amenities and transport links.
+The nine-bedroom dwelling provides wonderful entertaining space with light, south-facing principal rooms and still retains its practicality as a working farmhouse.
+It has an enclosed traditional stone courtyard with stables and barns. The house is built from rendered stone under a slate roof and is set over two floors.
+The house has a large front lawn and a part-walled garden to the west. Amenities include an outdoor swim-spa, an outdoor tennis court and stables within the courtyard.
+On the western side is a studio bungalow which is currently used for holiday lets.
+An attractive pair of traditional, identical, semi-detached rendered cottages are situated off the main drive. They are both let separately under Assured Shorthold Tenancies.
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+This Grade II listed house is circa 894ac at the heart of the ring-fenced property within Exmoor National Park.
+The house is less than a 15-minute drive from the coastal twin villages of Lynton and Lynmouth.
+Other amenities can be found in Minehead, Dunster, Ilfracombe and Barnstaple. Taunton station is approximately a one hour drive away.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Property features
+The estate includes pasture land on 407ac; 11.34ac of woodland; 461.88ac of moorland; and 10.31ac miscellaneous.
+There is an extensive range of general purpose farm buildings and concrete yards suitable for a variety of agricultural enterprises. The farm buildings are included in the Farm Business Tenancy.
+Adjacent to Emmetts Grange is a Grade II listed courtyard with traditional farm buildings of stone construction with brick quoins, under a slate roof. The courtyard provides a unique and charming aspect to the rear of the house.
+Furthermore, these buildings include a tack room (with central heating and hot and cold water), a log store, a garage, a feed store/workshop and a range of stables.
+There is also former livestock accommodation that would be suitable for a variety of different uses, subject to the appropriate planning permissions.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+An array of accommodation
+The elegant Grade II Georgian-style period house enjoys an idyllic, rural and private setting, yet it is within easy reach of amenities and transport links.
+The nine-bedroom dwelling provides wonderful entertaining space with light, south-facing principal rooms and still retains its practicality as a working farmhouse.
+It has an enclosed traditional stone courtyard with stables and barns. The house is built from rendered stone under a slate roof and is set over two floors.
+The house has a large front lawn and a part-walled garden to the west. Amenities include an outdoor swim-spa, an outdoor tennis court and stables within the courtyard.
+On the western side is a studio bungalow which is currently used for holiday lets.
+An attractive pair of traditional, identical, semi-detached rendered cottages are situated off the main drive. They are both let separately under Assured Shorthold Tenancies.
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The house is less than a 15-minute drive from the coastal twin villages of Lynton and Lynmouth.
+Other amenities can be found in Minehead, Dunster, Ilfracombe and Barnstaple. Taunton station is approximately a one hour drive away.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Property features
+The estate includes pasture land on 407ac; 11.34ac of woodland; 461.88ac of moorland; and 10.31ac miscellaneous.
+There is an extensive range of general purpose farm buildings and concrete yards suitable for a variety of agricultural enterprises. The farm buildings are included in the Farm Business Tenancy.
+Adjacent to Emmetts Grange is a Grade II listed courtyard with traditional farm buildings of stone construction with brick quoins, under a slate roof. The courtyard provides a unique and charming aspect to the rear of the house.
+Furthermore, these buildings include a tack room (with central heating and hot and cold water), a log store, a garage, a feed store/workshop and a range of stables.
+There is also former livestock accommodation that would be suitable for a variety of different uses, subject to the appropriate planning permissions.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+An array of accommodation
+The elegant Grade II Georgian-style period house enjoys an idyllic, rural and private setting, yet it is within easy reach of amenities and transport links.
+The nine-bedroom dwelling provides wonderful entertaining space with light, south-facing principal rooms and still retains its practicality as a working farmhouse.
+It has an enclosed traditional stone courtyard with stables and barns. The house is built from rendered stone under a slate roof and is set over two floors.
+The house has a large front lawn and a part-walled garden to the west. Amenities include an outdoor swim-spa, an outdoor tennis court and stables within the courtyard.
+On the western side is a studio bungalow which is currently used for holiday lets.
+An attractive pair of traditional, identical, semi-detached rendered cottages are situated off the main drive. They are both let separately under Assured Shorthold Tenancies.
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Other amenities can be found in Minehead, Dunster, Ilfracombe and Barnstaple. Taunton station is approximately a one hour drive away.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Property features
+The estate includes pasture land on 407ac; 11.34ac of woodland; 461.88ac of moorland; and 10.31ac miscellaneous.
+There is an extensive range of general purpose farm buildings and concrete yards suitable for a variety of agricultural enterprises. The farm buildings are included in the Farm Business Tenancy.
+Adjacent to Emmetts Grange is a Grade II listed courtyard with traditional farm buildings of stone construction with brick quoins, under a slate roof. The courtyard provides a unique and charming aspect to the rear of the house.
+Furthermore, these buildings include a tack room (with central heating and hot and cold water), a log store, a garage, a feed store/workshop and a range of stables.
+There is also former livestock accommodation that would be suitable for a variety of different uses, subject to the appropriate planning permissions.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+An array of accommodation
+The elegant Grade II Georgian-style period house enjoys an idyllic, rural and private setting, yet it is within easy reach of amenities and transport links.
+The nine-bedroom dwelling provides wonderful entertaining space with light, south-facing principal rooms and still retains its practicality as a working farmhouse.
+It has an enclosed traditional stone courtyard with stables and barns. The house is built from rendered stone under a slate roof and is set over two floors.
+The house has a large front lawn and a part-walled garden to the west. Amenities include an outdoor swim-spa, an outdoor tennis court and stables within the courtyard.
+On the western side is a studio bungalow which is currently used for holiday lets.
+An attractive pair of traditional, identical, semi-detached rendered cottages are situated off the main drive. They are both let separately under Assured Shorthold Tenancies.
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The estate includes pasture land on 407ac; 11.34ac of woodland; 461.88ac of moorland; and 10.31ac miscellaneous.
+There is an extensive range of general purpose farm buildings and concrete yards suitable for a variety of agricultural enterprises. The farm buildings are included in the Farm Business Tenancy.
+Adjacent to Emmetts Grange is a Grade II listed courtyard with traditional farm buildings of stone construction with brick quoins, under a slate roof. The courtyard provides a unique and charming aspect to the rear of the house.
+Furthermore, these buildings include a tack room (with central heating and hot and cold water), a log store, a garage, a feed store/workshop and a range of stables.
+There is also former livestock accommodation that would be suitable for a variety of different uses, subject to the appropriate planning permissions.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+An array of accommodation
+The elegant Grade II Georgian-style period house enjoys an idyllic, rural and private setting, yet it is within easy reach of amenities and transport links.
+The nine-bedroom dwelling provides wonderful entertaining space with light, south-facing principal rooms and still retains its practicality as a working farmhouse.
+It has an enclosed traditional stone courtyard with stables and barns. The house is built from rendered stone under a slate roof and is set over two floors.
+The house has a large front lawn and a part-walled garden to the west. Amenities include an outdoor swim-spa, an outdoor tennis court and stables within the courtyard.
+On the western side is a studio bungalow which is currently used for holiday lets.
+An attractive pair of traditional, identical, semi-detached rendered cottages are situated off the main drive. They are both let separately under Assured Shorthold Tenancies.
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+There is an extensive range of general purpose farm buildings and concrete yards suitable for a variety of agricultural enterprises. The farm buildings are included in the Farm Business Tenancy.
+Adjacent to Emmetts Grange is a Grade II listed courtyard with traditional farm buildings of stone construction with brick quoins, under a slate roof. The courtyard provides a unique and charming aspect to the rear of the house.
+Furthermore, these buildings include a tack room (with central heating and hot and cold water), a log store, a garage, a feed store/workshop and a range of stables.
+There is also former livestock accommodation that would be suitable for a variety of different uses, subject to the appropriate planning permissions.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+An array of accommodation
+The elegant Grade II Georgian-style period house enjoys an idyllic, rural and private setting, yet it is within easy reach of amenities and transport links.
+The nine-bedroom dwelling provides wonderful entertaining space with light, south-facing principal rooms and still retains its practicality as a working farmhouse.
+It has an enclosed traditional stone courtyard with stables and barns. The house is built from rendered stone under a slate roof and is set over two floors.
+The house has a large front lawn and a part-walled garden to the west. Amenities include an outdoor swim-spa, an outdoor tennis court and stables within the courtyard.
+On the western side is a studio bungalow which is currently used for holiday lets.
+An attractive pair of traditional, identical, semi-detached rendered cottages are situated off the main drive. They are both let separately under Assured Shorthold Tenancies.
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Adjacent to Emmetts Grange is a Grade II listed courtyard with traditional farm buildings of stone construction with brick quoins, under a slate roof. The courtyard provides a unique and charming aspect to the rear of the house.
+Furthermore, these buildings include a tack room (with central heating and hot and cold water), a log store, a garage, a feed store/workshop and a range of stables.
+There is also former livestock accommodation that would be suitable for a variety of different uses, subject to the appropriate planning permissions.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+An array of accommodation
+The elegant Grade II Georgian-style period house enjoys an idyllic, rural and private setting, yet it is within easy reach of amenities and transport links.
+The nine-bedroom dwelling provides wonderful entertaining space with light, south-facing principal rooms and still retains its practicality as a working farmhouse.
+It has an enclosed traditional stone courtyard with stables and barns. The house is built from rendered stone under a slate roof and is set over two floors.
+The house has a large front lawn and a part-walled garden to the west. Amenities include an outdoor swim-spa, an outdoor tennis court and stables within the courtyard.
+On the western side is a studio bungalow which is currently used for holiday lets.
+An attractive pair of traditional, identical, semi-detached rendered cottages are situated off the main drive. They are both let separately under Assured Shorthold Tenancies.
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Furthermore, these buildings include a tack room (with central heating and hot and cold water), a log store, a garage, a feed store/workshop and a range of stables.
+There is also former livestock accommodation that would be suitable for a variety of different uses, subject to the appropriate planning permissions.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+An array of accommodation
+The elegant Grade II Georgian-style period house enjoys an idyllic, rural and private setting, yet it is within easy reach of amenities and transport links.
+The nine-bedroom dwelling provides wonderful entertaining space with light, south-facing principal rooms and still retains its practicality as a working farmhouse.
+It has an enclosed traditional stone courtyard with stables and barns. The house is built from rendered stone under a slate roof and is set over two floors.
+The house has a large front lawn and a part-walled garden to the west. Amenities include an outdoor swim-spa, an outdoor tennis court and stables within the courtyard.
+On the western side is a studio bungalow which is currently used for holiday lets.
+An attractive pair of traditional, identical, semi-detached rendered cottages are situated off the main drive. They are both let separately under Assured Shorthold Tenancies.
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+There is also former livestock accommodation that would be suitable for a variety of different uses, subject to the appropriate planning permissions.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+An array of accommodation
+The elegant Grade II Georgian-style period house enjoys an idyllic, rural and private setting, yet it is within easy reach of amenities and transport links.
+The nine-bedroom dwelling provides wonderful entertaining space with light, south-facing principal rooms and still retains its practicality as a working farmhouse.
+It has an enclosed traditional stone courtyard with stables and barns. The house is built from rendered stone under a slate roof and is set over two floors.
+The house has a large front lawn and a part-walled garden to the west. Amenities include an outdoor swim-spa, an outdoor tennis court and stables within the courtyard.
+On the western side is a studio bungalow which is currently used for holiday lets.
+An attractive pair of traditional, identical, semi-detached rendered cottages are situated off the main drive. They are both let separately under Assured Shorthold Tenancies.
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The elegant Grade II Georgian-style period house enjoys an idyllic, rural and private setting, yet it is within easy reach of amenities and transport links.
+The nine-bedroom dwelling provides wonderful entertaining space with light, south-facing principal rooms and still retains its practicality as a working farmhouse.
+It has an enclosed traditional stone courtyard with stables and barns. The house is built from rendered stone under a slate roof and is set over two floors.
+The house has a large front lawn and a part-walled garden to the west. Amenities include an outdoor swim-spa, an outdoor tennis court and stables within the courtyard.
+On the western side is a studio bungalow which is currently used for holiday lets.
+An attractive pair of traditional, identical, semi-detached rendered cottages are situated off the main drive. They are both let separately under Assured Shorthold Tenancies.
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The nine-bedroom dwelling provides wonderful entertaining space with light, south-facing principal rooms and still retains its practicality as a working farmhouse.
+It has an enclosed traditional stone courtyard with stables and barns. The house is built from rendered stone under a slate roof and is set over two floors.
+The house has a large front lawn and a part-walled garden to the west. Amenities include an outdoor swim-spa, an outdoor tennis court and stables within the courtyard.
+On the western side is a studio bungalow which is currently used for holiday lets.
+An attractive pair of traditional, identical, semi-detached rendered cottages are situated off the main drive. They are both let separately under Assured Shorthold Tenancies.
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+It has an enclosed traditional stone courtyard with stables and barns. The house is built from rendered stone under a slate roof and is set over two floors.
+The house has a large front lawn and a part-walled garden to the west. Amenities include an outdoor swim-spa, an outdoor tennis court and stables within the courtyard.
+On the western side is a studio bungalow which is currently used for holiday lets.
+An attractive pair of traditional, identical, semi-detached rendered cottages are situated off the main drive. They are both let separately under Assured Shorthold Tenancies.
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The house has a large front lawn and a part-walled garden to the west. Amenities include an outdoor swim-spa, an outdoor tennis court and stables within the courtyard.
+On the western side is a studio bungalow which is currently used for holiday lets.
+An attractive pair of traditional, identical, semi-detached rendered cottages are situated off the main drive. They are both let separately under Assured Shorthold Tenancies.
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+On the western side is a studio bungalow which is currently used for holiday lets.
+An attractive pair of traditional, identical, semi-detached rendered cottages are situated off the main drive. They are both let separately under Assured Shorthold Tenancies.
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+An attractive pair of traditional, identical, semi-detached rendered cottages are situated off the main drive. They are both let separately under Assured Shorthold Tenancies.
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Emmetts Grange estate is for sale for offers over PS6 million.
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+More information, including the contact details of the selling agents, can be found online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.co.uk/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});

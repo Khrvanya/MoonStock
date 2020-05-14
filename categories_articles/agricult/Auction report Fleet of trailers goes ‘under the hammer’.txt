@@ -1,0 +1,792 @@
+Auction report Fleet of trailers goes ‘under the hammer’Cheffins held an 'on-site' farm machinery auction in Cambridgeshire (England) earlier this month - on February 5.
+It was run on behalf of BC & DM of Risely (Manea).
+Tim Scrivener was at the sale for AgriLand; he took these photographs and noted the hammer/sale prices. All of these pictures were snapped on-site - at the auction.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1995 Gull Rootmaster (10t; roll-over sheet; eight-stud 340/65 R18 wheels/tyres) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet; eight-stud 13.0/65-18 wheels/tyres) sold for PS3,600
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet) sold for PS4,400
+
+
+
+
+
+
+
+
+This 2001 AS Marston ACE 14 (14t; sprung drawbar; 10-stud 385/65 R22.5 wheels/tyres) sold for PS6,000
+
+
+
+
+
+
+
+
+This 1999 AS Marston Root 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS3,900
+
+
+
+
+
+
+
+
+This 1997 AS Marston FEN 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS4,000
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Tidy' tillage gear changes hands, but for how much? 
+
+
+
+It was run on behalf of BC & DM of Risely (Manea).
+Tim Scrivener was at the sale for AgriLand; he took these photographs and noted the hammer/sale prices. All of these pictures were snapped on-site - at the auction.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1995 Gull Rootmaster (10t; roll-over sheet; eight-stud 340/65 R18 wheels/tyres) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet; eight-stud 13.0/65-18 wheels/tyres) sold for PS3,600
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet) sold for PS4,400
+
+
+
+
+
+
+
+
+This 2001 AS Marston ACE 14 (14t; sprung drawbar; 10-stud 385/65 R22.5 wheels/tyres) sold for PS6,000
+
+
+
+
+
+
+
+
+This 1999 AS Marston Root 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS3,900
+
+
+
+
+
+
+
+
+This 1997 AS Marston FEN 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS4,000
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Tidy' tillage gear changes hands, but for how much? 
+
+
+
+Tim Scrivener was at the sale for AgriLand; he took these photographs and noted the hammer/sale prices. All of these pictures were snapped on-site - at the auction.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1995 Gull Rootmaster (10t; roll-over sheet; eight-stud 340/65 R18 wheels/tyres) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet; eight-stud 13.0/65-18 wheels/tyres) sold for PS3,600
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet) sold for PS4,400
+
+
+
+
+
+
+
+
+This 2001 AS Marston ACE 14 (14t; sprung drawbar; 10-stud 385/65 R22.5 wheels/tyres) sold for PS6,000
+
+
+
+
+
+
+
+
+This 1999 AS Marston Root 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS3,900
+
+
+
+
+
+
+
+
+This 1997 AS Marston FEN 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS4,000
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Tidy' tillage gear changes hands, but for how much? 
+
+
+
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1995 Gull Rootmaster (10t; roll-over sheet; eight-stud 340/65 R18 wheels/tyres) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet; eight-stud 13.0/65-18 wheels/tyres) sold for PS3,600
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet) sold for PS4,400
+
+
+
+
+
+
+
+
+This 2001 AS Marston ACE 14 (14t; sprung drawbar; 10-stud 385/65 R22.5 wheels/tyres) sold for PS6,000
+
+
+
+
+
+
+
+
+This 1999 AS Marston Root 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS3,900
+
+
+
+
+
+
+
+
+This 1997 AS Marston FEN 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS4,000
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Tidy' tillage gear changes hands, but for how much? 
+
+
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1995 Gull Rootmaster (10t; roll-over sheet; eight-stud 340/65 R18 wheels/tyres) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet; eight-stud 13.0/65-18 wheels/tyres) sold for PS3,600
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet) sold for PS4,400
+
+
+
+
+
+
+
+
+This 2001 AS Marston ACE 14 (14t; sprung drawbar; 10-stud 385/65 R22.5 wheels/tyres) sold for PS6,000
+
+
+
+
+
+
+
+
+This 1999 AS Marston Root 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS3,900
+
+
+
+
+
+
+
+
+This 1997 AS Marston FEN 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS4,000
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Tidy' tillage gear changes hands, but for how much? 
+
+
+
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1995 Gull Rootmaster (10t; roll-over sheet; eight-stud 340/65 R18 wheels/tyres) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet; eight-stud 13.0/65-18 wheels/tyres) sold for PS3,600
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet) sold for PS4,400
+
+
+
+
+
+
+
+
+This 2001 AS Marston ACE 14 (14t; sprung drawbar; 10-stud 385/65 R22.5 wheels/tyres) sold for PS6,000
+
+
+
+
+
+
+
+
+This 1999 AS Marston Root 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS3,900
+
+
+
+
+
+
+
+
+This 1997 AS Marston FEN 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS4,000
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Tidy' tillage gear changes hands, but for how much? 
+
+
+
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1995 Gull Rootmaster (10t; roll-over sheet; eight-stud 340/65 R18 wheels/tyres) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet; eight-stud 13.0/65-18 wheels/tyres) sold for PS3,600
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet) sold for PS4,400
+
+
+
+
+
+
+
+
+This 2001 AS Marston ACE 14 (14t; sprung drawbar; 10-stud 385/65 R22.5 wheels/tyres) sold for PS6,000
+
+
+
+
+
+
+
+
+This 1999 AS Marston Root 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS3,900
+
+
+
+
+
+
+
+
+This 1997 AS Marston FEN 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS4,000
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Tidy' tillage gear changes hands, but for how much? 
+
+
+
+
+
+
+
+
+
+
+
+
+This 1995 Gull Rootmaster (10t; roll-over sheet; eight-stud 340/65 R18 wheels/tyres) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet; eight-stud 13.0/65-18 wheels/tyres) sold for PS3,600
+
+
+
+
+
+
+
+
+This 1994 Gull Rootmaster (10t; detachable sides; roll-over sheet) sold for PS4,400
+
+
+
+
+
+
+
+
+This 2001 AS Marston ACE 14 (14t; sprung drawbar; 10-stud 385/65 R22.5 wheels/tyres) sold for PS6,000
+
+
+
+
+
+
+
+
+This 1999 AS Marston Root 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS3,900
+
+
+
+
+
+
+
+
+This 1997 AS Marston FEN 12 (12t; eight-stud 385/65 R22.5 wheels/tyres) sold for PS4,000
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Tidy' tillage gear changes hands, but for how much? 
+
+
+

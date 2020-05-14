@@ -1,0 +1,1008 @@
+Auction report ‘Tidy’ tillage gear changes hands, but for how muchCheffins held an 'on-site' farm machinery auction in Cambridgeshire (England) earlier this month - on February 5.
+It was run on behalf of BC & DM of Risely (Manea).
+Tim Scrivener was at the sale for AgriLand; he took these photographs and noted the hammer/sale prices. All of these pictures were snapped on-site - at the auction.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1996 New Holland TX66 (20ft-wide cut; self-levelling header; fixed sieves; 800/65 R32 front wheels/tyres; 3,500 engine hours; 2,925 drum hours) sold for PS20,500
+
+
+
+
+
+
+
+
+This 2003 JCB 526 S Farm Special (pick-up hitch; air-conditioning; pallet forks/tines; 460/70 R24 wheels/tyres; 8,020 hours) sold for PS16,400
+
+
+
+
+
+
+
+
+This 1999 SAM 2500 Lowline (24m-wide booms; triple nozzles; 2,500L tank; 12.4 R32 wheels/tyres; 6,888 hours) sold for PS10,500
+
+
+
+
+
+
+
+
+This 1997 GEM Self-Trak (230/95 R44 wheels/tyres; 20m-wide booms) sold for PS900
+
+
+
+
+
+
+
+
+This 2013 Dal-Bo SuperMax 300 (3m) sold for PS9,000
+
+
+
+
+
+
+
+
+This 2015 Dowdeswell 105 MA (five-furrow; 4+1; hydraulic vari-width; 'only 200ac covered') sold for PS7,000
+
+
+
+
+
+
+
+
+This 1999 Cousins K100XN (4m) sold for PS2,850
+
+
+
+
+
+
+
+
+This Maschio DM 4000 (4m) sold for PS1,600
+
+
+
+
+
+
+
+
+Tractors also went under the hammer at this auction. Check out our accompanying report
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'If she's not blue, she just won't do!' 
+
+
+
+It was run on behalf of BC & DM of Risely (Manea).
+Tim Scrivener was at the sale for AgriLand; he took these photographs and noted the hammer/sale prices. All of these pictures were snapped on-site - at the auction.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1996 New Holland TX66 (20ft-wide cut; self-levelling header; fixed sieves; 800/65 R32 front wheels/tyres; 3,500 engine hours; 2,925 drum hours) sold for PS20,500
+
+
+
+
+
+
+
+
+This 2003 JCB 526 S Farm Special (pick-up hitch; air-conditioning; pallet forks/tines; 460/70 R24 wheels/tyres; 8,020 hours) sold for PS16,400
+
+
+
+
+
+
+
+
+This 1999 SAM 2500 Lowline (24m-wide booms; triple nozzles; 2,500L tank; 12.4 R32 wheels/tyres; 6,888 hours) sold for PS10,500
+
+
+
+
+
+
+
+
+This 1997 GEM Self-Trak (230/95 R44 wheels/tyres; 20m-wide booms) sold for PS900
+
+
+
+
+
+
+
+
+This 2013 Dal-Bo SuperMax 300 (3m) sold for PS9,000
+
+
+
+
+
+
+
+
+This 2015 Dowdeswell 105 MA (five-furrow; 4+1; hydraulic vari-width; 'only 200ac covered') sold for PS7,000
+
+
+
+
+
+
+
+
+This 1999 Cousins K100XN (4m) sold for PS2,850
+
+
+
+
+
+
+
+
+This Maschio DM 4000 (4m) sold for PS1,600
+
+
+
+
+
+
+
+
+Tractors also went under the hammer at this auction. Check out our accompanying report
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'If she's not blue, she just won't do!' 
+
+
+
+Tim Scrivener was at the sale for AgriLand; he took these photographs and noted the hammer/sale prices. All of these pictures were snapped on-site - at the auction.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1996 New Holland TX66 (20ft-wide cut; self-levelling header; fixed sieves; 800/65 R32 front wheels/tyres; 3,500 engine hours; 2,925 drum hours) sold for PS20,500
+
+
+
+
+
+
+
+
+This 2003 JCB 526 S Farm Special (pick-up hitch; air-conditioning; pallet forks/tines; 460/70 R24 wheels/tyres; 8,020 hours) sold for PS16,400
+
+
+
+
+
+
+
+
+This 1999 SAM 2500 Lowline (24m-wide booms; triple nozzles; 2,500L tank; 12.4 R32 wheels/tyres; 6,888 hours) sold for PS10,500
+
+
+
+
+
+
+
+
+This 1997 GEM Self-Trak (230/95 R44 wheels/tyres; 20m-wide booms) sold for PS900
+
+
+
+
+
+
+
+
+This 2013 Dal-Bo SuperMax 300 (3m) sold for PS9,000
+
+
+
+
+
+
+
+
+This 2015 Dowdeswell 105 MA (five-furrow; 4+1; hydraulic vari-width; 'only 200ac covered') sold for PS7,000
+
+
+
+
+
+
+
+
+This 1999 Cousins K100XN (4m) sold for PS2,850
+
+
+
+
+
+
+
+
+This Maschio DM 4000 (4m) sold for PS1,600
+
+
+
+
+
+
+
+
+Tractors also went under the hammer at this auction. Check out our accompanying report
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'If she's not blue, she just won't do!' 
+
+
+
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1996 New Holland TX66 (20ft-wide cut; self-levelling header; fixed sieves; 800/65 R32 front wheels/tyres; 3,500 engine hours; 2,925 drum hours) sold for PS20,500
+
+
+
+
+
+
+
+
+This 2003 JCB 526 S Farm Special (pick-up hitch; air-conditioning; pallet forks/tines; 460/70 R24 wheels/tyres; 8,020 hours) sold for PS16,400
+
+
+
+
+
+
+
+
+This 1999 SAM 2500 Lowline (24m-wide booms; triple nozzles; 2,500L tank; 12.4 R32 wheels/tyres; 6,888 hours) sold for PS10,500
+
+
+
+
+
+
+
+
+This 1997 GEM Self-Trak (230/95 R44 wheels/tyres; 20m-wide booms) sold for PS900
+
+
+
+
+
+
+
+
+This 2013 Dal-Bo SuperMax 300 (3m) sold for PS9,000
+
+
+
+
+
+
+
+
+This 2015 Dowdeswell 105 MA (five-furrow; 4+1; hydraulic vari-width; 'only 200ac covered') sold for PS7,000
+
+
+
+
+
+
+
+
+This 1999 Cousins K100XN (4m) sold for PS2,850
+
+
+
+
+
+
+
+
+This Maschio DM 4000 (4m) sold for PS1,600
+
+
+
+
+
+
+
+
+Tractors also went under the hammer at this auction. Check out our accompanying report
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'If she's not blue, she just won't do!' 
+
+
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1996 New Holland TX66 (20ft-wide cut; self-levelling header; fixed sieves; 800/65 R32 front wheels/tyres; 3,500 engine hours; 2,925 drum hours) sold for PS20,500
+
+
+
+
+
+
+
+
+This 2003 JCB 526 S Farm Special (pick-up hitch; air-conditioning; pallet forks/tines; 460/70 R24 wheels/tyres; 8,020 hours) sold for PS16,400
+
+
+
+
+
+
+
+
+This 1999 SAM 2500 Lowline (24m-wide booms; triple nozzles; 2,500L tank; 12.4 R32 wheels/tyres; 6,888 hours) sold for PS10,500
+
+
+
+
+
+
+
+
+This 1997 GEM Self-Trak (230/95 R44 wheels/tyres; 20m-wide booms) sold for PS900
+
+
+
+
+
+
+
+
+This 2013 Dal-Bo SuperMax 300 (3m) sold for PS9,000
+
+
+
+
+
+
+
+
+This 2015 Dowdeswell 105 MA (five-furrow; 4+1; hydraulic vari-width; 'only 200ac covered') sold for PS7,000
+
+
+
+
+
+
+
+
+This 1999 Cousins K100XN (4m) sold for PS2,850
+
+
+
+
+
+
+
+
+This Maschio DM 4000 (4m) sold for PS1,600
+
+
+
+
+
+
+
+
+Tractors also went under the hammer at this auction. Check out our accompanying report
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'If she's not blue, she just won't do!' 
+
+
+
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1996 New Holland TX66 (20ft-wide cut; self-levelling header; fixed sieves; 800/65 R32 front wheels/tyres; 3,500 engine hours; 2,925 drum hours) sold for PS20,500
+
+
+
+
+
+
+
+
+This 2003 JCB 526 S Farm Special (pick-up hitch; air-conditioning; pallet forks/tines; 460/70 R24 wheels/tyres; 8,020 hours) sold for PS16,400
+
+
+
+
+
+
+
+
+This 1999 SAM 2500 Lowline (24m-wide booms; triple nozzles; 2,500L tank; 12.4 R32 wheels/tyres; 6,888 hours) sold for PS10,500
+
+
+
+
+
+
+
+
+This 1997 GEM Self-Trak (230/95 R44 wheels/tyres; 20m-wide booms) sold for PS900
+
+
+
+
+
+
+
+
+This 2013 Dal-Bo SuperMax 300 (3m) sold for PS9,000
+
+
+
+
+
+
+
+
+This 2015 Dowdeswell 105 MA (five-furrow; 4+1; hydraulic vari-width; 'only 200ac covered') sold for PS7,000
+
+
+
+
+
+
+
+
+This 1999 Cousins K100XN (4m) sold for PS2,850
+
+
+
+
+
+
+
+
+This Maschio DM 4000 (4m) sold for PS1,600
+
+
+
+
+
+
+
+
+Tractors also went under the hammer at this auction. Check out our accompanying report
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'If she's not blue, she just won't do!' 
+
+
+
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1996 New Holland TX66 (20ft-wide cut; self-levelling header; fixed sieves; 800/65 R32 front wheels/tyres; 3,500 engine hours; 2,925 drum hours) sold for PS20,500
+
+
+
+
+
+
+
+
+This 2003 JCB 526 S Farm Special (pick-up hitch; air-conditioning; pallet forks/tines; 460/70 R24 wheels/tyres; 8,020 hours) sold for PS16,400
+
+
+
+
+
+
+
+
+This 1999 SAM 2500 Lowline (24m-wide booms; triple nozzles; 2,500L tank; 12.4 R32 wheels/tyres; 6,888 hours) sold for PS10,500
+
+
+
+
+
+
+
+
+This 1997 GEM Self-Trak (230/95 R44 wheels/tyres; 20m-wide booms) sold for PS900
+
+
+
+
+
+
+
+
+This 2013 Dal-Bo SuperMax 300 (3m) sold for PS9,000
+
+
+
+
+
+
+
+
+This 2015 Dowdeswell 105 MA (five-furrow; 4+1; hydraulic vari-width; 'only 200ac covered') sold for PS7,000
+
+
+
+
+
+
+
+
+This 1999 Cousins K100XN (4m) sold for PS2,850
+
+
+
+
+
+
+
+
+This Maschio DM 4000 (4m) sold for PS1,600
+
+
+
+
+
+
+
+
+Tractors also went under the hammer at this auction. Check out our accompanying report
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'If she's not blue, she just won't do!' 
+
+
+
+
+
+
+
+
+
+
+
+
+This 1996 New Holland TX66 (20ft-wide cut; self-levelling header; fixed sieves; 800/65 R32 front wheels/tyres; 3,500 engine hours; 2,925 drum hours) sold for PS20,500
+
+
+
+
+
+
+
+
+This 2003 JCB 526 S Farm Special (pick-up hitch; air-conditioning; pallet forks/tines; 460/70 R24 wheels/tyres; 8,020 hours) sold for PS16,400
+
+
+
+
+
+
+
+
+This 1999 SAM 2500 Lowline (24m-wide booms; triple nozzles; 2,500L tank; 12.4 R32 wheels/tyres; 6,888 hours) sold for PS10,500
+
+
+
+
+
+
+
+
+This 1997 GEM Self-Trak (230/95 R44 wheels/tyres; 20m-wide booms) sold for PS900
+
+
+
+
+
+
+
+
+This 2013 Dal-Bo SuperMax 300 (3m) sold for PS9,000
+
+
+
+
+
+
+
+
+This 2015 Dowdeswell 105 MA (five-furrow; 4+1; hydraulic vari-width; 'only 200ac covered') sold for PS7,000
+
+
+
+
+
+
+
+
+This 1999 Cousins K100XN (4m) sold for PS2,850
+
+
+
+
+
+
+
+
+This Maschio DM 4000 (4m) sold for PS1,600
+
+
+
+
+
+
+
+
+Tractors also went under the hammer at this auction. Check out our accompanying report
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'If she's not blue, she just won't do!' 
+
+
+

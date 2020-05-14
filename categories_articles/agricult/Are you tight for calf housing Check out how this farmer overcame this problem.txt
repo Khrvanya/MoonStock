@@ -1,0 +1,5328 @@
+Are you tight for calf housing Check out how this farmer overcame this problemThe expansion of dairy herds in Ireland since the abolishment of milk quotas in 2015 has seen facilities come under increased pressure on many farms.
+Many farmers are availing of the Targeted Agricultural Modernisation Scheme (TAMS) to build new milking parlours, calf sheds and cubicle houses across the country.
+In Co. Wicklow, Paddy Condren was faced with the task of finding a way to house his extra calves, having increased cow numbers from 120 up to 150.
+He made the decision to move away from supplying milk all-year-round (liquid milk) to operating a spring-calving system.
+Previously, due to operating both a spring and autumn-calving system, his calf housing facilities were never under pressure.
+However, after changing systems, Paddy knew he had to do something to deal with the extra calves that were due to arrive in spring.
+The fact he built a new cubicle shed - for the extra cows he is milking - the option of building a new calf house was not a viable option.
+So, with the help of his wife Mary and their children Kieran and Mary Kate, they came up with the idea of renovating their old cubicle house - which was used to house their dry cows - and turn it into a new calf housing facility.
+The Condrens - having invested heavily in other areas of the farm - kept the cost of the renovation job to a minimum by carrying out all the work themselves.
+Inside the unit
+Paddy and his family sourced all the materials they needed from: Steel and Spares in Hacketsown, Co. Carlow; Farm Relief Service (FRS) in Tinahely, Co. Wicklow; Marcus P Graham Ironworks in Arklow, Co. Wicklow; and from their local Glanbia co-op in Inch, Co. Wexford.
+
+The list of materials they required are listed (below):
+
+Metal for the feed barriers;
+Boardings for between the cubicles;
+Galvanised sheeting for the top of the hutches;
+Calf feeders;
+Feeding troughs.
+
+
+There are 22 cubicles in the shed, with a capacity to hold 44 calves, with each cubicle fit to hold two calves.
+Each feeding barrier gives access to two cubicles. Attached to the cubicles are boardings, which keeps the individual hutches separate, while also keeping out any draughts.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+There is galvanised sheeting laid on top of the hutches, which also help to prevent any draughts and ensures that the calves are kept warm.
+There is also Yorkshire boarding separating the new calf house and the slatted shed where the replacement heifers are housed. This also helps to keep the shed well-ventilated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The shed is going at a slope, which allows the run-off from inside the hutches to seep into the slatted tank located at the front of the shed.
+The door leading into the shed is the main source for clean air to come through the shed and prevent it from becoming too stuffy and warm.
+After each batch of calves are removed from the shed, it takes Paddy less than an hour to come in and fork out the straw from the stalls and take it out from the shed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Cost
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+Many farmers are availing of the Targeted Agricultural Modernisation Scheme (TAMS) to build new milking parlours, calf sheds and cubicle houses across the country.
+In Co. Wicklow, Paddy Condren was faced with the task of finding a way to house his extra calves, having increased cow numbers from 120 up to 150.
+He made the decision to move away from supplying milk all-year-round (liquid milk) to operating a spring-calving system.
+Previously, due to operating both a spring and autumn-calving system, his calf housing facilities were never under pressure.
+However, after changing systems, Paddy knew he had to do something to deal with the extra calves that were due to arrive in spring.
+The fact he built a new cubicle shed - for the extra cows he is milking - the option of building a new calf house was not a viable option.
+So, with the help of his wife Mary and their children Kieran and Mary Kate, they came up with the idea of renovating their old cubicle house - which was used to house their dry cows - and turn it into a new calf housing facility.
+The Condrens - having invested heavily in other areas of the farm - kept the cost of the renovation job to a minimum by carrying out all the work themselves.
+Inside the unit
+Paddy and his family sourced all the materials they needed from: Steel and Spares in Hacketsown, Co. Carlow; Farm Relief Service (FRS) in Tinahely, Co. Wicklow; Marcus P Graham Ironworks in Arklow, Co. Wicklow; and from their local Glanbia co-op in Inch, Co. Wexford.
+
+The list of materials they required are listed (below):
+
+Metal for the feed barriers;
+Boardings for between the cubicles;
+Galvanised sheeting for the top of the hutches;
+Calf feeders;
+Feeding troughs.
+
+
+There are 22 cubicles in the shed, with a capacity to hold 44 calves, with each cubicle fit to hold two calves.
+Each feeding barrier gives access to two cubicles. Attached to the cubicles are boardings, which keeps the individual hutches separate, while also keeping out any draughts.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+There is galvanised sheeting laid on top of the hutches, which also help to prevent any draughts and ensures that the calves are kept warm.
+There is also Yorkshire boarding separating the new calf house and the slatted shed where the replacement heifers are housed. This also helps to keep the shed well-ventilated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The shed is going at a slope, which allows the run-off from inside the hutches to seep into the slatted tank located at the front of the shed.
+The door leading into the shed is the main source for clean air to come through the shed and prevent it from becoming too stuffy and warm.
+After each batch of calves are removed from the shed, it takes Paddy less than an hour to come in and fork out the straw from the stalls and take it out from the shed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Cost
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+In Co. Wicklow, Paddy Condren was faced with the task of finding a way to house his extra calves, having increased cow numbers from 120 up to 150.
+He made the decision to move away from supplying milk all-year-round (liquid milk) to operating a spring-calving system.
+Previously, due to operating both a spring and autumn-calving system, his calf housing facilities were never under pressure.
+However, after changing systems, Paddy knew he had to do something to deal with the extra calves that were due to arrive in spring.
+The fact he built a new cubicle shed - for the extra cows he is milking - the option of building a new calf house was not a viable option.
+So, with the help of his wife Mary and their children Kieran and Mary Kate, they came up with the idea of renovating their old cubicle house - which was used to house their dry cows - and turn it into a new calf housing facility.
+The Condrens - having invested heavily in other areas of the farm - kept the cost of the renovation job to a minimum by carrying out all the work themselves.
+Inside the unit
+Paddy and his family sourced all the materials they needed from: Steel and Spares in Hacketsown, Co. Carlow; Farm Relief Service (FRS) in Tinahely, Co. Wicklow; Marcus P Graham Ironworks in Arklow, Co. Wicklow; and from their local Glanbia co-op in Inch, Co. Wexford.
+
+The list of materials they required are listed (below):
+
+Metal for the feed barriers;
+Boardings for between the cubicles;
+Galvanised sheeting for the top of the hutches;
+Calf feeders;
+Feeding troughs.
+
+
+There are 22 cubicles in the shed, with a capacity to hold 44 calves, with each cubicle fit to hold two calves.
+Each feeding barrier gives access to two cubicles. Attached to the cubicles are boardings, which keeps the individual hutches separate, while also keeping out any draughts.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+There is galvanised sheeting laid on top of the hutches, which also help to prevent any draughts and ensures that the calves are kept warm.
+There is also Yorkshire boarding separating the new calf house and the slatted shed where the replacement heifers are housed. This also helps to keep the shed well-ventilated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The shed is going at a slope, which allows the run-off from inside the hutches to seep into the slatted tank located at the front of the shed.
+The door leading into the shed is the main source for clean air to come through the shed and prevent it from becoming too stuffy and warm.
+After each batch of calves are removed from the shed, it takes Paddy less than an hour to come in and fork out the straw from the stalls and take it out from the shed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Cost
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+Previously, due to operating both a spring and autumn-calving system, his calf housing facilities were never under pressure.
+However, after changing systems, Paddy knew he had to do something to deal with the extra calves that were due to arrive in spring.
+The fact he built a new cubicle shed - for the extra cows he is milking - the option of building a new calf house was not a viable option.
+So, with the help of his wife Mary and their children Kieran and Mary Kate, they came up with the idea of renovating their old cubicle house - which was used to house their dry cows - and turn it into a new calf housing facility.
+The Condrens - having invested heavily in other areas of the farm - kept the cost of the renovation job to a minimum by carrying out all the work themselves.
+Inside the unit
+Paddy and his family sourced all the materials they needed from: Steel and Spares in Hacketsown, Co. Carlow; Farm Relief Service (FRS) in Tinahely, Co. Wicklow; Marcus P Graham Ironworks in Arklow, Co. Wicklow; and from their local Glanbia co-op in Inch, Co. Wexford.
+
+The list of materials they required are listed (below):
+
+Metal for the feed barriers;
+Boardings for between the cubicles;
+Galvanised sheeting for the top of the hutches;
+Calf feeders;
+Feeding troughs.
+
+
+There are 22 cubicles in the shed, with a capacity to hold 44 calves, with each cubicle fit to hold two calves.
+Each feeding barrier gives access to two cubicles. Attached to the cubicles are boardings, which keeps the individual hutches separate, while also keeping out any draughts.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+There is galvanised sheeting laid on top of the hutches, which also help to prevent any draughts and ensures that the calves are kept warm.
+There is also Yorkshire boarding separating the new calf house and the slatted shed where the replacement heifers are housed. This also helps to keep the shed well-ventilated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The shed is going at a slope, which allows the run-off from inside the hutches to seep into the slatted tank located at the front of the shed.
+The door leading into the shed is the main source for clean air to come through the shed and prevent it from becoming too stuffy and warm.
+After each batch of calves are removed from the shed, it takes Paddy less than an hour to come in and fork out the straw from the stalls and take it out from the shed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Cost
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+However, after changing systems, Paddy knew he had to do something to deal with the extra calves that were due to arrive in spring.
+The fact he built a new cubicle shed - for the extra cows he is milking - the option of building a new calf house was not a viable option.
+So, with the help of his wife Mary and their children Kieran and Mary Kate, they came up with the idea of renovating their old cubicle house - which was used to house their dry cows - and turn it into a new calf housing facility.
+The Condrens - having invested heavily in other areas of the farm - kept the cost of the renovation job to a minimum by carrying out all the work themselves.
+Inside the unit
+Paddy and his family sourced all the materials they needed from: Steel and Spares in Hacketsown, Co. Carlow; Farm Relief Service (FRS) in Tinahely, Co. Wicklow; Marcus P Graham Ironworks in Arklow, Co. Wicklow; and from their local Glanbia co-op in Inch, Co. Wexford.
+
+The list of materials they required are listed (below):
+
+Metal for the feed barriers;
+Boardings for between the cubicles;
+Galvanised sheeting for the top of the hutches;
+Calf feeders;
+Feeding troughs.
+
+
+There are 22 cubicles in the shed, with a capacity to hold 44 calves, with each cubicle fit to hold two calves.
+Each feeding barrier gives access to two cubicles. Attached to the cubicles are boardings, which keeps the individual hutches separate, while also keeping out any draughts.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+There is galvanised sheeting laid on top of the hutches, which also help to prevent any draughts and ensures that the calves are kept warm.
+There is also Yorkshire boarding separating the new calf house and the slatted shed where the replacement heifers are housed. This also helps to keep the shed well-ventilated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The shed is going at a slope, which allows the run-off from inside the hutches to seep into the slatted tank located at the front of the shed.
+The door leading into the shed is the main source for clean air to come through the shed and prevent it from becoming too stuffy and warm.
+After each batch of calves are removed from the shed, it takes Paddy less than an hour to come in and fork out the straw from the stalls and take it out from the shed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Cost
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+So, with the help of his wife Mary and their children Kieran and Mary Kate, they came up with the idea of renovating their old cubicle house - which was used to house their dry cows - and turn it into a new calf housing facility.
+The Condrens - having invested heavily in other areas of the farm - kept the cost of the renovation job to a minimum by carrying out all the work themselves.
+Inside the unit
+Paddy and his family sourced all the materials they needed from: Steel and Spares in Hacketsown, Co. Carlow; Farm Relief Service (FRS) in Tinahely, Co. Wicklow; Marcus P Graham Ironworks in Arklow, Co. Wicklow; and from their local Glanbia co-op in Inch, Co. Wexford.
+
+The list of materials they required are listed (below):
+
+Metal for the feed barriers;
+Boardings for between the cubicles;
+Galvanised sheeting for the top of the hutches;
+Calf feeders;
+Feeding troughs.
+
+
+There are 22 cubicles in the shed, with a capacity to hold 44 calves, with each cubicle fit to hold two calves.
+Each feeding barrier gives access to two cubicles. Attached to the cubicles are boardings, which keeps the individual hutches separate, while also keeping out any draughts.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+There is galvanised sheeting laid on top of the hutches, which also help to prevent any draughts and ensures that the calves are kept warm.
+There is also Yorkshire boarding separating the new calf house and the slatted shed where the replacement heifers are housed. This also helps to keep the shed well-ventilated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The shed is going at a slope, which allows the run-off from inside the hutches to seep into the slatted tank located at the front of the shed.
+The door leading into the shed is the main source for clean air to come through the shed and prevent it from becoming too stuffy and warm.
+After each batch of calves are removed from the shed, it takes Paddy less than an hour to come in and fork out the straw from the stalls and take it out from the shed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Cost
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+The Condrens - having invested heavily in other areas of the farm - kept the cost of the renovation job to a minimum by carrying out all the work themselves.
+Inside the unit
+Paddy and his family sourced all the materials they needed from: Steel and Spares in Hacketsown, Co. Carlow; Farm Relief Service (FRS) in Tinahely, Co. Wicklow; Marcus P Graham Ironworks in Arklow, Co. Wicklow; and from their local Glanbia co-op in Inch, Co. Wexford.
+
+The list of materials they required are listed (below):
+
+Metal for the feed barriers;
+Boardings for between the cubicles;
+Galvanised sheeting for the top of the hutches;
+Calf feeders;
+Feeding troughs.
+
+
+There are 22 cubicles in the shed, with a capacity to hold 44 calves, with each cubicle fit to hold two calves.
+Each feeding barrier gives access to two cubicles. Attached to the cubicles are boardings, which keeps the individual hutches separate, while also keeping out any draughts.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+There is galvanised sheeting laid on top of the hutches, which also help to prevent any draughts and ensures that the calves are kept warm.
+There is also Yorkshire boarding separating the new calf house and the slatted shed where the replacement heifers are housed. This also helps to keep the shed well-ventilated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The shed is going at a slope, which allows the run-off from inside the hutches to seep into the slatted tank located at the front of the shed.
+The door leading into the shed is the main source for clean air to come through the shed and prevent it from becoming too stuffy and warm.
+After each batch of calves are removed from the shed, it takes Paddy less than an hour to come in and fork out the straw from the stalls and take it out from the shed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Cost
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+Paddy and his family sourced all the materials they needed from: Steel and Spares in Hacketsown, Co. Carlow; Farm Relief Service (FRS) in Tinahely, Co. Wicklow; Marcus P Graham Ironworks in Arklow, Co. Wicklow; and from their local Glanbia co-op in Inch, Co. Wexford.
+
+The list of materials they required are listed (below):
+
+Metal for the feed barriers;
+Boardings for between the cubicles;
+Galvanised sheeting for the top of the hutches;
+Calf feeders;
+Feeding troughs.
+
+
+There are 22 cubicles in the shed, with a capacity to hold 44 calves, with each cubicle fit to hold two calves.
+Each feeding barrier gives access to two cubicles. Attached to the cubicles are boardings, which keeps the individual hutches separate, while also keeping out any draughts.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+There is galvanised sheeting laid on top of the hutches, which also help to prevent any draughts and ensures that the calves are kept warm.
+There is also Yorkshire boarding separating the new calf house and the slatted shed where the replacement heifers are housed. This also helps to keep the shed well-ventilated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The shed is going at a slope, which allows the run-off from inside the hutches to seep into the slatted tank located at the front of the shed.
+The door leading into the shed is the main source for clean air to come through the shed and prevent it from becoming too stuffy and warm.
+After each batch of calves are removed from the shed, it takes Paddy less than an hour to come in and fork out the straw from the stalls and take it out from the shed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Cost
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+The list of materials they required are listed (below):
+
+Metal for the feed barriers;
+Boardings for between the cubicles;
+Galvanised sheeting for the top of the hutches;
+Calf feeders;
+Feeding troughs.
+
+There are 22 cubicles in the shed, with a capacity to hold 44 calves, with each cubicle fit to hold two calves.
+Each feeding barrier gives access to two cubicles. Attached to the cubicles are boardings, which keeps the individual hutches separate, while also keeping out any draughts.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+There is galvanised sheeting laid on top of the hutches, which also help to prevent any draughts and ensures that the calves are kept warm.
+There is also Yorkshire boarding separating the new calf house and the slatted shed where the replacement heifers are housed. This also helps to keep the shed well-ventilated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The shed is going at a slope, which allows the run-off from inside the hutches to seep into the slatted tank located at the front of the shed.
+The door leading into the shed is the main source for clean air to come through the shed and prevent it from becoming too stuffy and warm.
+After each batch of calves are removed from the shed, it takes Paddy less than an hour to come in and fork out the straw from the stalls and take it out from the shed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Cost
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+Each feeding barrier gives access to two cubicles. Attached to the cubicles are boardings, which keeps the individual hutches separate, while also keeping out any draughts.
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+There is galvanised sheeting laid on top of the hutches, which also help to prevent any draughts and ensures that the calves are kept warm.
+There is also Yorkshire boarding separating the new calf house and the slatted shed where the replacement heifers are housed. This also helps to keep the shed well-ventilated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The shed is going at a slope, which allows the run-off from inside the hutches to seep into the slatted tank located at the front of the shed.
+The door leading into the shed is the main source for clean air to come through the shed and prevent it from becoming too stuffy and warm.
+After each batch of calves are removed from the shed, it takes Paddy less than an hour to come in and fork out the straw from the stalls and take it out from the shed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Cost
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+There is galvanised sheeting laid on top of the hutches, which also help to prevent any draughts and ensures that the calves are kept warm.
+There is also Yorkshire boarding separating the new calf house and the slatted shed where the replacement heifers are housed. This also helps to keep the shed well-ventilated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The shed is going at a slope, which allows the run-off from inside the hutches to seep into the slatted tank located at the front of the shed.
+The door leading into the shed is the main source for clean air to come through the shed and prevent it from becoming too stuffy and warm.
+After each batch of calves are removed from the shed, it takes Paddy less than an hour to come in and fork out the straw from the stalls and take it out from the shed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Cost
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+There is also Yorkshire boarding separating the new calf house and the slatted shed where the replacement heifers are housed. This also helps to keep the shed well-ventilated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+The shed is going at a slope, which allows the run-off from inside the hutches to seep into the slatted tank located at the front of the shed.
+The door leading into the shed is the main source for clean air to come through the shed and prevent it from becoming too stuffy and warm.
+After each batch of calves are removed from the shed, it takes Paddy less than an hour to come in and fork out the straw from the stalls and take it out from the shed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Cost
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+The shed is going at a slope, which allows the run-off from inside the hutches to seep into the slatted tank located at the front of the shed.
+The door leading into the shed is the main source for clean air to come through the shed and prevent it from becoming too stuffy and warm.
+After each batch of calves are removed from the shed, it takes Paddy less than an hour to come in and fork out the straw from the stalls and take it out from the shed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Cost
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+The door leading into the shed is the main source for clean air to come through the shed and prevent it from becoming too stuffy and warm.
+After each batch of calves are removed from the shed, it takes Paddy less than an hour to come in and fork out the straw from the stalls and take it out from the shed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Cost
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+After each batch of calves are removed from the shed, it takes Paddy less than an hour to come in and fork out the straw from the stalls and take it out from the shed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+Cost
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+If the Condrens hadn't thought of renovating the old cubicle house, it would be laying idle, with possibly a few replacement heifers being housed in it for the winter period instead.
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+Speaking to AgriLand, Paddy said: "I was struggling for calf housing, because before this I would only have had enough space for about 35 calves.
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+"Whereas now, I can hold up too well over 80 calves. The fact that calves have to be kept on the farm for at least 10 days was also another reason why we needed to expand our facilities as well.
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it.
+"The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+I am very happy with how it turned out and I'm glad we were able to make use of the shed, because it has been there since the mid-1960s, so it's great that we can continue to use it."The only thing left to do now is to make a few more hayracks, which I can do myself and buy a couple of feeding troughs as well," Paddy concluded.
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+The cost of renovating the shed was EUR1,700, which works out at just over EUR77 per hutch. However, by the time the entire shed is kitted out, Paddy believes it will cost him just over EUR2,300.
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+
+
+
+CLASSIFIED ADVERTS
+
+
+    #feedzy_wp_widget-2 {
+        background: white;
+        border-color: black;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .feedzy-rss ul {
+        background: white;
+        color:black;
+        font-size: 15px;
+    }
+    #feedzy_wp_widget-2 h3.widget-title {
+        background: #efd20c;
+        color: black;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        width: 291px;
+        position: relative;
+        left: -6px;
+    }
+    li.rss_item {
+        padding-top: 0px !important;
+        padding-bottom :0px !important;
+    }
+    .feedzy-rss .rss_item .title a:link,
+    .feedzy-rss .rss_item .title a:visited{
+        color:black;
+        position: relative;
+        top: 15px;
+    }
+
+
+    /* Feedyz RSS*/
+
+
+    @media screen and (max-width: 400px) {
+        .rss_description {
+            display: none;
+        }
+        .HaystackFeedHeader {
+            background: #efd20c;
+            color: black !important;
+            text-align: center !important;
+            font-weight: 600 !important;
+            text-transform: capitalize !important;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 80px !important;
+            padding-right: 80px  !important;
+        }
+        .haystackFeedFooter1 {
+            padding-top:10px;
+            margin-bottom: -15px !important;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-bottom:10px;
+            list-style:none;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+        .haystackMobileFeed {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    }
+    @media screen and (min-width: 401px) {
+        .haystackMobileFeed {
+            display: none;
+        }
+        .haystackFeedFooter2 {
+            background: #efd20c;
+            text-align: center;
+            border-bottom: 0px !important;
+            font-weight: 900;
+            padding-left: 40px !important;
+            padding-right:40px !important;
+            margin-left:0px;
+        }
+        .haystackFeedFooter1 {
+            padding-left: 20px !important; ;
+            padding-right:20px !important;
+            margin-bottom: -25px;
+            margin-left: 0px;
+        }
+    }
+
+    .rss_content {
+        margin-top: 25px;
+    }
+    .haystackFeedFooter1 {
+        background: #efd20c !important;
+        text-align: center !important;
+        border-bottom: 0px !important;
+        font-weight: 900 !important;
+    }
+
+
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 6150R & QUICKE 66 LOADER 
+
+
+EUR75,000
+
+
+
+
+
+ 
+
+
+
+JOHN DEERE 7230R, 2012 
+
+
+EUR1
+
+
+
+
+
+ 
+
+
+
+John Deere 1950 compact tractor 
+
+
+EUR8,100
+
+
+
+
+
+ 
+
+
+
+CLASS ARION 640 CMATIC FAR SALE 
+
+
+EUR1
+
+
+Powered By
+
+
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Buildings focus: A 16-unit parlour; drafting area; cubicles; and calf house under one roof 
+
+
+
+EUR75,000EUR1EUR8,100EUR1

@@ -1,0 +1,1000 @@
+Auction report Betting on ‘blue’ at big February gatheringMonday, February 11, saw the latest monthly Cambridge Machinery Sales auction take place at Cheffins Auctioneers' sale grounds in Sutton, Cambridge (England).
+This report focuses on the older Ford / New Holland tractors present - ranging (in this report) from an original-looking 4600 up to a couple of (white-roof; SLE) 8240 models.
+In accompanying articles, we look at a variety of other big-name brands.
+Tim Scrivener was at the auction for AgriLand to take these photographs and to note the key prices. All of the pictures in this report are from Monday's auction.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Any statement of recorded hours may simply be a reflection of what's visible on the tractor's odometer or, if that's not available, what's claimed in the auction catalogue.
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (9,810 hours) sold for PS7,200
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (2,404 hours) sold for PS10,600
+
+
+
+
+
+
+
+
+This New Holland / Ford 7740 (8,332 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This Ford 6610 (Dual Power; Q cab; 7,407 hours) sold for PS4,500
+
+
+
+
+
+
+
+
+This 1984 Ford 5610 (Dual Power; floor-change gearbox; 'one owner from new'; 9,390 hours) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1975 Ford 4600 ('straight from the farm') sold for PS3,700
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Old-school' MF workhorses change hands at big February sale 
+
+
+
+This report focuses on the older Ford / New Holland tractors present - ranging (in this report) from an original-looking 4600 up to a couple of (white-roof; SLE) 8240 models.
+In accompanying articles, we look at a variety of other big-name brands.
+Tim Scrivener was at the auction for AgriLand to take these photographs and to note the key prices. All of the pictures in this report are from Monday's auction.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Any statement of recorded hours may simply be a reflection of what's visible on the tractor's odometer or, if that's not available, what's claimed in the auction catalogue.
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (9,810 hours) sold for PS7,200
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (2,404 hours) sold for PS10,600
+
+
+
+
+
+
+
+
+This New Holland / Ford 7740 (8,332 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This Ford 6610 (Dual Power; Q cab; 7,407 hours) sold for PS4,500
+
+
+
+
+
+
+
+
+This 1984 Ford 5610 (Dual Power; floor-change gearbox; 'one owner from new'; 9,390 hours) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1975 Ford 4600 ('straight from the farm') sold for PS3,700
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Old-school' MF workhorses change hands at big February sale 
+
+
+
+In accompanying articles, we look at a variety of other big-name brands.
+Tim Scrivener was at the auction for AgriLand to take these photographs and to note the key prices. All of the pictures in this report are from Monday's auction.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Any statement of recorded hours may simply be a reflection of what's visible on the tractor's odometer or, if that's not available, what's claimed in the auction catalogue.
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (9,810 hours) sold for PS7,200
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (2,404 hours) sold for PS10,600
+
+
+
+
+
+
+
+
+This New Holland / Ford 7740 (8,332 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This Ford 6610 (Dual Power; Q cab; 7,407 hours) sold for PS4,500
+
+
+
+
+
+
+
+
+This 1984 Ford 5610 (Dual Power; floor-change gearbox; 'one owner from new'; 9,390 hours) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1975 Ford 4600 ('straight from the farm') sold for PS3,700
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Old-school' MF workhorses change hands at big February sale 
+
+
+
+Tim Scrivener was at the auction for AgriLand to take these photographs and to note the key prices. All of the pictures in this report are from Monday's auction.
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Any statement of recorded hours may simply be a reflection of what's visible on the tractor's odometer or, if that's not available, what's claimed in the auction catalogue.
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (9,810 hours) sold for PS7,200
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (2,404 hours) sold for PS10,600
+
+
+
+
+
+
+
+
+This New Holland / Ford 7740 (8,332 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This Ford 6610 (Dual Power; Q cab; 7,407 hours) sold for PS4,500
+
+
+
+
+
+
+
+
+This 1984 Ford 5610 (Dual Power; floor-change gearbox; 'one owner from new'; 9,390 hours) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1975 Ford 4600 ('straight from the farm') sold for PS3,700
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Old-school' MF workhorses change hands at big February sale 
+
+
+
+
+
+
+                            // googletag.cmd.push(function() { googletag.display('div-gpt-ad-1511797470075-0'); });
+                            
+
+Advertisement
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Any statement of recorded hours may simply be a reflection of what's visible on the tractor's odometer or, if that's not available, what's claimed in the auction catalogue.
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (9,810 hours) sold for PS7,200
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (2,404 hours) sold for PS10,600
+
+
+
+
+
+
+
+
+This New Holland / Ford 7740 (8,332 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This Ford 6610 (Dual Power; Q cab; 7,407 hours) sold for PS4,500
+
+
+
+
+
+
+
+
+This 1984 Ford 5610 (Dual Power; floor-change gearbox; 'one owner from new'; 9,390 hours) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1975 Ford 4600 ('straight from the farm') sold for PS3,700
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Old-school' MF workhorses change hands at big February sale 
+
+
+
+All (hammer) prices are subject to a 'buyer's premium' of 2%.
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Any statement of recorded hours may simply be a reflection of what's visible on the tractor's odometer or, if that's not available, what's claimed in the auction catalogue.
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (9,810 hours) sold for PS7,200
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (2,404 hours) sold for PS10,600
+
+
+
+
+
+
+
+
+This New Holland / Ford 7740 (8,332 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This Ford 6610 (Dual Power; Q cab; 7,407 hours) sold for PS4,500
+
+
+
+
+
+
+
+
+This 1984 Ford 5610 (Dual Power; floor-change gearbox; 'one owner from new'; 9,390 hours) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1975 Ford 4600 ('straight from the farm') sold for PS3,700
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Old-school' MF workhorses change hands at big February sale 
+
+
+
+Prices are also subject to VAT at the local rate (i.e. VAT must be added to all of the hammer/sale prices in the captions below).
+Any statement of recorded hours may simply be a reflection of what's visible on the tractor's odometer or, if that's not available, what's claimed in the auction catalogue.
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (9,810 hours) sold for PS7,200
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (2,404 hours) sold for PS10,600
+
+
+
+
+
+
+
+
+This New Holland / Ford 7740 (8,332 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This Ford 6610 (Dual Power; Q cab; 7,407 hours) sold for PS4,500
+
+
+
+
+
+
+
+
+This 1984 Ford 5610 (Dual Power; floor-change gearbox; 'one owner from new'; 9,390 hours) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1975 Ford 4600 ('straight from the farm') sold for PS3,700
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Old-school' MF workhorses change hands at big February sale 
+
+
+
+Any statement of recorded hours may simply be a reflection of what's visible on the tractor's odometer or, if that's not available, what's claimed in the auction catalogue.
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (9,810 hours) sold for PS7,200
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (2,404 hours) sold for PS10,600
+
+
+
+
+
+
+
+
+This New Holland / Ford 7740 (8,332 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This Ford 6610 (Dual Power; Q cab; 7,407 hours) sold for PS4,500
+
+
+
+
+
+
+
+
+This 1984 Ford 5610 (Dual Power; floor-change gearbox; 'one owner from new'; 9,390 hours) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1975 Ford 4600 ('straight from the farm') sold for PS3,700
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Old-school' MF workhorses change hands at big February sale 
+
+
+
+Click on a thumbnail in the gallery (below) to open up a full-size image; once opened you can scroll sideways to see the next picture. Refer to each caption to see details of each lot, including the hammer price.
+
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (9,810 hours) sold for PS7,200
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (2,404 hours) sold for PS10,600
+
+
+
+
+
+
+
+
+This New Holland / Ford 7740 (8,332 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This Ford 6610 (Dual Power; Q cab; 7,407 hours) sold for PS4,500
+
+
+
+
+
+
+
+
+This 1984 Ford 5610 (Dual Power; floor-change gearbox; 'one owner from new'; 9,390 hours) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1975 Ford 4600 ('straight from the farm') sold for PS3,700
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Old-school' MF workhorses change hands at big February sale 
+
+
+
+
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (9,810 hours) sold for PS7,200
+
+
+
+
+
+
+
+
+This 1994 Ford 8240 (2,404 hours) sold for PS10,600
+
+
+
+
+
+
+
+
+This New Holland / Ford 7740 (8,332 hours) sold for PS9,500
+
+
+
+
+
+
+
+
+This Ford 6610 (Dual Power; Q cab; 7,407 hours) sold for PS4,500
+
+
+
+
+
+
+
+
+This 1984 Ford 5610 (Dual Power; floor-change gearbox; 'one owner from new'; 9,390 hours) sold for PS5,200
+
+
+
+
+
+
+
+
+This 1975 Ford 4600 ('straight from the farm') sold for PS3,700
+
+jQuery(document).ready(function($){
+					if($('link[id=\'agriland-gallery-style-css\']').length > 0){
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+					}else{
+						$('head').append('<link rel=\'stylesheet\' id=\'agriland-gallery-style-css\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lightgallery.css\'>');
+						$('head').append('<link rel=\'stylesheet\' href=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/css/lg-transitions.css\'>');
+						$('head').append('<script type=\'text/javascript\' src=\'https://www.agriland.ie/wp-content/plugins/agriland-gallery/js/lightgallery-all.min.js\'>');
+						$('.agriland-gallery').lightGallery({
+						    thumbnail:true,
+						    subHtmlSelectorRelative: true,
+						    googlePlus: false,
+						}); 
+
+					}
+					});
+
+
+CLASSIFIED ADVERTS
+
+
+
+
+RELATED STORIES
+
+
+
+
+ 
+Auction report: 'Old-school' MF workhorses change hands at big February sale 
+
+
+

@@ -9,6 +9,10 @@ bin-release/
 
 my_notes.txt
 
+# for big files, no errors
+*.nc
+*.DS_store
+
 .ipynb_checkpoints
 
 # Executables

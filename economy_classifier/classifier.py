@@ -41,7 +41,7 @@ def make_node_structure() -> Node:
                                'finance/crypto/crypto_classifier_CV.sav'),
                   {'bitcoin': Node('bitcoin'), 'dash': Node('dash'),
                    'ethereum': Node('ethereum'), 'litecoin': Node('litecoin'),
-                   'monero': Node('monero'), 'ripple': Node('ripple'), 'zash': Node('zash')})
+                   'monero': Node('monero'), 'ripple': Node('ripple'), 'zash': Node('zash')})    
 
     energy = Node('energy', os.path.join(os.path.abspath(os.curdir),
                                          'finance/energy/energy_classifier_RF.sav'),

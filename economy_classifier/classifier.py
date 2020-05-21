@@ -108,12 +108,6 @@ def article_classification_tree(article: str, node=make_node_structure(), diff_c
     return diction
 
 
-article_path = r'../categories_articles/energy/‘I love energy,’ says trader who sees tremendous buying opportunity in the space.txt'
-f = open(article_path, 'r')
-f = f.read()
-
-print(article_classification_tree(f))
+# print(article_classification_tree(article))
 
 # поменяй статью 
-
-# качай всю папку economy_classifier
